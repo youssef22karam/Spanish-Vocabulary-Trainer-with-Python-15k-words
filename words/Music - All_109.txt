@@ -1,0 +1,109 @@
+score,la partitura
+staff,la pauta
+lyrics,la letra
+to strum,rasguear
+piccolo,el flautín
+conductor,el director de orquesta
+turntable,el plato
+semibreve,la redonda
+whole note,la redonda
+intro,la intro
+breve,la cuadrada
+maestro,el maestro
+piece,la composición
+cover,el cover
+pianist,el/la pianista
+to twerk,perrear
+duo,el dúo
+solo,el solo
+trio,el terceto
+album,el álbum
+cumbia,la cumbia
+saxophone,el saxofón
+performance,la performance
+tenor,el tenor
+soprano,el/la soprano
+high,agudo
+low,grave
+tango,el tango
+minor,menor
+bachata,la bachata
+musical,musical
+musical,el musical
+minim,la blanca
+half note,la blanca
+flamenco,el flamenco
+key,la tecla
+clef,la clave
+to perform,ejecutar
+note,la nota
+rhythm,el compás
+tempo,el tempo
+movement,el movimiento
+listeners,el público
+audience,el público
+mix,la mezcla
+harmony,la armonía
+modulation,la modulación
+salsa,la salsa
+keyboard,el teclado
+piano,el piano
+rap,el rap
+percussión,la percusión
+drum kit,la batería
+to listen,escuchar
+track,la pista
+stanza,la estrofa
+verse,la estrofa
+rock,el rock
+MP3,el MP3
+CD,CD
+conductor,el director
+musical instrument,instrumento musical
+voice,la voz
+scale,la escala
+genre,el género
+star,la estrella
+hit,el éxito
+hit,el hit
+swing,el swing
+fan,el/la fan
+choir,el coro
+chorus,el estribillo
+studio,el estudio
+concert,el concierto
+rest,el silencio
+soundbox,la caja
+drum,el tambor
+pop,el pop
+instrument,el instrumento
+dance,el baile
+singer,el/la cantante
+harp,el arpa
+trumpet,la trompeta
+clarinet,el clarinete
+cello,el cello
+flute,la flauta
+organ,el órgano
+la,el la
+G,el sol
+F,el fa
+E,el mi
+D,el re
+C,el do
+bass,el bajo
+music,la música
+to play,tocar
+to sing,cantar
+to tune,afinar
+to record,grabar
+to accompany,acompañar
+to arrange,hacer los arreglos de
+to compose,componer
+to conduct,dirigir
+to hum,tararear
+to sing in tune,afinar
+to pluck,puntear
+to strum,tañer
+to strike,pisar
+to drum,tamborilear

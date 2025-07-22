@@ -1,0 +1,139 @@
+one hundred,cien
+three quarters,tres cuartos
+half,la mitad
+third,el tercio
+two thirds,dos tercios
+fourth,cuarta parte
+fifth,quinta parte
+sixth,la sexta parte
+seventh,la séptima parte
+one-eighth,octava parte
+one hundred,ciento
+two hundred,doscientos
+three hundred,trescientos
+four hundred,cuatrocientos
+five hundred,quinientos
+six hundred,seiscientos
+seven hundred,el setecientos
+eight hundred,ochocientos
+nine hundred,novecientos
+thousand,mil
+twentieth,vigésimo
+nineteenth,decimonoveno
+eighteenth,decimoctavo
+seventeenth,decimoséptimo
+sixteenth,decimosexto
+fifteenth,decimoquinto
+fourteenth,decimocuarto
+thirteenth,decimotercero
+twelfth,duodécimo
+eleventh,undécimo
+tenth,décimo
+ninth,noveno
+eighth,octavo
+seventh,séptimo
+sixth,sexto
+fifth,quinto
+fourth,cuarto
+third,tercero
+second,segundo
+first,primero
+ninety-nine,noventa y nueve
+ninety-eight,noventa y ocho
+ninety-seven,noventa y siete
+ninety-six,noventa y seis
+ninety-five,noventa y cinco
+ninety-four,noventa y cuatro
+ninety-three,noventa y tres
+ninety-two,noventa y dos
+ninety-one,noventa y uno
+ninety,noventa
+eighty-nine,ochenta y nueve
+eighty-eight,el ochenta y ocho
+eighty-seven,ochenta y siete
+eighty-six,ochenta y seis
+eighty-five,ochenta y cinco
+eighty-four,ochenta y cuatro
+eighty-three,ochenta y tres
+eighty-two,ochenta y dos
+eighty-one,ochenta y uno
+eighty,ochenta
+seventy-nine,setenta y nueve
+seventy-eight,setenta y ocho
+seventy-seven,setenta y siete
+seventy-six,setenta y seis
+seventy-five,setenta y cinco
+seventy-four,setenta y cuatro
+seventy-three,setenta y tres
+seventy-two,setenta y dos
+seventy-one,setenta y uno
+seventy,setenta
+sixty-nine,sesenta y nueve
+sixty-eight,sesenta y ocho
+sixty-seven,sesenta y siete
+sixty-six,sesenta y seis
+sixty-five,sesenta y cinco
+sixty-four,sesenta y cuatro
+sixty-three,sesenta y tres
+sixty-two,sesenta y dos
+sixty-one,sesenta y uno
+forty-four,cuarenta y cuatro
+sixty,sesenta
+fifty-nine,cincuenta y nueve
+fifty-eight,cincuenta y ocho
+fifty-seven,cincuenta y siete
+fifty-six,cincuenta y seis
+fifty-five,cincuenta y cinco
+fifty-four,cincuenta y cuatro
+fifty-three,cincuenta y tres
+fifty-two,cincuenta y dos
+fifty-one,cincuenta y uno
+fifty,cincuenta
+forty-nine,cuarenta y nueve
+forty-eight,cuarenta y ocho
+forty-seven,cuarenta y siete
+forty-six,cuarenta y seis
+forty-five,cuarenta y cinco
+forty-three,cuarenta y tres
+forty-two,cuarenta y dos
+forty-one,cuarenta y uno
+forty,cuarenta
+thirty-nine,treinta y nueve
+thirty-eight,el treinta y ocho
+thirty-seven,treinta y siete
+thirty-six,treinta y seis
+thirty-five,treinta y cinco
+thirty-four,treinta y cuatro
+thirty-three,treinta y tres
+thirty-two,treinta y dos
+thirty-one,treinta y uno
+thirty,el treinta
+twenty-nine,el veintinueve
+twenty-eight,veintiocho
+twenty-seven,veintisiete
+twenty-six,veintiséis
+twenty-five,veinticinco
+twenty-four,veinticuatro
+twenty-three,veintitrés
+twenty-two,veintidós
+twenty-one,veintiuno
+twenty,veinte
+nineteen,diecinueve
+eighteen,el dieciocho
+seventeen,diecisiete
+sixteen,dieciséis
+fifteen,quince
+fourteen,el catorce
+thirteen,trece
+twelve,doce
+eleven,once
+ten,diez
+nine,nueve
+eight,ocho
+seven,siete
+six,seis
+five,cinco
+four,cuatro
+three,tres
+two,dos
+one,uno

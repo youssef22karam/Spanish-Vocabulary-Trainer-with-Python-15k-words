@@ -1,0 +1,73 @@
+gym,el gimnasio
+hangar,el hangar
+parking garage,el garaje
+lighthouse,el faro
+train station,estación de ferrocarril
+bus station,la estación de autobuses
+airport,el aeropuerto
+bunker,el búnker
+barracks,el cuartel
+parliament,el parlamento
+post office,la oficina de correos
+police station,la comisaría
+fire station,la estación de bomberos
+embassy,la embajada
+courthouse,el palacio de justicia
+town hall,el ayuntamiento
+city hall,la alcaldía
+mosque,la mezquita
+pagoda,la pagoda
+temple,el templo
+synagogue,la sinagoga
+shrine,la ermita
+chapel,la capilla
+cathedral,la catedral
+church,la iglesia
+museum,el museo
+library,la biblioteca
+arena,la arena
+windmill,el molino de viento
+stable,el establo
+silo,el silo
+greenhouse,el invernadero
+granary,el granero
+farmhouse,la masada
+funeral home,la funeraria
+theater,el teatro
+car wash,el lavacoches
+resort,el complejo turístico
+casino,el casino
+inn,la posada
+motel,el motel
+hotel,el hotel
+prison,la prisión
+jail,la cárcel
+dormitory,la residencia estudiantil
+retirement home,el asilo de ancianos
+duplex,el adosado
+cottage,el casita de campo
+barn,el granero
+farm,la granja
+ranch,el rancho
+estate,la posesión
+property,la finca
+storehouse,el almacén
+construction,la construcción
+work,las obras
+hospital,el hospital
+school,la escuela
+office,la oficina
+factory,la factoría
+hut,la choza
+shopping center,las galerías
+mall,el centro comercial
+restaurant,el restaurante
+shelter,el refugio
+condominium,el condominio
+apartment building,el edificio de apartamentos
+house,la casa
+shed,la caseta
+design,la traza
+architecture,la arquitectura
+warehouse,el almacén
+building,el edificio

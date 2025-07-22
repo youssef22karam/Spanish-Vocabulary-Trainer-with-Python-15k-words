@@ -1,0 +1,66 @@
+kiosk,el quiosco
+beauty product,el cosmético
+voucher,el bono
+gift card,la tarjeta de regalo
+consumerism,el consumismo
+fee,la cuota
+shopper,el comprador
+to get,conseguir
+bar code,el código de barras
+cash register,la caja
+cart,el carrito
+customer,el cliente
+change,el vuelto
+value,el valor
+return,la devolución
+refund,la devolución
+to reimburse,reembolsar
+bargain,la ganga
+shelves,la estantería
+price,el precio
+camera,la cámara
+security guard,el/la guardia de seguridad
+to steal,robar
+department store,los grandes almacenes
+paper bag,la bolsa de papel
+plastic bag,la bolsa de plástico
+bag,la bolsa
+online shopping,compras online
+mall,el centro comercial
+purchase,la compra
+worth,el precio
+to sell,vender
+retail,minorista
+market,el mercado
+shop assistant,el dependiente
+manager,el/la gerente
+item,el artículo
+check,el cheque
+credit card,la tarjeta de crédito
+cash,el efectivo
+money,el dinero
+sale,la liquidación
+sale,la venta
+discount,el descuento
+to save,ahorrar
+to spend,gastar
+VAT,IVA
+sales tax,IVU
+sales tax,la alcabala
+to cost,costar
+cost,el coste
+to pay for,pagar
+to buy,comprar
+trendy,fashion
+luxury,el lujo
+reasonable,razonable
+affordable,asequible
+cheap,barato
+expensive,caro
+shoe,el zapato
+clothing,la ropa
+makeup,el maquillaje
+stall,el tenderete
+stand,el puesto
+shop,la tienda
+shopping,las compras

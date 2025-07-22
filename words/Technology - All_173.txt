@@ -1,0 +1,173 @@
+what,q
+what,k
+xoxo,tqm
+too,tb
+database,la base de datos
+table,la tabla
+programming,la programación
+search,la búsqueda
+query,la consulta
+script,el script
+asterisk,el asterisco
+semicolon,el punto y coma
+quotation marks,las comillas
+parenthesis,el paréntesis
+integer,el número entero
+decimal,decimal
+loop,el bucle
+hyphen,el guion
+underscore,el guion bajo
+parameter,el parámetro
+data,la información
+data,los datos
+syntax,la sintaxis
+feature,la prestación
+to log off,cerrar sesión
+to log off,desconectarse
+to go online,entrar en línea
+to attach,adjuntar
+to open,abrir
+to close,cancelar
+to enter,introducir
+to press,pulsar
+to press,oprimir
+to scroll,desplazar
+to click,cliquear
+to click on,hacer clic en
+to install,instalar
+to load,cargarse
+to connect,conectar
+to link,enlazar
+simulation,la simulación
+application,app
+to scan,escanear
+to print,imprimir
+command,la instrucción
+to enter,ingresar
+headphones,los auriculares
+to format,formatear
+computer science,la computación
+to program,programar
+program,el programa
+to refresh,actualizar
+speaker,el altavoz
+to charge,cargar
+user,el usuario
+portal,el portal
+to pirate,piratear
+piracy,la piratería
+SEO,SEO
+Web,el/la web
+device,el aparato
+video,el video
+RAM,RAM
+PIN,el pin
+software,el software
+hardware,el hardware
+microchip,el microchip
+chip,el chip
+to chat,chatear
+apparatus,el aparato
+machine,la máquina
+device,el dispositivo
+process,el procedimiento
+system,el sistema
+hacker,el/la hacker
+to hack,hackear
+virus,el virus
+bug,el bug
+to connect,hacer conexión
+to search for,buscar
+to Google,guglear
+to Google,consultar en Google
+streaming,el streaming
+video call,la videollamada
+link,el enlace
+battery,la pila
+battery,la batería
+to cut,cortar
+to delete,borrar
+to paste,pegar
+to save,guardar
+to copy,copiar
+environment,el entorno
+port,el puerto
+input,el input
+cookie,la cookie
+hosting,el hosting
+username,el nombre de usuario
+password,la contraseña
+virtual,virtual
+screen,la pantalla
+website,el sitio web
+webpage,la página web
+to WhatsApp,hablar por WhatsApp
+WhatsApp,WhatsApp
+offline,offline
+online,online
+computer expert,el informático
+to cancel,cancelar
+attached,anexo
+PC,PC
+desktop,el escritorio
+desktop,la computador de escritorio
+to surf,navegar por
+keywords,las palabras clave
+hashtag,el hashtag
+to tag,etiquetar
+to key in,picar
+hit,el jit
+FYI,para tu información
+ASAP,lo antes posible
+mode,el modo
+to hang up,colgar el teléfono
+to pick up,descolgar
+photo,la foto
+status,el estado
+message,la razón
+message,el recado
+keyboard,el teclado
+mouse,el ratón
+to restart,reinicializar
+to turn off,apagar
+to turn on,encender
+to call,llamar
+communication,la comunicación
+profile,el perfil
+like,el me gusta
+follower,el seguidor
+smartphone,el smartphone
+social network,la red social
+to stream,ver en streaming
+to download,descargar
+to upload,subir
+to share,compartir
+Wi-Fi,el/la wifi
+wireless,wireless
+cable,el cable
+radio,el radio
+programmer,el programador
+cloud,en la nube
+server,el servidor
+console,la consola
+video game,el videojuego
+to answer,contestar
+game,el juego
+television,la televisión
+network,la red
+SMS,el SMS
+text message,el mensaje de texto
+email address,la dirección de correo electrónico
+to email,enviar por correo electrónico
+to log out,cerrar sesión
+log in,inicia sesión
+friend,el amigo
+to follow,seguir
+cellphone,el celular
+cellphone,el móvil
+tablet,la tableta
+laptop,el/la portátil
+laptop,la laptop
+computer,el ordenador
+Internet,el/la Internet
+technology,la tecnología

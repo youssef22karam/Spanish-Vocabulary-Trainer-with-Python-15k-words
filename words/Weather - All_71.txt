@@ -1,0 +1,71 @@
+avalanche,el alud
+mudslide,el huaico
+landslide,el alud
+drought,la sequía
+mist,la neblina
+haze,la calina
+fresh,fresco
+fury,la ira
+what the weather is like,qué tiempo hace
+the weather is bad,hace mal tiempo
+the weather is nice,hace buen tiempo
+dew,el rocío
+frost,la escarcha
+breeze,la brisa
+wind,el viento
+thunder,el trueno
+bolt of lightning,el relámpago
+low,la mínima
+high,la máxima
+blue sky,cielo azul
+front,el frente
+report,el informe
+forecast,el pronóstico
+north wind,el norte
+south wind,el sur
+snowflake,el copo de nieve
+hailstone,el granizo
+degree,el grado
+raincoat,el chubasquero
+umbrella,el paraguas
+natural disaster,el catástrofe natural
+rainbow,el arco iris
+global warming,el calentamiento global
+climate change,el cambio climático
+ice cold,helado
+stone cold,helado
+freezing,polar
+temperature,la temperatura
+eye,el vórtice
+nasty,feo
+unpleasant,destemplado
+to clear up,escampar
+clear,despejado
+overcast,gris
+calm,calmado
+blizzard,la ventisca
+flood,la inundación
+tornado,el tornado
+hurricane,el huracán
+storm,la tormenta
+heat,el calor
+foggy,brumoso
+cloudy,nublado
+cloud,la nube
+sun,el sol
+downpour,el chaparrón
+to fall,descender
+to rise,subir
+sunny,asoleado
+muggy,bochornoso
+hail,el granizo
+snow,la nieve
+humid,húmedo
+hazy,vaporoso
+hot,caliente
+warm,cálido
+chilly,el fresquito
+cold,frío
+rain,la lluvia
+climate,el clima
+weather,el tiempo

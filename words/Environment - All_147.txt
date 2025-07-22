@@ -1,0 +1,147 @@
+earthquake,el terremoto
+glacier,el glaciar
+wildlife,la vida silvestre
+smog,el smog
+self-sufficient,autosuficiente
+to rely on,depender de
+reforestation,la reforestación
+protest,la protesta
+to protect,proteger
+pesticide,el pesticida
+pollutant,el contaminante
+food chain,cadena alimentaria
+ecosystem,el ecosistema
+eco-friendly,ecológico
+dump,el vertedero
+to donate,donar
+developing country,el país en desarrollo
+contaminated,viciado
+to consume,consumir
+compost,el compost
+felling,la tala
+carpool,personas que comparten vehículo
+ban,la prohibición
+fossil fuels,los combustibles fósiles
+preservation,la preservación
+tidal,mareomotriz
+solar energy,la energía solar
+toxic,tóxico
+to threaten,amenazar
+sewage,aguas residuales
+reusable,reutilizable
+rainforest,bosque lluvioso
+to purify,purificar
+precipitation,la precipitación
+poisonous,venenoso
+poison,el veneno
+natural gas,el gas natural
+leak,la fuga
+heavy metal,el metal pesado
+hydrocarbon,el hidrocarburo
+heat wave,la ola de calor
+harm,el perjuicio
+fumes,el humo
+fertilizer,el abono
+to erode,erosionar
+environmentalist,el/la ecologista
+to die out,extinguirse
+animal,el animal
+creature,el bicho
+catastrophe,la catástrofe
+biosphere,la biosfera
+oil spill,el derrame de petróleo
+to use up,gastar
+sustainable development,el desarrollo sostenible
+renewable energy,la energía renovable
+greenhouse effect,el efecto invernadero
+extinct,extinto
+extinction,la extinción
+conservation,la conservación
+energy,la energía
+endangered species,especies en peligro de extinción
+disposable,desechable
+desertification,la desertización
+deforestation,la deforestación
+carbon dioxide,el dióxido de carbono
+carbon monoxide,el monóxido de carbono
+biodiversity,la biodiversidad
+biodegradable,biodegradable
+incentive,el incentivo
+politics,la política
+policy,la política
+to throw away,tirar
+to recycle,reciclar
+to reuse,reutilizar
+recycling,el reciclaje
+renewable,renovable
+depletion,el agotamiento
+natural resource,el recurso natural
+litter,la basura
+drought,la sequía
+dry,seco
+humid,húmedo
+natural disaster,el desastre natural
+carbon footprint,huella de carbono
+volcano,el volcán
+lava,la lava
+atmosphere,la atmósfera
+ecologist,el/la ecologista
+ecology,la ecología
+global,global
+emission,la emanación
+climate change,el cambio climático
+global warming,el calentamiento global
+mountain,la montaña
+sky,el cielo
+downpour,el aguacero
+deluge,el diluvio
+flood,la inundación
+landslide,el alud
+waterspout,la tromba
+typhoon,el tifón
+hurricane,el huracán
+tornado,el tornado
+storm,la tormenta
+cold,frío
+heat,el calor
+snow,la nieve
+sun,el sol
+wave,la ola
+pool,la poza
+base,la base
+acidic,ácido
+world,el mundo
+chemistry,la química
+biology,la biología
+grass,la hierba
+Earth,la Tierra
+ozone layer,la capa de ozono
+ozone,el ozono
+carbon,el carbono
+acid rain,la lluvia ácida
+rain,la lluvia
+aquifer,el acuífero
+ground,el suelo
+dirt,la tierra
+green,ecologista
+bog,el cenagal
+swamp,el pantano
+gulf,el golfo
+delta,el delta
+tributary,el afluente
+brook,el riachuelo
+stream,el arroyo
+river,el río
+lake,el lago
+ocean,el océano
+sea,el/la mar
+contamination,la contaminación
+pollution,la contaminación
+air,el aire
+water,el agua
+tree,el árbol
+outside,fuera
+weather,el tiempo
+plant,la planta
+climate,el clima
+environment,el medio ambiente

@@ -1,0 +1,46 @@
+American,estadounidense
+New Zealander,el neozelandés
+Australian,el australiano
+Canadian,el/la canadiense
+British,británico
+Filipino,el filipino
+Nigerian,nigeriano
+Pakistani,el/la pakistaní
+Indian,el indio
+Bolivian,el boliviano
+Costa Rican,el/la costarricense
+Ecuadorian,el ecuatoriano
+Salvadorian,el salvadoreño
+Spaniard,el español
+Guatemalan,el guatemalteco
+Honduran,el hondureño
+Nicaraguan,el/la nicaragüense
+Panamanian,el panameño
+Paraguayan,el paraguayo
+Uruguayan,el uruguayo
+Venezuelan,el venezolano
+Guinean,el guineo
+Peruvian,el peruano
+Puerto Rican,boricua
+Portuguese,portugués
+Italian,italiano
+Chilean,el chileno
+Thai,el tailandés
+Bulgarian,búlgaro
+Argentine,el argentino
+African,africano
+Asian,asiático
+European,europeo
+German,el alemán
+Colombian,el colombiano
+Puerto Rican,puertorriqueño
+Chinese,chino
+Korean,el coreano
+Dominican,dominicano
+Japanese,japonés
+French,francés
+Cuban,el cubano
+Mexican,el mexicano
+English,inglés
+nationality,la nacionalidad
+Spanish,español

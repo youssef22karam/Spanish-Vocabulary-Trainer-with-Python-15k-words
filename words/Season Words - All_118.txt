@@ -1,0 +1,118 @@
+coat,el abrigo
+blizzard,la ventisca
+boot,la bota
+fireplace,la chimenea
+cold,el resfriado
+cold,frío
+comforter,el edredón
+flannel,la franela
+freezing rain,lluvia engelante
+frostbite,la congelación
+freezing,congelado
+snowflake,el copo de nieve
+frozen,congelado
+glove,el guante
+heating,la calefacción
+to hibernate,hibernar
+hypothermia,la hipotermia
+hockey,el hockey
+hot chocolate,el chocolate caliente
+ice,el hielo
+icicle,el carámbano
+ice skate,el patín de hielo
+icy,gélido
+log,el leño
+mitten,la manopla
+quilt,el edredón
+radiator,el radiador
+flu,la gripe
+air conditioner,el acondicionador de aire
+bathing suit,el traje de baño
+heat,el calor
+baseball,el béisbol
+beach,la playa
+camping,el camping
+fan,el ventilador
+Frisbee,el frisbee
+fruit,la fruta
+gardening,la jardinería
+grass,la hierba
+holiday,el feriado
+humidity,la humedad
+hiking,el senderismo
+ice cream,el helado
+bolt of lightning,el relámpago
+muggy,bochornoso
+ocean,el océano
+outdoor,al aire libre
+park,el parque
+picnic,el pícnic
+Popsicle,la paleta de hielo
+recreation,la recreación
+road trip,el viaje por carretera
+solstice,el solsticio
+sundress,la solera
+sandal,la sandalia
+seashore,la orilla del mar
+sun,el sol
+thunderstorm,la tormenta eléctrica
+birth,el nacimiento
+to blossom,florecer
+bunny,el conejito
+chick,el pollito
+daffodil,el narciso
+Easter,la Pascua
+egg,el huevo
+flower,la flor
+to grow,crecer
+lamb,el cordero
+to melt,derretirse
+nest,el nido
+puddle,el charco
+mud,el barro
+rainbow,el arco iris
+rebirth,el renacimiento
+rain,la lluvia
+robin,el petirrojo
+spring,la primavera
+sunshine,el sol
+spring break,las vacaciones de primavera
+sprout,el retoño
+thaw,el deshielo
+umbrella,el paraguas
+windy,ventoso
+warm,cálido
+allergic,alérgico
+blue sky,cielo azul
+new beginning,nuevo comienzo
+pollen,el polen
+spice,la especia
+nutmeg,la nuez moscada
+cinnamon,la canela
+sugary,azucarado
+orange,naranjado
+clove,el clavo de olor
+coffee,el café
+delicious,rico
+latte,el latte
+ginger,el jengibre
+hat,el gorro
+sweater,el suéter
+scarf,la bufanda
+pumpkin,la calabaza
+pumpkin pie,la tarta de calabaza
+acorn,la bellota
+foliage,el follaje
+pumpkin patch,la huerta de calabazas
+corn,el maíz
+autumnal,otoñal
+harvest,la cosecha
+scarecrow,el espantapájaros
+apple,la manzana
+cider,la sidra
+squirrel,la ardilla
+rake,el rastrillo
+cornucopia,la cornucopia
+crisp,frío y despejado
+autumn,el otoño
+fall,el otoño

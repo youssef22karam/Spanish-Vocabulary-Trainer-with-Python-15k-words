@@ -1,0 +1,138 @@
+mobile,el móvil
+cellphone,el móvil
+phone,el teléfono
+scissors,la tijera
+pencil,el lápiz
+pen,la pluma
+pen,el bolígrafo
+bookcase,la librera
+battery,la pila
+desk,el escritorio
+chair,la silla
+letter,la carta
+Scotch tape,el celo
+ruler,la regla
+rubber band,la gomita
+wastepaper basket,la papelera
+paper clip,el clip
+envelope,la envoltura
+paper,el papel
+printer,la impresora
+computer,el ordenador
+folder,la carpeta
+highlighter,el rotulador fluorescente
+whiteboard,la pizarra blanca
+commerce,el comercio
+project,el proyecto
+to regulate,reglamentar
+supply chain,cadena de suministro
+manager,el/la gerente
+mission,la encomienda
+position,el cargo
+to earn,ganar
+staff,el staff
+demand,la demanda
+consumerism,el consumismo
+dept,dpto.
+to network,establecer contactos
+headquarters,la sede
+office,la oficina
+office,el despacho
+profession,la profesión
+fee,el arancel
+convention,la convención
+resource,el recurso
+advice,el asesoramiento
+branch,la sucursal
+tourism,el turismo
+working,laborable
+agenda,la agenda
+schedule,la agenda
+colleague,el compañero
+agreement,el acuerdo
+motto,el lema
+contact,el contacto
+market,el mercado
+market,el mercado
+cash register,la caja
+tax,el impuesto
+entry,la entrada
+to launch,lanzar
+bank,el banco
+client,el cliente
+customer,el cliente
+delivery,el envío
+demanding,exigente
+survey,la encuesta
+store,la tienda
+consultancy,la asesoría
+form,el formulario
+account,la cuenta
+opinion poll,la encuesta
+trade,el comercio
+commercial,comercial
+open,abierto
+closed,cerrado
+wholesale,la venta al por mayor
+to run,dirigir
+job interview,entrevista de trabajo
+board of directors,el consejo de administración
+board of directors,la junta directiva
+business,los negocios
+international business,negocios internacionales
+container,el container
+reopening,la reapertura
+transport,el transporte
+delivery,la entrega
+budget,el presupuesto
+boss,el jefe
+buying,la compra
+customs,la aduana
+accounting,la contabilidad
+brand,la marca
+to meet,reunirse
+to cheat,engañar
+assignment,la comisión
+organization,la entidad
+venture,la empresa
+president,el presidente
+understanding,el acuerdo
+legal practice,el bufete
+rent,el alquiler
+to rush,enviar urgentemente
+logistics,la logística
+pack,el paquete
+leadership,el liderazgo
+bill,la cuenta
+lease,el leasing
+board,el consejo
+management,la administración
+management,la gestión
+to sell,vender
+agriculture,la agricultura
+meeting,la reunión
+salesperson,el vendedor
+accountant,el/la contable
+council,el consejo
+director,el director
+service,el servicio
+banking,la banca
+to order,encargar
+to label,etiquetar
+plan,el plan
+selling,de venta
+application,la solicitud
+chain,la cadena
+ad,el anuncio
+appointment,la cita
+company,la compañía
+workplace,el lugar de trabajo
+real estate,los inmuebles
+warehouse,la nave
+expansion,la ampliación
+cartel,el cartel
+export,la exportación
+import,la importación
+Co.,Cía.
+business,el negocio
+coworker,compañero de trabajo

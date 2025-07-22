@@ -1,0 +1,250 @@
+to compete,competir
+to teach,enseñar
+to send,enviar
+to come,venir
+to put,poner
+to see,ver
+to pay,pagar
+to challenge,desafiar
+to spell,deletrear
+to cure,curar
+to cross,cruzar
+to raise,criar
+to cost,costar
+to copy,copiar
+to answer,contestar
+to connect,conectar
+to check,comprobar
+to charge for,cobrar
+to encode,cifrar
+to celebrate,celebrar
+to hunt,cazar
+to tire,cansar
+to keep quiet,callar
+to heat,calentar
+to scuba dive,bucear
+to joke,bromear
+to bathe,bañar
+to go down,bajar
+to advance,avanzar
+to increase,aumentar
+to howl,aullar
+to catch,atrapar
+to attack,atacar
+to finish,apurar
+to take advantage of,aprovechar
+to press,apretar
+to crush,aplastar
+to turn off,apagar
+to accommodate,alojar
+to reach,alcanzar
+to add,agregar
+to shave,afeitarse
+to accumulate,acumular
+to act,actuar
+to advise,aconsejar
+to go with,acompañar
+to finish,acabar
+to tackle,abordar
+to return,volver
+to happen,suceder
+to travel around,recorrer
+to stay,permanecer
+to smell,oler
+to turn on,encender
+to hurt,doler
+to return,devolver
+to believe,creer
+to sew,coser
+to transmit,transmitir
+to gather,reunir
+to escape,huir
+to pretend,fingir
+to choose,elegir
+to amuse,divertir
+to say goodbye to,despedir
+to discover,descubrir
+to decide,decidir
+to treat,tratar
+to transport,transportar
+to touch,tocar
+to dry,secar
+to relax,relajarse
+to plan,proyectar
+to plan,programar
+to prepare,preparar
+to plan,planificar
+to hate,odiar
+to snow,nevar
+to change,mudar
+to improve,mejorar
+to kill,matar
+to swear,jurar
+to begin,iniciar
+to matter,importar
+to bake,hornear
+to fix,fijar
+to turn in,entregar
+to take a shower,ducharse
+to enjoy,disfrutar
+to rest,descansar
+to have breakfast,desayunar
+to develop,desarrollar
+to create,crear
+to trust in,confiar en
+to complete,completar
+to place,colocar
+to close,cerrar
+to have dinner,cenar
+to sing,cantar
+to kiss,besar
+to find out,averiguar
+to support,apoyar
+to encourage,animar
+to threaten,amenazar
+to rent,alquilar
+to adore,adorar
+to cuddle,acurrucar
+to camp,acampar
+to surprise,sorprender
+to use to,soler
+to move,mover
+to dare,atreverse
+to turn up,aparecer
+to serve,servir
+to die,morir
+to vote,votar
+to say hello to,saludar
+to jump,saltar
+to remember,recordar
+to worry,preocupar
+to practice,practicar
+to sting,picar
+to fish,pescar
+to comb,peinar
+to stop,parar
+to forget,olvidar
+to bother,molestar
+to cry,llorar
+to fill,llenar
+to retire,jubilarse
+to interest,interesar
+to put away,guardar
+to record,grabar
+to turn,girar
+to spend,gastar
+to train,entrenar
+to draw,dibujar
+to want,desear
+to marry,casar
+to change,cambiar
+to have lunch,almorzar
+to cheer up,alegrar
+to pet,acariciar
+to break,romper
+to seem,parecer
+to be born,nacer
+to grow,crecer
+to follow,seguir
+to happen,ocurrir
+to build,construir
+to attend,asistir
+to open,abrir
+to swim,nadar
+to ride,montar
+to shout,gritar
+to win,ganar
+to ski,esquiar
+to listen to,escuchar
+to enter,entrar
+to love,encantar
+to cut,cortar
+to brush,cepillar
+to fix,arreglar
+to walk,andar
+to sell,vender
+to bring,traer
+to lose,perder
+to fall,caer
+to wear,vestir
+to go up,subir
+to laugh,reír
+to prefer,preferir
+to lead,conducir
+to fly,volar
+to be left,quedar
+to show,mostrar
+to throw,echar
+to leave,dejar
+to take care of,cuidar
+to put to bed,acostar
+to rain,llover
+to read,leer
+to run,correr
+to introduce,presentar
+to paint,pintar
+to look at,mirar
+to fight,luchar
+to arrive,llegar
+to raise,levantar
+to find,encontrar
+to start,empezar
+to love,amar
+to understand,entender
+to owe,deber
+to drink,beber
+to live,vivir
+to feel,sentir
+to visit,visitar
+to ask,preguntar
+to think,pensar
+to pass,pasar
+to order,mandar
+to clean,limpiar
+to wake up,despertar
+to question,cuestionar
+to start,comenzar
+to write,escribir
+to turn into,convertir
+to wash,lavar
+to study,estudiar
+to wait for,esperar
+to ask for,pedir
+to get,conseguir
+to use,usar
+to sit,sentar
+to try,probar
+to cook,cocinar
+to dance,bailar
+to help,ayudar
+to contain,contener
+to need,necesitar
+to take,llevar
+to count,contar
+to look for,buscar
+to eat,comer
+to sleep,dormir
+to travel,viajar
+to have,haber
+to learn,aprender
+to hear,oír
+to take,tomar
+to call,llamar
+to walk,caminar
+to work,trabajar
+to know,conocer
+to play,jugar
+to know,saber
+to go out,salir
+to describe,describir
+to speak,hablar
+to like,gustar
+to buy,comprar
+to give,dar
+to want,querer
+to say,decir
+to have,tener
+to do,hacer
+to go,ir
+to be,estar
+to be,ser

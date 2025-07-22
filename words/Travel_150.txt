@@ -1,0 +1,150 @@
+country,el país
+plane,el avión
+square,la plaza
+World Heritage,el patrimonio de la humanidad
+to travel around the world,viajar por el mundo
+streetcar,el tranvía
+hotel room,la habitación de hotel
+waiting room,la sala de espera
+one-way,de ida
+postcard,la tarjeta postal
+souvenir,el souvenir
+attractions,los lugares de interés
+market,el mercado
+historic center,centro histórico
+museum,el museo
+view,la vista
+monument,el monumento
+town,el pueblo
+hemisphere,el hemisferio
+west,el oeste
+east,el este
+south,el sur
+north,el norte
+to go for a walk,pasear
+climate,el clima
+temperature,la temperatura
+geography,la geografía
+countryside,el campo
+city,la ciudad
+mountains,la montaña
+beach,la playa
+resort,el complejo turístico
+all-inclusive,con todo incluido
+excursion,la excursión
+hike,la caminata
+restaurant,el restaurante
+review,la reseña
+journey,el trayecto
+shuttle,el servicio regular de enlace
+ferry,el ferry
+metro,el metro
+train,el tren
+bus,el autobús
+to ride,montar
+first class,la primera
+tourist class,la clase turista
+traveler's check,el cheque de viajero
+to discover,descubrir
+to explore,explorar
+tour,el recorrido
+to travel around,recorrer
+backpack,la mochila
+backpacker,el mochilero
+to drive,conducir
+to sail,navegar
+travel agency,la agencia de viajes
+on the way,de camino
+way,el camino
+to walk,caminar
+passenger,el pasajero
+ticket,el pasaje
+captain,el capitán
+copilot,el/la copiloto
+pilot,el/la piloto
+seat belt,el cinturón de seguridad
+turbulence,la turbulencia
+customer service,el servicio al cliente
+cheap,barato
+expensive,caro
+reception,la recepción
+platform,el andén
+stop,la parada
+road,la carretera
+duty free shop,el duty free
+taxi,el taxi
+public transport,el transporte público
+rate,la tarifa
+to pack,empacar
+delayed,retrasado
+on time,a tiempo
+to go to the beach,ir a la playa
+to plan,planear
+to take a photo,tomar una foto
+to stay,quedarse
+to rent a car,alquilar un coche
+to fly,volar
+to travel abroad,viajar al extranjero
+to confirm,confirmar
+to book,reservar
+inn,la posada
+tourist,el/la turista
+tourism,el turismo
+brochure,el folleto
+guide,el/la guía
+parking lot,el estacionamiento
+cruise,el crucero
+hotel industry,la hostelería
+travel agent,el/la agente de viajes
+hostel,el hostal
+guest,el/la huésped
+hotel,el hotel
+room service,el servicio de habitación
+fee,la cuota
+runway,la pista de aterrizaje
+security check,el control de seguridad
+resident,el/la residente
+foreigner,el extranjero
+plane ticket,el boleto de avión
+round-trip ticket,el boleto de ida y vuelta
+one-way ticket,el boleto sencillo
+stopover,la escala
+identification,la identificación
+passport,el pasaporte
+visa,el visado
+departure,la salida
+arrival,la llegada
+route,la ruta
+customs,la aduana
+immigration,la inmigración
+baggage claim,la recogida de equipajes
+carry-on luggage,el equipaje de mano
+luggage,el equipaje
+destination,el destino
+round trip,el viaje de ida y vuelta
+aisle seat,el asiento de pasillo
+window seat,asiento de ventanilla
+light aircraft,la avioneta
+airport,el aeropuerto
+seat,el asiento
+row,la fila
+exit,la puerta de salida
+boarding gate,la puerta de embarque
+crew,la tripulación
+to check in,facturar
+on board,a bordo
+to take off,despegar
+to board,embarcar
+to disembark,desembarcar
+to land,aterrizar
+terminal,el/la terminal
+suitcase,la maleta
+flight number,el número de vuelo
+airline,la aerolínea
+flight attendant,el/la auxiliar de vuelo
+boarding pass,la tarjeta de embarque
+flight,el vuelo
+vacation,la vacación
+traveler,el viajero
+trip,el viaje
+to travel,viajar

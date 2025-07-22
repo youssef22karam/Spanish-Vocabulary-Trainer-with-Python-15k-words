@@ -1,0 +1,121 @@
+theology,la teología
+pagan,pagano
+psalm,el salmo
+moral,moral
+demon,el demonio
+worship,el culto
+sect,la secta
+mass,la misa
+confession,la confesión
+doctrine,la doctrina
+font,la pila bautismal
+dedication,la dedicación
+mission,la misión
+chapter,el capítulo
+faithful,los fieles
+cardinal,el cardenal
+Jesus,Jesús
+verse,el versículo
+deed,la obra
+see,la sede
+call,la llamada
+chaplain,el capellán
+habit,el hábito
+to convert,convertir
+bull,la bula
+Judaism,el judaísmo
+Taoism,el taoísmo
+Buddhism,el budismo
+Hinduism,el hinduismo
+Islam,el islam
+Christianity,el cristianismo
+Buddhist,el/la budista
+Jew,el judío
+Muslim,el musulmán
+Hindu,el/la hindú
+Mormon,el mormón
+host,la hostia
+devil,el diablo
+Holy Week,la Semana Santa
+collection plate,el cepillo
+worship,la adoración
+to absolve,absolver
+offering,la ofrenda
+order,la orden
+godfather,el padrino
+godmother,la madrina
+goddaughter,la ahijada
+godson,el ahijado
+service,el servicio
+Christian,cristiano
+belief,la creencia
+layperson,el laico
+lay,lego
+to repent,arrepentirse
+to ordain,ordenar
+grace,la gracia
+grace,la bendición de la mesa
+blessing,la bendición
+halo,el halo
+clergyman,el clérigo
+cross,la cruz
+gentile,el gentil
+Annunciation,la anunciación
+vow,el voto
+blessed,beato
+blessed,bienaventurado
+wake,el velorio
+image,la imagen
+to believe,creer
+gospel,el gospel
+father,el padre
+mother,la madre
+Pope,el Papa
+Zion,el Sión
+tabernacle,el sagrario
+funeral,el funeral
+purity,la limpieza
+pilgrimage,la peregrinación
+fasting,el ayuno
+alms,la limosna
+circumcision,la circuncisión
+marriage,el matrimonio
+anointing,la unción
+confirmation,la confirmación
+Eucharist,la eucaristía
+baptism,el bautizo
+prophet,el/la profeta
+healer,el curandero
+minister,el pastor
+pastor,el pastor
+priest,el cura
+priest,el sacerdote
+idol,el ídolo
+imam,el imán
+devout,piadoso
+nun,la monja
+monk,el monje
+christening,el bautizo
+apostle,el apóstol
+angel,el ángel
+rabbi,el rabino
+shaman,el chamán
+secular,secular
+Koran,Corán
+Torah,Torá
+faith,la fe
+Bible,la Biblia
+God,el Dios
+cathedral,la catedral
+heaven,el cielo
+hell,el infierno
+holy,sagrado
+church,la iglesia
+temple,el templo
+mosque,la mezquita
+prayer,la oración
+religion,la religión
+sin,el pecado
+saint,el santo
+soul,el alma
+synagogue,la sinagoga

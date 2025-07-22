@@ -1,0 +1,109 @@
+thus,por ello
+thus,por lo tanto
+thus,de ese modo
+thus,de este modo
+therefore,por consiguiente
+therefore,por lo tanto
+since,ya que
+on account of,debido a
+hence,de ahí que
+for that reason,por ese motivo
+accordingly,consecuentemente
+while,mientras que
+while,mientras
+whenever,siempre que
+when,cuando
+this time,esta vez
+until now,hasta ahora
+then,pues entonces
+subsequently,posteriormente
+soon,próximamente
+sometimes,en ocasiones
+so far,hasta aquí
+simultaneously,simultáneamente
+once,una vez que
+now,a continuación
+never,nunca
+later,más adelante
+in the meantime,mientras tanto
+immediately,ipso facto
+following,siguiente
+during,durante
+at length,detenidamente
+always,siempre
+afterwards,posteriormente
+after,después de
+too,también
+second,segundo
+next,siguiente
+moreover,por otra parte
+lastly,finalmente
+in addition,en adición
+in the second place,en segundo lugar
+furthermore,por otro lado
+further,más allá
+firstly,en primer lugar
+first,primero
+even more,aún más
+besides,además
+as a result,como resultado
+not,no
+or,u
+or,o
+and,e
+and,y
+also,también
+again,otra vez
+additionally,por otra parte
+otherwise,de lo contrario
+on the contrary,al contrario
+nonetheless,empero
+nevertheless,sin embargo
+however,no obstante
+in contrast,en contraste
+despite,a pesar de
+but,pero
+although,es verdad que
+after all,a fin de cuentas
+after all,al fin y al cabo
+that is,es decir
+specifically,específicamente
+for instance,sin ir más lejos
+for example,por ejemplo
+e.g.,p. ej.
+primarily,prioritariamente
+most importantly,más importante aún
+chiefly,principalmente
+here,aquí
+over and above,más allá
+below,a continuación
+above,por encima de
+whatever,da igual
+likewise,de igual manera
+in the same way,de la misma manera
+of course,naturalmente
+naturally,naturalmente
+it's true,es cierto que
+to conclude,para concluir
+in the end,al final
+in conclusion,en conclusión
+lastly,para terminar
+finally,por fin
+yes,sí
+without a doubt,sin duda
+undoubtedly,no cabe duda de que
+surely,seguro que
+of course,por supuesto
+no,no
+indeed,en efecto
+in fact,de hecho
+to this end,a este fin
+so that,para que
+to summarize,en síntesis
+to sum up,en conclusión
+in short,en resumidas cuentas
+in summary,en resumen
+in brief,en fin
+finally,finalmente
+on the other hand,en cambio
+on the other hand,por otro lado

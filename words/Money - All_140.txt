@@ -1,0 +1,140 @@
+stockbroker,el corredor de bolsa
+salary,el sueldo
+wages,el salario
+pay,la remuneración
+pay,la paga
+rise,el aumento
+raise,el aumento
+coin purse,el portamonedas
+wallet,la cartera
+exclusion period,la carencia
+to lend,prestar
+loan,el crédito
+loan,el préstamo
+installment,la letra
+to support oneself,sustentarse
+recession,la recesión
+depression,la depresión
+margin,margen de beneficios
+margin,margen de ganancias
+capital,el principal
+tax,el gravamen
+taxes,la tributación
+tariff,el arancel
+crisis,la crisis
+fare,la tarifa
+fare,el precio
+to charge,cargar
+rate,la tarifa
+fee,el arancel
+levy,el canon
+mortgage,la hipoteca
+point,el punto
+bull,alcista
+current account,la cuenta corriente
+checking account,la cuenta corriente
+savings account,la cuenta de ahorros
+ATM,el cajero automático
+release,la quita
+broke,pelado
+generous,generoso
+to pawn,empeñar
+earnings,las ganancias
+charity,la caridad
+currency,la moneda
+to spend,gastar
+donation,la donación
+reward,el pago
+quote,la cotización
+estimate,el presupuesto
+budget,el presupuesto
+transaction,la transacción
+customs,el derecho de aduana
+customs,la aduana
+weak,débil
+price,el precio
+to cheat,engañar
+mean,tacaño
+stingy,tacaño
+deposit,el depósito
+down payment,entrega inicial
+income,la renta
+income,el ingreso
+total,el total
+sum,la suma
+levy,el impuesto
+tax,el impuesto
+tip,la propina
+to assess,valorar
+to value,tasar
+to value,valorar
+bonus pay,la extraordinaria
+bonus,el plus
+to support,mantener
+to lease,tomar en arriendo
+reserve,el encaje
+rent,el alquiler
+to save,ahorrar
+to owe,deber
+debit,el debe
+debt,la deuda
+interest,el interés
+accountant,el/la contable
+greedy,codicioso
+banking,la banca
+robbery,el robo
+free,gratis
+stock market,bursátil
+stock exchange,la bolsa de valores
+to invest,invertir
+security,el valor
+bond,el bono
+market,el mercado
+value,el valor
+fund,el fondo
+fortune,la fortuna
+dosh,la pasta
+dough,la plata
+cash,el efectivo
+needy,indigente
+wealthy,adinerado
+bank,el banco
+wealth,la riqueza
+asset,el haber
+estate,la hacienda
+trust,el trust
+economy,la economía
+bankruptcy,la bancarrota
+bankrupt,quebrado
+invoice,el albarán
+invoice,la factura
+to count,contar
+account,la cuenta
+payment,el pago
+check,el cheque
+bill,el billete
+bills to pay,cuentas por pagar
+debit card,la tarjeta de débito
+credit card,la tarjeta de crédito
+economical,económico
+cheap,barato
+expensive,caro
+worth,el precio
+stock,el stock
+take,la caja
+till,la caja
+cash register,la caja
+poor,pobre
+rich,rico
+peso,el peso
+pound,la libra
+dollar,el dólar
+euro,el euro
+safe,la caja fuerte
+capital,el capital
+loose change,el molido
+loose change,el suelto
+change,el vuelto
+finance,las finanzas
+to charge,cobrar
+money,el dinero

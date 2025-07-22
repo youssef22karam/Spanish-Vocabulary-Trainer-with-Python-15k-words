@@ -1,0 +1,413 @@
+development,el desarrollo
+Jr.,júnior
+phlegm,la flema
+alien,el extranjero
+pal,el amigazo
+mate,el viejo
+BFF,el amigo del alma
+refugee,refugiado
+legacy,el legado
+body,el ente
+hacker,el/la hacker
+Gothic,gótico
+hippy,el/la hippy
+geek,el/la geek
+nerd,el/la nerd
+punk,punki
+furry,el/la furry
+sickly person,el canijo
+shrimp,el renacuajo
+empathy,la empatía
+extrovert,el extrovertido
+introvert,el introvertido
+crush,el crush
+contemporary,coetáneo
+muse,la musa
+instinct,el instinto
+Spaniard,el español
+Hispanic,hispano
+peasant,el campesino
+mission,la misión
+weight,el peso
+height,la altura
+composure,la compostura
+reflex,reflejo
+lonely,solitario
+guide,el/la guía
+throng,la muchedumbre
+age,la edad
+racism,el racismo
+client,el cliente
+customer,el cliente
+intermediate,intermedio
+beginner,el/la principiante
+old age,la vejez
+bald man,el calvo
+good-for-nothing,el/la inútil
+layabout,el haragán
+rascal,el pícaro
+network,la red
+narrow-minded,estrecho de miras
+conservative,conservador
+progressive,progresista
+temptress,la tentadora
+tempter,el tentador
+Caucasian,caucásico
+convention,la convención
+obscurity,la oscuridad
+mixed race,raza mixta
+honey,bonico
+bro,el hermano
+curled up,acurrucado
+darling,el cariño
+cousin,la prima
+aunt,la tía
+uncle,el tío
+inhabitant,el habitante
+culture,la cultura
+father,el padre
+mother,la madre
+grandfather,el abuelo
+grandmother,la abuela
+homeland,la patria
+native land,la tierra natal
+witness,el/la testigo
+saver,el ahorrador
+lover,el/la amante
+enthusiast,el/la entusiasta
+to eliminate,eliminar
+to make friends,hacer amigos
+pregnant,embarazada
+fingerprint,la huella dactilar
+coworker,compañero de trabajo
+colleague,el/la colega
+mourning,el luto
+contact,el contacto
+vet,el veterinario
+bias,el sesgo
+to get along with,llevarse bien con
+alias,el alias
+cuddle,el apapacho
+circle,el cenáculo
+fantasy,la fantasía
+compliment,el cumplido
+female,la fémina
+male,el varón
+tradition,la tradición
+false,falso
+prejudice,el prejuicio
+master,el señor
+madwoman,la loca
+madman,el trastornado
+lunatic,el lunático
+companion,el compañero
+friendliness,la simpatía
+kindness,la amabilidad
+troublemaker,el gamberro
+fling,el ligue
+national,nacional
+team,el equipo
+conduct,la conducta
+idiosyncrasy,la idiosincrasia
+skeleton,el esqueleto
+independence,la independencia
+unfamiliar,desconocido
+familiar,familiar
+unknown,desconocido
+important person,persona importante
+to bring up,educar
+ally,el aliado
+enemy,el enemigo
+ancestor,el antepasado
+daily life,la vida cotidiana
+IQ,el cociente intelectual
+individual,el individuo
+complainer,el quejoso
+bully,el acosador
+Mexican-American,el chicano
+Chicano,chicano
+self-esteem,la autoestima
+teenager,el/la adolescente
+godchildren,las ahijadas
+goddaughter,la ahijada
+godson,el ahijado
+rude,grosero
+warm,cariñoso
+friendly,amigo
+face to face,cara a cara
+kleptomaniac,el cleptómano
+member,el/la miembro
+respect,el respeto
+Arab,el/la árabe
+sadist,el/la sadista
+cooperation,la cooperación
+group,la cuadrilla
+gang,la pandilla
+bunch,la cuadrilla
+power,el poder
+humble,humilde
+owner,el dueño
+boss,el jefe
+employee,el empleado
+staff,el staff
+personnel,el personal
+personally,personalmente
+open-minded,mente abierta
+closed-minded,cerrado
+discrimination,la discriminación
+lookalike,el/la doble
+fraternal twin,el mellizo
+identical twin,el gemelo
+heritage,la herencia
+nickname,el apodo
+belief,la creencia
+sweetheart,el corazón
+saint,el santo
+angel,el ángel
+legend,el mito
+dignitary,el/la notable
+heartbreaker,el/la rompecorazones
+prizewinner,el premiado
+villain,el malo
+tough guy,el machito
+groom,el novio
+bride,la novia
+viewers,la teleaudiencia
+listeners,el público
+readership,el público
+fans,la hinchada
+audience,la audiencia
+public,el público
+living,el vivo
+little boy,el niñito
+little girl,la niñita
+kid,el chico
+ethnicity,la etnicidad
+ethnic,étnico
+mate,el amigo
+buddy,el compadre
+mentor,el mentor
+harmony,la armonía
+settlement,el poblado
+population,la población
+settled,arraigado
+based,radicado
+competition,la competencia
+rival,rival
+feeding,la alimentación
+patience,la paciencia
+LGBT,LGBT
+weakling,el debilucho
+native,el/la indígena
+to grow,crecer
+to meet,conocer
+honor,el honor
+loyalty,la lealtad
+immigration,la inmigración
+resident,el/la residente
+citizen,el ciudadano
+young adult,joven adulto
+young person,el/la joven
+youth,el/la joven
+famous person,el famoso
+brunette,la morena
+blonde,el rubio
+ginger,pelirrojo
+redhead,el pelirrojo
+right-handed,diestro
+left-handed,zurdo
+wellness,el bienestar
+ace,el ace
+position,el puesto
+friendship,la amistad
+reality,la realidad
+luck,la suerte
+nature,la índole
+agreement,el acuerdo
+to exist,existir
+mind,la mente
+Latin American,latinoamericano
+relative,el/la familiar
+blood,la sangre
+ability,la habilidad
+minor,el/la menor
+Black Lives Matter,Las vidas negras importan
+jealousy,los celos
+soul,el alma
+lifestyle,el estilo de vida
+acquaintance,el conocido
+stranger,el forastero
+idiot,el/la idiota
+genius,el genio
+lawyer,el abogado
+judge,el juez
+dead person,el muerto
+destiny,el destino
+freedom,la libertad
+swindler,el estafador
+cheat,tramposo
+sociable,sociable
+Latin American,el latino
+African American,afroamericano
+leadership,el liderazgo
+leader,el/la líder
+spouse,el/la cónyuge
+partner,la pareja
+girlfriend,la novia
+boyfriend,el novio
+marriage,el matrimonio
+love,el amor
+affair,el affaire
+cougar,la rompecunas
+society,la sociedad
+to raise,criar
+crowd,la muchedumbre
+mass,la masa
+group,el grupo
+best friend,mejor amigo
+fan,el aficionado
+amateur,amateur
+pro,el/la pro
+growth,el crecimiento
+guest,el invitado
+host,el anfitrión
+sex,el sexo
+chick,la chai
+guy,el tipo
+confidence,la confianza
+honesty,la honestidad
+adult,el adulto
+reunion,el reencuentro
+equality,la igualdad
+inequality,la desigualdad
+marital status,el estado civil
+life stage,la etapa de la vida
+worker,el trabajador
+wake,el velatorio
+background,el origen
+to dislike,malquerer
+to like,caer bien
+reaction,la reacción
+diversity,la diversidad
+mouth,la boca
+dream,el sueño
+memory,el recuerdo
+birth,el nacimiento
+personality,la personalidad
+to rescue,rescatar
+to kill,matar
+director,el director
+pianist,el/la pianista
+bass player,el/la bajista
+guitarist,el/la guitarrista
+drummer,el baterista
+vocalist,la voz
+noble,noble
+title,el título
+energy,la energía
+interests,intereses
+everyone,cada cual
+anyone,cualquier persona
+someone,alguien
+no one,nadie
+everybody,todo el mundo
+anybody,cualquier persona
+somebody,alguien
+nobody,nadie
+nobody,el quídam
+star,la estrella
+infancy,la niñez
+liar,el embustero
+millionaire,el millonario
+beggar,el mendigo
+rich man,el rico
+poor person,el/la pobre
+personal relations,las relaciones personales
+values,los valores
+heroine,la heroína
+hero,el héroe
+businessman,el empresario
+traveler,el viajero
+tourist,el/la turista
+drama,el drama
+to inhabit,habitar
+little one,pequeñín
+heritage,el patrimonio
+care,el cuidado
+birthday,el cumpleaños
+nurse,el enfermero
+doctor,el doctor
+emigrant,el/la emigrante
+immigrant,el/la inmigrante
+native,el nativo
+foreigner,el extranjero
+tribe,la tribu
+hunk,el mango
+babe,la mamacita
+neighbor,el vecino
+expert,el experto
+upbringing,la crianza
+manners,los modales
+sense,el juicio
+Ms.,Sra.
+Mrs.,Sra.
+Ms.,Dña.
+Mr.,D.
+Mr.,Sr.
+Miss,Srta.
+celebrity,la celebridad
+custom,la costumbre
+character,el carácter
+character,el personaje
+prince,el príncipe
+princess,la princesa
+queen,la reina
+king,el rey
+knight,el caballero
+gentleman,el caballero
+lady,la dama
+fool,el bobo
+ugliness,la fealdad
+beauty,la belleza
+race,la raza
+childhood,la infancia
+alive,vivo
+senior,la persona de la tercera edad
+single,soltero
+separated,separado
+divorced,divorciado
+married,casado
+humanity,la humanidad
+born,el nacido
+to die,morirse
+world,el mundo
+people,la gente
+to be born,nacer
+children,los hijos
+identity,la identidad
+surname,el apellido
+name,el nombre
+community,la comunidad
+gender,el género
+president,el presidente
+prime minister,el primer ministro
+governor,el gobernador
+mayor,la alcaldesa
+relationship,la relación
+student,el/la estudiante
+husband,el marido
+wife,la esposa
+life,la vida
+person,la persona
+newborn,recién nacido
+toddler,niño pequeño
+baby,el/la bebé
+friend,el amigo
+teacher,el profesor
+elderly woman,la anciana
+elderly man,el anciano
+girl,la chica
+boy,el muchacho
+child,el niño
+woman,la mujer
+man,el hombre

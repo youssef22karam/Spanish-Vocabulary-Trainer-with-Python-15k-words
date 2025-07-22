@@ -1,0 +1,83 @@
+to hold up,asaltar
+to offend,ultrajar
+to steal,hurtar
+to question,interrogar
+to indict,enjuiciar
+to convict,condenar
+to commit a crime,delinquir
+to assassinate,asesinar
+to rape,violar
+to attack,atacar
+to mug,asaltar
+to steal,robar
+to sue,demandar
+to prosecute,procesar
+to prosecute,encausar
+to interrogate,someter a interrogatorio
+to sentence,condenar
+to judge,juzgar
+to appeal,apelar
+to fine,multar
+to escape,escapar
+locked up,encerrado
+to break into,violentar
+forensic,forense
+to bribe,sobornar
+charge,la acusación
+prison,la cárcel
+jail,la cárcel
+death penalty,la pena de muerte
+gallows,la horca
+to escape,huir
+wanted,se busca
+evidence,la evidencia
+to counterfeit,falsificar
+undercover,en secreto
+to uncover,destapar
+dealer,el camello
+drug dealer,el/la traficante de drogas
+to report,denunciar
+to witness,presenciar
+witness,el/la testigo
+to kill,matar
+plot,la trama
+interview,la entrevista
+investigation,la investigación
+crime,el delito
+fix,el apaño
+sweep,la barrida
+knife,el fierro
+case,el caso
+to release,excarcelar
+thief,el ladrón
+deceitful,engañoso
+to acquit,absolver
+to charge,inculpar
+bail,la fianza
+sin,el pecado
+questioning,el interrogatorio
+to mug,atracar
+to rob,asaltar
+to arrest,arrestar
+to apprehend,apresar
+robber,el/la asaltante
+kleptomaniac,el cleptómano
+gang,la pandilla
+to murder,asesinar
+to betray,traicionar
+sadist,el sádico
+to hurt,lastimar
+kidnapping,el secuestro
+to kidnap,raptar
+attack,el ataque
+rifle,el rifle
+weapon,el arma
+accident,el accidente
+robbery,el asalto
+robbery,el robo
+rope,la cuerda
+uprising,el levantamiento
+pistol,la pistola
+pirate,el/la pirata
+to frame,hacer aparecer como culpable
+crime,el crimen

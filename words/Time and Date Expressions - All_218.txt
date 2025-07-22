@@ -1,0 +1,218 @@
+season,la estación
+last night,anoche
+Monday,el lunes
+Sunday,el domingo
+in,en
+it's been a long time,ha pasado mucho tiempo
+it's been a long time,hace mucho tiempo
+period of validity,la vigencia
+duration,la duración
+duration,la vigencia
+duration,el plazo de duración
+last week,la semana pasada
+next week,la próxima semana
+next week,la semana que viene
+moment,el tiempo
+moment,el momento
+point,el punto
+one day,algún día
+one day,un día
+unlimited,ilimitado
+indefinite,indefinido
+spell,la temporada
+from the beginning,desde el principio
+during the day,durante el día
+five minutes ago,hace cinco minutos
+on time,puntual
+on time,a su hora
+on time,a tiempo
+punctual,puntual
+spare time,tiempo de ocio
+spare time,ratos libres
+lag,el retraso
+delay,la demora
+delay,el retraso
+in the future,en el futuro
+times a day,veces al día
+sunrise,la salida del sol
+daybreak,el albor
+now and again,de vez en cuando
+to last,durar
+once,alguna vez
+once,una vez
+someday,algún día
+sometime,alguna vez
+ever,nunca
+ever,alguna vez
+as soon as possible,lo antes posible
+as soon as possible,cuanto antes
+finally,por fin
+finally,finalmente
+late,tarde
+delayed,retrasado
+behind,retrasado
+behind,atrasado
+to take,tardar
+phase,la etapa
+phase,la fase
+stage,la etapa
+longest,más largo
+while,mientras
+as soon as,tan pronto como
+as soon as,en cuanto
+in the near future,en un futuro próximo
+short,corto
+next,que viene
+next,próximo
+next,siguiente
+timetable,el calendario
+timetable,el horario
+schedule,la agenda
+schedule,el horario
+at,a
+then,luego
+then,entonces
+age,la edad
+weekend,el fin de semana
+weekday,el día de entre semana
+future,el futuro
+present,presente
+past,el pasado
+era,la era
+free time,el tiempo libre
+after,después
+before,antes
+yet,todavía
+for a week,por una semana
+since,desde
+for a year,desde hace un año
+all day,el día entero
+last year,el año pasado
+this year,este año
+rarely,casi nunca
+hardly ever,casi nunca
+seldom,raramente
+seldom,rara vez
+sometimes,en ocasiones
+sometimes,algunas veces
+sometimes,a veces
+often,muchas veces
+often,a menudo
+generally,generalmente
+normally,normalmente
+usually,usualmente
+weekly,semanalmente
+weekly,semanal
+always,siempre
+already,ya
+frequently,frecuentemente
+permanently,definitivamente
+currently,actualmente
+previously,anteriormente
+the day before yesterday,anteayer
+yesterday,ayer
+now,ahora
+occasionally,ocasionalmente
+never,nunca
+still,aún
+still,todavía
+daily,diario
+briefly,brevemente
+recently,recientemente
+the night before last,antenoche
+the night before last,anteanoche
+ago,atrás
+holiday,el día festivo
+holiday,el feriado
+calendar,el calendario
+appointment,la cita
+date,la fecha
+equinox,el equinoccio
+solstice,el solsticio
+twilight,el crepúsculo
+fifteen,y cuarto
+thirty,y media
+what time is it now,qué hora es ahora
+ten past,y diez
+ten to,menos diez
+hand,la manilla
+on the dot,en punto
+to indicate,indicar
+to put back,retrasar
+to gain time,adelantar
+wristwatch,el reloj pulsera
+What's the time there?,¿Qué hora es allá?
+What time is it in your country?,¿Qué hora es en tu país?
+what time,qué hora
+What time do you wake up?,¿A qué hora te despiertas?
+What time do you go to bed?,¿A qué hora te acuestas?
+What time do you get up?,¿A qué hora te levantas?
+What time do you leave work?,¿A qué hora sales del trabajo?
+when,cuando
+how much time,cuánto tiempo
+what time are you coming back home,a qué hora vuelves a casa
+sharp,en punto
+time,el tiempo
+hour,la hora
+minute,el minuto
+second,el segundo
+What time is the class?,¿A qué hora es la clase?
+What time is it?,¿Qué hora es?
+watch,el reloj
+clock,el reloj
+twelve thirty,doce y media
+noon,el mediodía
+dawn,el amanecer
+dusk,el atardecer
+midnight,la medianoche
+in the morning,por la mañana
+at night,por la noche
+in the afternoon,por la tarde
+p.m.,p.m.
+a.m.,a.m.
+one thirty,una y media
+half past,la media
+eight thirty,ocho y media
+half past two,dos y media
+three thirty,tres y media
+five thirty,cinco y media
+six thirty,seis y media
+seven thirty,siete y media
+ten thirty,diez y media
+eleven thirty,once y media
+nine fifteen,nueve y cuarto
+eight fifteen,ocho y cuarto
+seven fifteen,siete y cuarto
+six fifteen,seis y cuarto
+three fifteen,tres y cuarto
+two fifteen,las dos y quince
+a quarter after,y cuarto
+a quarter to,menos cuarto
+it's one o'clock,es la una
+it's five o'clock,son las cinco
+January,el enero
+February,el febrero
+March,el marzo
+April,el abril
+May,el mayo
+June,el junio
+July,el julio
+August,el agosto
+September,el septiembre
+October,el octubre
+November,el noviembre
+December,el diciembre
+winter,el invierno
+spring,la primavera
+summer,el verano
+fall,el otoño
+day,el día
+week,la semana
+month,el mes
+year,el año
+season,la temporada
+Saturday,el sábado
+Tuesday,el martes
+Wednesday,el miércoles
+Thursday,el jueves
+Friday,el viernes

@@ -1,0 +1,56 @@
+computer,la computadora
+bookcase,la librera
+battery,la pila
+desk,el escritorio
+chair,la silla
+letter,la carta
+rubber band,la gomita
+wastepaper basket,la papelera
+envelope,el sobre
+whiteboard,la pizarra blanca
+pencil,el lapicero
+pencil,el lápiz
+pencil sharpener,el sacapuntas
+pencil case,el estuche de lápices
+pencil box,el estuche para lápices
+pen,la pluma
+pen,el bolígrafo
+eraser,la goma
+eraser,el borrador
+Scotch tape,el celo
+whiteout,el líquido corrector
+clipboard,la tablilla con sujetapapeles
+backpack,la mochila
+scissors,la tijera
+ruler,la regla
+planner,la agenda
+highlighter,el rotulador fluorescente
+book,el libro
+ballpoint pen,el bolígrafo
+folder,la carpeta
+hole punch,la taladradora de papel
+index card,la ficha
+colored pencil,el lápiz de color
+crayon,la cera
+glue stick,el pegamento en barra
+glue,el pegamento
+lunch box,la lonchera
+poster board,la cartulina
+paper,el papel
+binder,la carpeta
+divider,el separador
+marker,el rotulador
+Post-it,el post-it
+calculator,la calculadora
+computer,el ordenador
+laptop,el/la portátil
+mouse,el ratón
+stapler,la grapadora
+staple,la grapa
+printer,la impresora
+notebook,la libreta
+notebook,el cuaderno
+compass,el compás
+protractor,el transportador
+paper clip,el sujetapapeles
+paper clip,el clip

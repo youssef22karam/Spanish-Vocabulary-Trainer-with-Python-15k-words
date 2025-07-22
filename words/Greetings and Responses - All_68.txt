@@ -1,0 +1,68 @@
+good night,buenas noches
+And you?,¿Y usted?
+good morning,buen día
+What's up?,¿Cómo te va?
+perfect,perfecto
+I'm doing really well,estoy muy bien
+What's up?,¿Qué cuentas?
+How's it going?,¿Cómo te va?
+What's up?,¿Qué pasa?
+long time no see,tanto tiempo sin verte
+How's life?,¿Qué tal tu vida?
+how was your day,qué tal estuvo tu día
+nothing new,nada nuevo
+all good,todo bien
+it's nice to see you again,me alegro de verlo de nuevo
+That's nice. I'm glad to hear that.,Qué bueno. Me alegro mucho.
+Everything's great. What about you?,Todo bien. ¿Y tú?
+And how are you?,¿Y tú cómo estás?
+I'm well,estoy bien
+I'm sad,estoy triste
+I'm tired,estoy cansado
+I feel sick,estoy mal
+I'm very well,estoy muy bien
+I'm happy,estoy feliz
+I'm bored,estoy aburrido
+ thank you,very well, gracias,muy bien
+very busy,muy ocupado
+bad,mal
+not bad at all,nada mal
+the pleasure is mine,el gusto es mío
+how was your day,qué tal tu día
+where are you from,de dónde es
+so-so,así así
+to introduce,presentar
+I'm from,soy de
+excited,emocionado
+great,genial
+worried,preocupado
+frustrated,frustrado
+stressed,estresado
+not too bad,más o menos
+OK,OK
+pretty good,bastante bien
+How have you been?,¿Cómo has estado?
+How is it going?,¿Qué tal?
+how are things,cómo está todo
+and you,y Ud.
+to meet,conocer
+it's a pleasure to meet you,es un placer conocerte
+to greet,saludar
+welcome,bienvenido
+nice to meet you,encantado de conocerle
+nice to meet you,mucho gusto
+what's your name,cómo te llamas
+my name is,mi nombre es
+my name is,me llamo
+what's up,qué cuentas
+Hi!,¡Hola!
+introduction,la presentación
+salutation,la salutación
+greetings,la felicitación
+greeting,el saludo
+good evening,buenas noches
+How are you?,¿Cómo estás?
+good morning,buenos días
+and you,y tú
+good afternoon,buenas tardes
+Hello!,¡Hola!

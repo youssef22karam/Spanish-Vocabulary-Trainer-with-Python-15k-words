@@ -1,0 +1,241 @@
+silver,la plata
+gold,el oro
+coat,el abrigo
+stretchy,elástico
+trendy,moderno
+lined,forrado
+pleated,plisado
+in,in
+provocative,provocador
+brand,la marca
+to knit,tejer
+sophisticated,sofisticado
+chic,chic
+long,largo
+shorts,el short
+flared,acampanado
+plaid,la tela escocesa
+printed,estampado
+fleece,el forro polar
+to clean,limpiar
+to iron,planchar
+well-dressed,puesto
+loafer,el mocasín
+galosh,el chanclo
+espadrille,la alpargata
+clog,el zueco
+ballet flat,la baleta
+ankle boot,el botín
+cowboy boot,la campera
+blouse,la blusa
+bathrobe,el albornoz
+backpack,la mochila
+brooch,el prendedor
+cowboy hat,el tejano
+straw hat,la sarita
+beret,la boina
+pocket watch,el reloj de bolsillo
+cape,la capa
+swimming trunks,la calzoneta
+button-down shirt,la camisa
+sunglasses,las gafas de sol
+headband,la diadema
+polo shirt,el niki
+leggings,las mallas
+slipper,la zapatilla
+robe,la bata
+nightgown,el camisón
+swimsuit,el bañador
+undershirt,la camiseta
+tank top,la camiseta de tirantes
+hoodie,el hoodie
+silk,la seda
+nylon,el nylon
+pajamas,el/la pijama
+casual,casual
+fashionable,en boga
+stylish,estiloso
+untidy,desordenado
+wrinkled,arrugado
+tailored,a la medida
+striped,rayado
+checked,de cuadros
+floral,floral
+polka-dot,de lunares
+fitted,entallado
+slovenly,dejado
+hip,en onda
+to go with,combinar
+to go together,casar
+to clash,chillar
+to get wrinkled,arrugarse
+to try on,probarse
+fold,el plegado
+hang,la caída
+seat,la culera
+train,la cola
+tear,la raja
+casual,informal
+elegant,elegante
+cleaners,la tintorería
+measurement,la medida
+sleeveless,sin mangas
+sleeve,la manga
+to dry,secar
+to wash,lavar
+huipil,el huipil
+to wear,usar
+canvas shoe,la playera
+lace edging,la puntilla
+style,la línea
+edging,la cenefa
+kerchief,el paliacate
+flip-flop,la chancla
+sandal,la sandalia
+sewing,la costura
+bow,el lazo
+sheer,transparente
+lingerie,la lencería
+bra,el sujetador
+underwear,la ropa interior
+thong,el/la tanga
+boxers,los bóxers
+colorful,colorido
+pattern,el patrón
+polka dot,el lunar
+stripes,el rayado
+textile,el textil
+apron,el delantal
+smock,el mandilón
+smock,el babi
+pinafore,el pichi
+to shrink,encogerse
+pocket,el bolsillo
+design,el modelo
+uncomfortable,incómodo
+pump,el zapato de salón
+onesie,el pijama mono
+bonnet,la capota
+top hat,la chistera
+helmet,el casco
+parka,la parka
+poncho,el poncho
+wrap,el chal
+to make buttonholes on,ojalar
+stain,la mancha
+disguise,el disfraz
+haute couture,la alta costura
+to get ready,arreglarse
+suspenders,los tirantes
+belt,el cinturón
+gaiter,la polaina
+scarf,la bufanda
+beanie,la gorrita
+too small,demasiado pequeño
+too big,demasiado grande
+to fit,caber
+mitten,la manopla
+glove,el guante
+denim,la tela vaquera
+to put on,ponerse
+sneaker,la zapatilla
+tennis shoe,el zapato de tenis
+earring,la pantalla
+baseball cap,el sombrero de béisbol
+fascinator,el tocado
+headdress,la toca
+panties,la braga
+uniform,el uniforme
+large,grande
+medium,mediano
+diamond,el diamante
+fur,la piel
+short-sleeved shirt,camisa de mangas cortas
+long-sleeved shirt,la camisa de manga larga
+accessories,los complementos
+comfortable,confortable
+top,el top
+overcoat,el sobretodo
+boot,la bota
+raincoat,el impermeable
+jacket,la chaqueta
+bag,el bolso
+velvet,el terciopelo
+Velcro,el velcro
+suede,el ante
+leather,el cuero
+size,la talla
+fashion,la moda
+run,la carrera
+jumpsuit,el mono
+overalls,el mameluco
+wardrobe,el ropero
+costume,el disfraz
+acrylic,acrílico
+angora,la angora
+polyester,el poliéster
+linen,el lino
+cotton,el algodón
+wool,la lana
+texture,la textura
+ring,el anillo
+bracelet,la pulsera
+earring,el pendiente
+loose,ancho
+fabric,la tela
+buttons,la botonadura
+zipper,la cremallera
+zipper,la bragueta
+to break,romper
+to rip,rajar
+rip,el desgarrón
+glasses,las gafas
+to take off,quitarse
+to hem,hacer el dobladillo
+to wear,llevar
+tight,ajustado
+baggy,holgado
+small,chico
+big,grande
+wedge,la cuña
+high heels,los tacones
+hat,el gorro
+hat,el sombrero
+tights,leotardos
+sock,el calcetín
+outfit,el conjunto
+skirt,la falda
+dress,el vestido
+gown,el vestido largo
+to get dressed,vestirse
+purse,la bolsa
+wallet,la cartera
+gem,la gema
+bikini,el bikini
+bathing suit,el traje de baño
+tracksuit,el chándal
+sweatpants,el pantalón de chándal
+shirt,la camisa
+necktie,la corbata
+bow tie,la pajarita
+tie,la corbata
+cummerbund,la faja
+waistcoat,el chaleco
+vest,el chaleco
+tuxedo,el smoking
+suit,el traje
+dress shirt,la camisa de vestir
+T-shirt,la camiseta
+sweatshirt,la sudadera
+shorts,pantalones cortos
+jeans,los vaqueros
+pants,el pantalón
+necklace,el collar
+pantyhose,las medias
+sweater,el jersey
+shoe,el zapato
+gemstone,la piedra semipreciosa
+jewelry,las alhajas
+cloth,la tela
+clothes,la vestimenta
+clothing,la ropa

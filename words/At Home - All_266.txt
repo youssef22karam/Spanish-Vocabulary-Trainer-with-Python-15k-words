@@ -1,0 +1,266 @@
+bed,la cama
+game room,la sala de juegos
+kennel,la perrera
+terrace,la terraza
+backyard,jardín trasero
+bedroom,la habitación
+bedroom,el dormitorio
+chimney,la chimenea
+side table,la mesilla
+footrest,el reposapiés
+bedside table,la mesita de noche
+patio,el patio
+end table,la mesa auxiliar
+downstairs,en el piso de abajo
+upstairs,arriba
+to clean,limpiar
+to take out the trash,sacar la basura
+to dust,quitar el polvo
+laundry room,el cuarto de lavar
+front yard,el patio delantero
+bunk bed,la cama marinera
+tree house,casita del árbol
+to wash the dishes,lavar los platos
+to feed the dog,dar de comer al perro
+to feed the cat,dar de comer al gato
+to do the laundry,lavar la ropa
+to cook,cocinar
+to go shopping,ir de compras
+to mop the floor,trapear el piso
+to mow the lawn,cortar el césped
+to walk the dog,pasear al perro
+to clear the table,limpiar la mesa
+to set the table,poner la mesa
+to weed,desyerbar
+to water the plants,regar las plantas
+to mop,fregar
+clean the floor,limpiar el piso
+to clean the bathroom,limpiar el baño
+to clean the kitchen,limpiar la cocina
+vase,el jarrón
+rocking chair,la mecedora
+poster,el cartel
+picture,el cuadro
+painting,el cuadro
+lampshade,la pantalla
+alarm clock,el despertador
+headboard,la cabecera
+bedspread,la colcha
+duvet,el edredón
+tea towel,el paño
+fruit bowl,el frutero
+tablecloth,el mantel
+bottle opener,el abridor
+bottle,la botella
+can opener,el abrelatas
+peeler,el pelador
+garlic press,el triturador
+colander,el colador
+skimmer,la espumadera
+footstool,el reposapiés
+nightstand,la mesilla
+crib,la cuna
+coffee table,la mesa de centro
+dressing table,la coqueta
+filing cabinet,el archivero
+futon,el futón
+gas stove,la estufa de gas
+water heater,el calentador de agua
+microwave,el microondas
+fort,la fortaleza
+manor,la casa solariega
+mansion,la mansión
+hut,la cabaña
+greenhouse,el invernadero
+porch,el porche
+games room,el salón de juegos
+garage,el garaje
+sunroom,el solario
+study,el estudio
+nursery,el cuarto de los niños
+guest bedroom,el dormitorio de huéspedes
+hedge,el seto
+stuffing,el relleno
+apartment building,el edificio de apartamentos
+property,la finca
+lawn,el césped
+desk,el escritorio
+wallpaper,el empapelado
+border,la frontera
+recycling,el reciclaje
+gated community,la privada
+light bulb,el bombillo
+leak,el escape
+loft,el loft
+to live,vivir
+fountain,la fuente
+to lease,tomar en arriendo
+mortgage,la hipoteca
+to buy,comprar
+rent,el alquiler
+residence,la residencia
+chest,el cofre
+cutlery,los cubiertos
+to make the bed,hacer la cama
+skylight,el tragaluz
+balcony,el balcón
+housing development,la urbanización
+interior design,el interiorismo
+abode,la morada
+dwelling,la vivienda
+to tidy up,poner en orden
+to iron,planchar
+pantry,la despensa
+skip,el contenedor
+back door,la puerta trasera
+front door,puerta principal
+hall,el pasillo
+foyer,el hall
+vestibule,el portal
+candle,la vela
+chandelier,la araña
+step,el escalón
+powder room,el tocador
+restroom,el baño
+cozy,acogedor
+address,la dirección
+toiletries,el útiles de aseo
+dormer,la buhardilla
+attic,el ático
+telephone,el teléfono
+television,el televisor
+radio,el radio
+machine,la máquina
+bookshelf,el estante de libros
+shelf,la balda
+cabinet,el armario
+cupboard,la alacena
+main,el cable principal
+plumbing,la plomería
+chest of drawers,la cómoda
+bookcase,la librera
+dresser,el tocador
+organization,la organización
+towel,la toalla
+hammock,la hamaca
+floor,el suelo
+palace,el palacio
+broken,roto
+design,el diseño
+entrance,la entrada
+gate,la puerta
+sheet,la sábana
+decorations,la decoración
+curtain,la cortina
+neat,pulcro
+curio,la curiosidad
+house rules,las normas de convivencia
+my room,mi habitación
+jar,el bote
+bin,el tacho de basura
+trash,la basura
+fan,el ventilador
+comb,el peine
+screen,la pantalla
+messy,desordenado
+to sweep the floor,barrer el suelo
+cellar,el sótano
+basement,el sótano
+utensil,el utensilio
+clean,limpio
+flight,el tramo
+tidy,ordenado
+swimming pool,la piscina
+vacuum cleaner,la aspiradora
+soap,el jabón
+accommodations,el alojamiento
+duplex,el adosado
+condominium,el condominio
+apartment,el apartamento
+housing,la vivienda
+gardening,la jardinería
+closet,el armario
+wardrobe,el armario
+bench,el banco
+shed,la caseta
+barn,el establo
+bird,el pájaro
+dog,el perro
+cat,el gato
+pet,la mascota
+leaf,la hoja
+to rake,rastrillar
+lawnmower,el cortacésped
+grass,la hierba
+yard,el jardín
+garden,el jardín
+window,la luna
+fence,la cerca
+dishwasher,el lavavajillas
+oven,el horno
+stove,la cocina
+fridge,el/la refri
+dryer,la secadora
+washing machine,la lavadora
+real estate,los inmuebles
+to set,tender
+radiator,el radiador
+air conditioning,el aire acondicionado
+heating,la calefacción
+carpet,la alfombra
+rug,la alfombra
+blanket,la manta
+pillow,la almohada
+stairs,la escalera
+dining room,el comedor
+mirror,el espejo
+stool,el taburete
+seat,el asiento
+fence,la valla
+appliance,el electrodoméstico
+neighbor,el vecino
+my house,mi casa
+fireplace,la chimenea
+fire,el fuego
+fly swatter,el matamoscas
+homeless,sin hogar
+clock,el reloj
+outside,fuera
+inside,dentro
+key,la llave
+lamp,la lámpara
+pan,la cacerola
+pot,la olla
+spoon,la cuchara
+knife,el cuchillo
+fork,el tenedor
+glass,la copa
+glass,el vaso
+bowl,el bol
+sink,el lavabo
+toilet,el retrete
+dishes,la vajilla
+roof,el tejado
+ceiling,el techo
+wall,la pared
+office chair,la silla de oficina
+armchair,el sillón
+sofa,el sofá
+couch,el diván
+chair,la silla
+bathtub,la bañera
+shower,la ducha
+housework,los quehaceres
+to help at home,ayudar en casa
+window,la ventana
+door,la puerta
+table,la mesa
+household,el hogar
+living room,la sala
+room,el cuarto
+bathroom,el baño
+furniture,el mobiliario
+chores,las tareas domésticas
+kitchen,la cocina
+house,la casa
+home,el hogar

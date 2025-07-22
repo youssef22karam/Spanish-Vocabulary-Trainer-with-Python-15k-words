@@ -1,0 +1,1000 @@
+view,la vista
+to reject,rechazar
+to beg,rogar
+cloudy,nublado
+queen,la reina
+goal,la meta
+exercise,el ejercicio
+festival,el festival
+outside,afuera
+to emphasize,destacar
+nor,ni
+to deceive,engañar
+to pass,aprobar
+piano,el piano
+simple,sencillo
+period,el punto
+help,la ayuda
+half,medio
+to suffer,sufrir
+to feel like,tener ganas de
+direction,la dirección
+mother-in-law,la suegra
+roof,el techo
+that,aquella
+alcohol,el alcohol
+challenge,el desafío
+chain,la cadena
+road,la pista
+own,propio
+strength,la fuerza
+to toast,brindar
+to continue,continuar
+only,único
+slowly,lentamente
+hen,la gallina
+just,acabar de
+studio,el estudio
+to heat,calentar
+to save,salvar
+depressed,deprimido
+camping,el camping
+challenge,el reto
+to promise,prometer
+shadow,la sombra
+mine,mío
+pleasure,el placer
+father-in-law,el suegro
+mayor,el alcalde
+loose,flojo
+parade,el desfile
+ice,el hielo
+shore,la orilla
+classroom,el aula
+thief,el ladrón
+leisure,el ocio
+surprise,la sorpresa
+period,la etapa
+to happen,ocurrir
+smile,la sonrisa
+to stand,soportar
+pet,la mascota
+risk,el riesgo
+to contribute,aportar
+annoyed,enfadado
+at the moment,actualmente
+sheep,la oveja
+to train,entrenar
+essential,imprescindible
+perfect,perfecto
+to promote,fomentar
+to carry out,llevar a cabo
+advantage,la ventaja
+cap,el gorro
+bargain,la ganga
+butterfly,la mariposa
+wealth,la riqueza
+to establish,establecer
+frog,la rana
+to guess,adivinar
+to influence,influir
+bathtub,la bañera
+tornado,el tornado
+bird,el ave
+godmother,la madrina
+jealousy,los celos
+to organize,organizar
+curly,rizado
+to catch,atrapar
+widowed,viudo
+fair,la feria
+to peel,pelar
+to convince,convencer
+homework,los deberes
+learning,el aprendizaje
+avocado,el aguacate
+growth,el crecimiento
+impressive,impresionante
+to participate,participar
+to advance,avanzar
+to spread,difundir
+to laugh,reírse
+feature,el rasgo
+childhood,la niñez
+whale,la ballena
+to go for a walk,dar un paseo
+freeway,la autopista
+worker,el obrero
+robot,el robot
+bolt of lightning,el relámpago
+mature,maduro
+monitor,el monitor
+soldier,el/la soldado
+to repair,reparar
+sign,el letrero
+to feel like,apetecer
+device,el aparato
+grade,la nota
+shortage,la escasez
+search,la búsqueda
+to exist,existir
+steering wheel,el volante
+debt,la deuda
+thunder,el trueno
+peach,el durazno
+to forgive,perdonar
+ever,alguna vez
+pressure,la presión
+Chinese,chino
+education,la enseñanza
+surface,la superficie
+thought,el pensamiento
+complaint,la queja
+sadness,la tristeza
+to found,fundar
+to agree with,estar de acuerdo
+powerful,poderoso
+happiness,la felicidad
+parking lot,el estacionamiento
+announcer,el locutor
+proposal,la propuesta
+expense,el gasto
+to hide oneself,esconderse
+frozen,congelado
+ball,el balón
+ability,la habilidad
+above all,sobre todo
+to row,remar
+to get worse,empeorar
+reserved,reservado
+to twist,torcerse
+living room,el salón
+to live together,convivir
+ant,la hormiga
+to kidnap,secuestrar
+merchant,el/la comerciante
+myth,el mito
+to cure,curar
+to collect,coleccionar
+blackboard,el pizarrón
+outskirts,las afueras
+great-grandfather,el bisabuelo
+necessary,necesario
+athletic,atlético
+anxiety,la ansiedad
+stationery store,la papelería
+friendly,acogedor
+special,especial
+to predict,predecir
+to stand up,pararse
+cohabitation,la convivencia
+cake,la tarta
+fantastic,fenomenal
+drum,el tambor
+surprising,sorprendente
+cake shop,la pastelería
+cooked,cocido
+recess,el recreo
+to take up,ocupar
+to express,expresar
+to get dirty,ensuciar
+congratulations,enhorabuena
+to criticize,criticar
+to propel,impulsar
+mustard,la mostaza
+to affect,afectar
+gastronomy,la gastronomía
+to remove,eliminar
+to communicate,comunicar
+to collaborate,colaborar
+to emit,emitir
+great-grandmother,la bisabuela
+X-ray,la radiografía
+to donate,donar
+commercial,el comercial
+hobby,la afición
+to take a walk,dar una caminata
+colony,la colonia
+to examine,examinar
+possible,posible
+toast,el brindis
+to promote,ascender
+honest,honrado
+to fabricate,fabricar
+tourism,el turismo
+probable,probable
+to skateboard,andar en patineta
+pajamas,el/la pijama
+pedestrian,el peatón
+to declare,declarar
+labor,laboral
+to invent,inventar
+warranty,la garantía
+studies,los estudios
+to pay attention,prestar atención
+belief,la creencia
+routine,la rutina
+honest,honesto
+to install,instalar
+self-portrait,el autorretrato
+optimistic,optimista
+reserve,la reserva
+access,el acceso
+variety,la variedad
+to be in fashion,estar de moda
+flute,la flauta
+massage,el masaje
+semester,el semestre
+environmental,ambiental
+in front of,frente a
+supportive,solidario
+fundamental,fundamental
+gymnastics,la gimnasia
+emotion,la emoción
+enthusiasm,el entusiasmo
+to pack,hacer las maletas
+postcard,la tarjeta postal
+Cuban,el cubano
+burn,la quemadura
+sector,el sector
+calm,la tranquilidad
+platform,el andén
+chemical,químico
+boarding pass,la tarjeta de embarque
+dictatorship,la dictadura
+research,la investigación
+ruins,las ruinas
+gel,el gel
+uniform,el uniforme
+screenwriter,el/la guionista
+spontaneous,espontáneo
+uncomfortable,incómodo
+to stop over,hacer escala
+sleeping bag,el saco de dormir
+bathroom,el cuarto de baño
+programmer,el programador
+flight attendant,el/la auxiliar de vuelo
+watermelon,la sandía
+main course,el plato principal
+logical,lógico
+identity,la identidad
+trumpet,la trompeta
+to think about,pensar en
+to use the computer,usar la computadora
+obedient,obediente
+to remember to,acordarse de
+adventurous,aventurero
+container,el contenedor
+to brush one's teeth,lavarse los dientes
+renewable,renovable
+to squander,derrochar
+to sculpt,esculpir
+autobiography,la autobiografía
+air-conditioning,el aire acondicionado
+finance,las finanzas
+invention,el invento
+tolerant,tolerante
+Moroccan,marroquí
+innovative,innovador
+organization,la organización
+opinion,la opinión
+statement,la declaración
+to surf the Internet,navegar por Internet
+tablet,la tableta
+to work out,hacer gimnasia
+archaeologist,el arqueólogo
+production,la producción
+vegetarian,el vegetariano
+to have a fever,tener fiebre
+North American,norteamericano
+follower,el seguidor
+french fry,la patata frita
+narrator,el narrador
+to finance,financiar
+tolerance,la tolerancia
+to be on vacation,estar de vacaciones
+lentil,la lenteja
+ambulance,la ambulancia
+masterpiece,la obra maestra
+to say goodbye to,despedirse de
+ceremony,la ceremonia
+injustice,la injusticia
+constitution,la constitución
+identification,la identificación
+to clean the house,limpiar la casa
+sandwich,el sándwich
+driver's license,la licencia de conducir
+to forget,olvidarse de
+creativity,la creatividad
+cooperation,la cooperación
+advisable,recomendable
+locksmith,el cerrajero
+informative,informativo
+emergency room,sala de emergencia
+clinic,la clínica
+civilization,la civilización
+email address,la dirección electrónica
+vitamin,la vitamina
+contaminating,contaminante
+orange juice,zumo de naranja
+holiday,el día festivo
+to make decisions,tomar decisiones
+explosion,la explosión
+erosion,la erosión
+calorie,la caloría
+subway station,la estación de metro
+to be online,estar en línea
+opera,la ópera
+sense of humor,el sentido del humor
+see you later,hasta luego
+remote control,el control remoto
+social worker,el trabajador social
+cell phone,el teléfono celular
+talk show,programa de entrevistas
+train station,la estación de tren
+single room,habitación individual
+videoconference,la videoconferencia
+to ride,montar
+care,el cuidado
+to enter,entrar
+to achieve,cumplir
+inside,dentro
+on top,encima
+to realize,darse cuenta
+to flee,huir
+to dry,secarse
+strange,extraño
+school,el colegio
+to be worth,valer
+way,la manera
+dawn,el amanecer
+to hang,colgar
+question,la pregunta
+to weigh,pesar
+level,el nivel
+dawn,la madrugada
+to itch,picar
+to check,comprobar
+chest,el pecho
+state,el estado
+club,el club
+to turn on,prender
+effort,el esfuerzo
+together,junto
+to come,acudir
+stingy,tacaño
+half,la mitad
+to overcome,superar
+broken,roto
+to mark,marcar
+joint,conjunto
+to turn,girar
+beauty,la belleza
+to take off,despegar
+to water,regar
+to get ready,arreglarse
+son-in-law,el yerno
+end,el fin
+sand,la arena
+mountain range,la sierra
+wound,la herida
+empty,vacío
+silk,la seda
+frying pan,el/la sartén
+to sign,firmar
+stop,la parada
+to make oneself,hacerse
+handkerchief,el pañuelo
+to carry out,desempeñar
+danger,el peligro
+place,el sitio
+lie,la mentira
+crème caramel,el flan
+large,gran
+daughter-in-law,la nuera
+to find out,enterarse
+to warn,advertir
+wolf,el lobo
+to arise,surgir
+to distribute,repartir
+to plan,planear
+willing,dispuesto
+ashamed,avergonzado
+cake,la torta
+kiss,el beso
+joke,la broma
+signature,la firma
+to hurt oneself,lastimarse
+figure,la cifra
+to go with,acompañar
+excellent,excelente
+cheek,la mejilla
+hurt,herido
+cucumber,el pepino
+bitter,amargo
+trial,el juicio
+cast,el yeso
+previous,anterior
+ticket,el pasaje
+survey,la encuesta
+smell,el olor
+those,aquellos
+reading,la lectura
+lesson,la lección
+seated,sentado
+smooth,liso
+call,la llamada
+to judge,juzgar
+mountain range,la cordillera
+generally,generalmente
+to grant,otorgar
+pencil sharpener,el sacapuntas
+disgust,el asco
+example,el ejemplo
+coward,el cobarde
+tablecloth,el mantel
+beginning,el principio
+unknown,desconocido
+to make a mistake,equivocarse
+outgoing,extrovertido
+only,solo
+to feed,alimentar
+training,el entrenamiento
+sheet,la sábana
+to get lost,perderse
+to enter,ingresar
+to undertake,emprender
+natural,natural
+route,el recorrido
+border,la frontera
+pregnant,embarazada
+humor,el humor
+to cut oneself,cortarse
+actually,realmente
+to rescue,rescatar
+mixture,la mezcla
+noisy,ruidoso
+to contribute,contribuir
+science,las ciencias
+plan,el plano
+to shoot,rodar
+witness,el/la testigo
+achievement,el logro
+advanced,avanzado
+leader,el/la líder
+dryer,la secadora
+tower,la torre
+headquarters,la sede
+worldwide,mundial
+tissue,el tejido
+grass,la hierba
+stubborn,terco
+to bet,apostar
+treatment,el tratamiento
+broth,el caldo
+surprised,sorprendido
+finally,finalmente
+heating,la calefacción
+mattress,el colchón
+reader,el lector
+hill,la colina
+tire,la llanta
+to get tired,cansarse
+schedule,la agenda
+software,el software
+gossip,el chisme
+dollar,el dólar
+fly,la mosca
+godfather,el padrino
+tenderness,la ternura
+news,la noticia
+elephant,el elefante
+plot,la trama
+scarce,escaso
+immediately,inmediatamente
+curtain,la cortina
+shark,el tiburón
+conversation,la conversación
+essay,la redacción
+skyscraper,el rascacielos
+polite,cortés
+to cause,provocar
+to stay,alojarse
+feeling,el sentimiento
+crisis,la crisis
+brain,el cerebro
+deep,profundo
+ball,la bola
+values,los valores
+at,la arroba
+bar,la barra
+championship,el campeonato
+contempt,el desprecio
+to turn out,resultar
+issue,la cuestión
+trade,el oficio
+close,cercano
+children's,infantil
+future,el porvenir
+french fry,la papa frita
+bay,la bahía
+crash,el choque
+probably,seguramente
+detail,el detalle
+square,el cuadrado
+detective,el/la detective
+to clarify,aclarar
+to leave,abandonar
+prudent,prudente
+prisoner,el preso
+recently,recientemente
+because of,debido a
+juice,el zumo
+cleanliness,la limpieza
+round-trip,ida y vuelta
+compass,la brújula
+confused,confundido
+across from,enfrente de
+attentive,atento
+Bye!,¡Chau!
+to cultivate,cultivar
+to separate,separar
+fame,la fama
+shame,la lástima
+motto,el lema
+easily,fácilmente
+spoonful,la cucharada
+to like,caer bien
+lately,últimamente
+soft,blando
+to take care of oneself,cuidarse
+elderly,los ancianos
+unexpected,inesperado
+laundry,la lavandería
+consultation,la consulta
+grill,la parrilla
+wonder,la maravilla
+to congratulate,felicitar
+bright,brillante
+mist,la neblina
+Guatemala,Guatemala
+bat,el bate
+lighthouse,el faro
+to take notes,tomar apuntes
+Easter,la Pascua
+darkness,la oscuridad
+to believe,opinar
+entertaining,entretenido
+reality,la realidad
+to require,requerir
+Germany,Alemania
+to risk,arriesgar
+to foresee,prever
+homage,el homenaje
+typical,típico
+to exploit,explotar
+windshield,el parabrisas
+to search,registrar
+retired,jubilado
+approximately,aproximadamente
+anxiety,la angustia
+medium,mediano
+mortgage,la hipoteca
+social network,la red social
+eggplant,la berenjena
+speed,la velocidad
+to check in one's luggage,facturar el equipaje
+shelter,el refugio
+isolated,aislado
+absent-minded,despistado
+machine,la máquina
+tiger,el tigre
+remedy,el remedio
+gazpacho,el gazpacho
+Arabic,el árabe
+to make an effort,esforzarse
+chewing gum,el chicle
+to guarantee,garantizar
+gardener,el jardinero
+vaccine,la vacuna
+future,futuro
+dozen,la docena
+short film,el cortometraje
+Colombia,Colombia
+wire,el cable
+worthy,digno
+cultural,cultural
+oar,el remo
+merchandise,la mercancía
+flashlight,la linterna
+lung,el pulmón
+moment,el momento
+advance,el avance
+maturity,la madurez
+capacity,la capacidad
+triumph,el triunfo
+bilingual,bilingüe
+Nicaragua,Nicaragua
+to manage,gestionar
+to govern,gobernar
+zoo,el zoológico
+Puerto Rican,puertorriqueño
+bravery,la valentía
+false,falso
+to apologize,disculparse
+hero,el héroe
+department,el departamento
+to keep in mind,tener en cuenta
+to pack,hacer la maleta
+olive,la aceituna
+advisor,el asesor
+princess,la princesa
+to joke,bromear
+to exchange,intercambiar
+pessimistic,pesimista
+to declare,manifestar
+to hug each other,abrazarse
+teenager,el/la adolescente
+solidarity,la solidaridad
+murder,el asesinato
+waste,el desperdicio
+enemy,el enemigo
+institute,el instituto
+match,el fósforo
+to put on one's clothes,ponerse la ropa
+to accuse,acusar
+outer,exterior
+sweetness,la dulzura
+result,el resultado
+to be lucky,tener suerte
+skating,el patinaje
+phenomenon,el fenómeno
+exaggerated,exagerado
+personality,la personalidad
+hairstyle,el peinado
+tradition,la tradición
+citizenship,la ciudadanía
+introverted,introvertido
+rule,la norma
+winner,el ganador
+figure,la figura
+tournament,el torneo
+glass,el cristal
+waterfall,la cascada
+to introduce oneself,presentarse
+to explore,explorar
+initiative,la iniciativa
+to be moved,emocionarse
+psychology,la psicología
+to dust the furniture,sacudir los muebles
+stepson,el hijastro
+France,Francia
+Ecuadorian,el ecuatoriano
+to mistreat,maltratar
+situation,la situación
+to score a goal,meter un gol
+Holy Week,la Semana Santa
+chickpea,el garbanzo
+loss,la pérdida
+direct,directo
+request,la petición
+prejudice,el prejuicio
+kid,el chaval
+thermometer,el termómetro
+conservative,conservador
+explanation,la explicación
+furious,furioso
+considerate,considerado
+unfair,injusto
+verse,el verso
+to get a good grade,sacar una buena nota
+to tell,narrar
+shooting,el rodaje
+pea,el guisante
+hostel,el hostal
+sting,la picadura
+construction,la construcción
+electrical appliance,el electrodoméstico
+to be about,tratarse de
+risky,arriesgado
+spare time,ratos libres
+to imitate,imitar
+carnival,el carnaval
+aspirin,la aspirina
+tent,la tienda de campaña
+sausage,el embutido
+registration,la inscripción
+disadvantage,la desventaja
+to be sure,estar seguro
+to see a movie,ver una película
+to iron the clothes,planchar la ropa
+to create a favorable atmosphere for,propiciar
+tendency,la tendencia
+favorite,preferido
+banker,el banquero
+secret,el secreto
+medal,la medalla
+increase,el incremento
+to protest,protestar
+efficient,eficiente
+toast,el pan tostado
+boiled,hervido
+national,nacional
+environment,el medioambiente
+sedentary,sedentario
+slipper,la zapatilla
+difficulty,la dificultad
+shell,la cáscara
+heroine,la heroína
+ecotourism,el ecoturismo
+audience,el auditorio
+social sciences,las ciencias sociales
+digital,digital
+mystery,el misterio
+to restrict,restringir
+melon,el melón
+producer,el productor
+Colombian,el colombiano
+to lie down,tumbarse
+occupation,la ocupación
+gallery,la galería
+representative,el/la representante
+to play the piano,tocar el piano
+dynamic,dinámico
+magic,mágico
+establishment,el establecimiento
+immature,inmaduro
+besides,además de
+to break up with,romper con
+curiosity,la curiosidad
+diverse,diverso
+honeymoon,la luna de miel
+careless,imprudente
+adult,el adulto
+human rights,los derechos humanos
+in a bad mood,de mal humor
+half-brother,el medio hermano
+prose,la prosa
+discipline,la disciplina
+dignity,la dignidad
+Italy,Italia
+length,la duración
+to manage,administrar
+independence,la independencia
+bedside table,la mesita de noche
+marketing,el mercadeo
+astronaut,el/la astronauta
+ingredient,el ingrediente
+generation,la generación
+soundtrack,la banda sonora
+depression,la depresión
+jeans,el jean
+to reuse,reutilizar
+democracy,la democracia
+suspense,el suspenso
+central,céntrico
+to wash one's hands,lavarse las manos
+to anger,indignar
+religious,religioso
+to fall in love with,enamorarse de
+authentic,auténtico
+to collide with,chocar con
+perspective,la perspectiva
+to brush one's hair,cepillarse el pelo
+creation,la creación
+roommate,el compañero de cuarto
+submissive,agachado
+extinction,la extinción
+to click,hacer clic
+to fill the tank,llenar el tanque
+Brazilian,el brasileño
+nerdy,empollón
+to be fed up with,estar harto de
+insect,el insecto
+to be lost,estar perdido
+to play the role of,hacer el papel de
+exportation,la exportación
+punctuality,la puntualidad
+conversation,el diálogo
+browser,el navegador
+to misbehave,portarse mal
+to give an injection,poner una inyección
+microwave,el horno de microondas
+surfboard,la tabla de surf
+category,la categoría
+motivated,motivado
+to ride a bicycle,pasear en bicicleta
+to play an instrument,tocar un instrumento
+dormitory,la residencia estudiantil
+irresponsible,irresponsable
+to have one's birthday,cumplir años
+sardine,la sardina
+main character,el personaje principal
+infection,la infección
+protein,la proteína
+to be in pain,tener dolor
+researcher,el investigador
+media,medios de comunicación
+traveler's check,el cheque de viajero
+cholesterol,el colesterol
+boarding gate,la puerta de embarque
+to get angry with,enojarse con
+stockbroker,el corredor de bolsa
+before,antes que
+slogan,el eslogan
+drug addict,el drogadicto
+ecosystem,el ecosistema
+accessory,el accesorio
+genetics,la genética
+to go on a trip,ir de excursión
+life jacket,el chaleco salvavidas
+nightlife,la vida nocturna
+atmosphere,la atmósfera
+curriculum vitae,el currículum vitae
+intolerant,intolerante
+to go to the gym,ir al gimnasio
+online,en línea
+bachelorette party,la despedida de soltera
+mood,el estado de ánimo
+crater,el cráter
+to go by plane,ir en avión
+terrorism,el terrorismo
+round-trip ticket,el boleto de ida y vuelta
+to show,evidenciar
+fair trade,el comercio justo
+first class,la primera clase
+soup kitchen,comedor de beneficencia
+to surf the Internet,navegar en Internet
+danger of extinction,peligro de extinción
+source of energy,la fuente de energía
+special effect,el efecto especial
+direct flight,el vuelo directo
+excess baggage,exceso de equipaje
+movie star,la estrella de cine
+to go by bus,ir en autobús
+tourist class,la clase turista
+round-trip ticket,el pasaje de ida y vuelta
+to mail,echar al buzón
+air pollution,la contaminación del aire
+Dominican Republic,la República Dominicana
+to write emails,escribir correos electrónicos
+medical insurance,el seguro médico
+forest fire,el incendio forestal
+election,las elecciones
+to take shelter,refugiarse
+around,alrededor
+afternoon,la tarde
+pretty,lindo
+people,el pueblo
+real,real
+agreement,el acuerdo
+luck,la suerte
+but,sino
+to carry out,realizar
+in front,delante
+lack,la falta
+behind,detrás
+to sweep,barrer
+stocking,la media
+doll,la muñeca
+immediately,enseguida
+to cover,cubrir
+to brush,cepillarse
+size,el tamaño
+to thank,agradecer
+only,solamente
+bottom,el fondo
+to dare,atreverse
+underneath,debajo
+soul,el alma
+thirst,la sed
+leaf,la hoja
+to happen,suceder
+type,el tipo
+to stop,detener
+to move,mover
+rock,el rock
+to bark,ladrar
+content,el contenido
+to behave,comportarse
+receipt,el recibo
+to complete,completar
+to flirt,coquetear
+charming,encantador
+appearance,el aspecto
+suggestion,la sugerencia
+to empty,vaciar
+cave,la cueva
+surgery,la cirugía
+to mean,significar
+chore,el quehacer
+nut,la nuez
+introduction,la introducción
+to pour,verter
+to dye,teñir
+female,la hembra
+to assemble,armar
+colleague,el/la colega
+grapefruit,la toronja
+to apply,aplicar
+physical,físico
+to admit,admitir
+successful,exitoso
+to compare,comparar
+thumb,el pulgar
+raspberry,la frambuesa
+broccoli,el brócoli
+to imagine,imaginar
+tear,la lágrima
+exactly,exactamente
+text,el texto
+plumber,el plomero
+monthly,mensual
+strict,estricto
+theory,la teoría
+rainy,lluvioso
+completely,completamente
+vocabulary,el vocabulario
+free,libre
+welcome,bienvenido
+tell me,dime
+down,abajo
+value,el valor
+to crash,chocar
+right,la derecha
+true,cierto
+to burn,quemar
+to meet,reunirse
+left,la izquierda
+to deserve,merecer
+Puerto Rico,Puerto Rico
+to smell,oler
+to attend to,atender
+dear,querido
+to correct,corregir
+cloth,la tela
+sense,el sentido
+taco,el taco
+wrong,equivocado
+to have an afternoon snack,merendar
+god,el dios
+to include,incluir
+customs,la aduana
+part,la parte
+Chile,Chile
+waiter,el mesero
+sale,la venta
+environment,el entorno
+truck,el camión
+sports,los deportes
+honor,el honor
+to take,tardar
+gas,el gas
+to raise,criar
+famous,conocido
+to climb,escalar
+to cross,atravesar
+dead,muerto
+student,el alumno
+to throw,arrojar
+to fail,fallar
+to suffer from,padecer
+true,verdadero
+final,final
+liar,mentiroso
+whim,el capricho
+location,la ubicación
+signal,la señal
+failure,el fracaso
+attentively,atentamente
+toilet,el inodoro
+rope,la cuerda
+school,escolar
+to worry,preocupar
+honey,la miel
+wheat,el trigo
+humble,humilde
+to provide,proveer
+permission,el permiso
+course,el rumbo
+spider,la araña

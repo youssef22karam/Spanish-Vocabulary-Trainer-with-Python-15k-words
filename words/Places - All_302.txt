@@ -1,0 +1,302 @@
+country,el país
+square,la plaza
+police station,la comisaría
+fire station,la estación de bomberos
+map,el mapa
+Puerto Rico,Puerto Rico
+South Africa,Sudáfrica
+Bermuda,la Bermudas
+India,la India
+United States,Estados Unidos
+United Kingdom,el Reino Unido
+Trinidad and Tobago,Trinidad y Tobago
+New Zealand,Nueva Zelanda
+Jamaica,Jamaica
+Ireland,Irlanda
+Guyana,Guyana
+Canada,Canadá
+Belize,el Belice
+Barbados,Barbados
+Bahamas,la Bahamas
+Antigua and Barbuda,Antigua y Barbuda
+Australia,Australia
+Panama,Panamá
+Argentina,la Argentina
+Paraguay,Paraguay
+Uruguay,el Uruguay
+Bolivia,Bolivia
+Chile,Chile
+Colombia,Colombia
+Costa Rica,Costa Rica
+Dominican Republic,la República Dominicana
+Cuba,la Cuba
+Ecuador,Ecuador
+El Salvador,El Salvador
+Equatorial Guinea,Guinea Ecuatorial
+Honduras,Honduras
+Guatemala,Guatemala
+Mexico,México
+Nicaragua,Nicaragua
+Peru,Perú
+Spain,España
+Venezuela,la Venezuela
+shipyard,el astillero
+hollow,la depresión
+prison,la prisión
+jail,la cárcel
+viewpoint,el mirador
+classroom,el aula
+corner,la esquina
+storehouse,el almacén
+lot,el solar
+barn,el establo
+seat,la sede
+headquarters,la sede
+source,la fuente
+gas station,la gasolinera
+club,el club
+reservoir,el embalse
+swamp,el pantano
+bog,el cenagal
+universe,el universo
+monument,el monumento
+everywhere,por todas partes
+orchard,el huerto
+border,la frontera
+shed,la caseta
+habitat,el hábitat
+quarter,el casco
+old quarter,casco antiguo
+ATM,el cajero automático
+dormitory,la residencia estudiantil
+nursing home,hogar de ancianos
+boarding house,la fonda
+isolated,aislado
+balcony,el balcón
+ski resort,la estación de esquí
+golf course,el campo de golf
+bowling alley,la bolera
+box office,la taquilla
+courthouse,el palacio de justicia
+graveyard,el cementerio
+tomb,la tumba
+grave,la tumba
+desert,el desierto
+path,el sendero
+canal,el canal
+field,el campo
+repair shop,el taller
+garage,el garaje
+workshop,el taller
+mine,la mina
+AU,UA
+travel agency,la agencia de viajes
+outskirts,las afueras
+suburbs,las cercanías
+closing,el cierre
+reopening,la reapertura
+grand opening,gran apertura
+tent,la tienda de campaña
+rainforest,la selva tropical
+jungle,la jungla
+woods,el bosque
+shore,la costa
+shore,la orilla
+planet,el planeta
+Latin America,Latinoamérica
+closet,el armario
+stadium,el estadio
+floor,el suelo
+castle,el castillo
+palace,el palacio
+surroundings,el entorno
+fence,la valla
+gate,la puerta
+stand,el puesto
+dump,el vertedero
+tip,el extremo
+entrance,la entrada
+exit,la salida
+Antarctica,la Antártida
+Oceania,Oceanía
+Asia,Asia
+Africa,África
+North America,Norteamérica
+Central America,América Central
+South America,Sudamérica
+Europe,Europa
+plain,la llanura
+plot,el solar
+department store,los grandes almacenes
+national park,el parque nacional
+estate,la hacienda
+reserve,el coto
+plantation,la plantación
+hill,la colina
+abroad,al extranjero
+hostel,el albergue
+motel,el motel
+inn,la posada
+wine cellar,la bodega
+winery,la bodega
+cellar,el sótano
+basement,el sótano
+reef,el arrecife
+forest,el bosque
+bus stop,la parada de autobús
+bus station,la estación de autobuses
+train station,estación de ferrocarril
+station,la estación
+area,la zona
+space,el espacio
+region,la región
+scene,la escena
+scene,el escenario
+rural,rural
+urban,urbano
+bottom,el fondo
+top,la parte superior
+middle,el medio
+pond,el estanque
+lake,el lago
+highway,la autovía
+sports center,el polideportivo
+center,el centro
+main square,la plaza mayor
+destination,el destino
+island,la isla
+dining hall,el comedor
+pool,la piscina
+housing,la vivienda
+spot,el lugar
+court,el juzgado
+mountain,la montaña
+traffic island,la isleta
+roundabout,la glorieta
+refuge,el refugio
+shelter,el albergue
+shelter,el refugio
+land,la tierra
+office,el despacho
+study,el despacho
+place of birth,el lugar de nacimiento
+warehouse,el almacén
+post office,la oficina de correos
+staircase,la escalera
+near,cerca
+far,lejos
+barber shop,la barbería
+hair salon,la peluquería
+developing country,el país en desarrollo
+nation,la nación
+fountain,la fuente
+county,el condado
+block,la manzana
+atmosphere,la atmósfera
+environment,el ambiente
+shopping center,el centro comercial
+mall,el centro comercial
+pharmacy,la farmacia
+wall,la muralla
+capital,la capital
+flea market,el mercadillo
+market,el mercado
+theater,el teatro
+movie theater,el cinema
+house,la casa
+apartment building,el edificio de apartamentos
+hovel,la casucha
+hut,la choza
+shack,la chabola
+building,el edificio
+sea,el/la mar
+bay,la bahía
+ocean,el océano
+position,la ubicación
+pier,el muelle
+amusement park,el parque de atracciones
+marina,el puerto deportivo
+port,el puerto
+gym,el gimnasio
+fort,el fuerte
+community,la comunidad
+science museum,el museo de la ciencia
+art museum,el museo de arte
+museum,el museo
+zoo,el zoo
+nowhere,en ninguna parte
+anywhere,cualquier lugar
+there,ahí
+here,aquí
+bridge,el puente
+town hall,el concejo
+city hall,el ayuntamiento
+pasture,el acampo
+stable,el establo
+ranch,el rancho
+farm,la granja
+tabernacle,el tabernáculo
+mosque,la mezquita
+temple,el templo
+synagogue,la sinagoga
+church,la iglesia
+river,el río
+window,la ventana
+door,la puerta
+location,la ubicación
+meadow,la pradera
+neighborhood,el barrio
+street,la calle
+park,el parque
+backyard,jardín trasero
+front yard,el jardín delantero
+vegetable garden,el huerto
+yard,el jardín
+garden,el jardín
+bank,el banco
+patio,el patio
+cafeteria,la cantina
+pub,el pub
+bar,el bar
+café,el café
+library,la biblioteca
+retirement home,la residencia de ancianos
+daycare center,la guardería
+public school,la escuela pública
+private school,la escuela privada
+boarding school,el internado
+university,la universidad
+inside,dentro
+outside,fuera
+stationery store,la papelería
+bookshop,la librería
+bookstore,la librería
+toy store,la juguetería
+hardware store,la ferretería
+bakery,la panadería
+greengrocer's,la frutería
+grocery store,la tienda de comestibles
+supermarket,el supermercado
+butcher's,la carnicería
+dentist,el/la dentista
+doctor's office,el consultorio médico
+hospital,el hospital
+countryside,el campo
+hotel,el hotel
+beach,la playa
+skyscraper,el rascacielos
+office,la oficina
+stall,el puesto
+kiosk,el quiosco
+shop,la tienda
+business,el negocio
+hamlet,la aldea
+village,el pueblo
+town,el pueblo
+city,la ciudad
+airport,el aeropuerto
+place,el lugar
+restaurant,el restaurante
+high school,el instituto
+school,el colegio
+school,la escuela

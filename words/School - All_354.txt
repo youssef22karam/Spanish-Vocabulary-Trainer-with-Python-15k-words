@@ -1,0 +1,354 @@
+to teach,enseñar
+exam,el examen
+chalkboard,la pizarra
+teacher's desk,mesa del profesor
+teacher's desk,el escritorio del profesor
+classmate,el compañero de clase
+classmate,el compañero
+correction,la corrección
+to correct,corregir
+chalk,la tiza
+back to school,el regreso a clases
+outline,el boceto
+trainee,el/la aprendiz
+apprentice,el/la aprendiz
+hypothesis,la hipótesis
+to edit,editar
+presentation,la ponencia
+internship,la práctica laboral
+average,el promedio
+baccalaureate,el bachillerato
+face-to-face,presencial
+arts,las letras
+humanities,las humanidades
+spelling bee,el concurso de ortografía
+form,el formulario
+to ace,lucirse en
+to be rude to,faltar
+to be absent from,faltar
+to miss,faltar
+to have lessons,dar clases
+to lecture,dar clases
+meeting,la reunión
+references,referencias bibliográficas
+workshop,el taller
+on campus,en el recinto universitario
+tracking,división de los alumnos en grupos de acuerdo a su nivel de aptitud
+streaming,división de los alumnos en grupos según su nivel de aptitud
+tutor,el tutor
+foreign language assistant,el lector
+to take attendance,pasar lista
+attendance,la asistencia
+homeroom,la clase de tutoría
+mentor,el mentor
+nurse's office,el botiquín
+department,el departamento
+secretary,el secretario
+level,el nivel
+track,el grupo de aprendizaje
+draft,el borrador
+studious,estudioso
+slacker,el vago
+hard worker,buen trabajador
+philosophy,la filosofía
+makeup exam,la recuperación
+report card,el boletín de notas
+expulsion,la expulsión
+suspension,la expulsión temporal
+rule,la norma
+club,el club
+prom,el baile de fin de curso
+stress,el stress
+summer school,la escuela de verano
+to repeat,repetir
+nursery school,la guardería infantil
+public school,la escuela pública
+private school,la escuela privada
+boarding school,el internado
+trade school,la escuela de oficios
+trade school,instituto de formación profesional
+secondary school,la secundaria
+middle school,la escuela intermedia
+elementary school,la primaria
+preschool,el preescolar
+to apply,presentar una solicitud
+homework,los deberes
+homework,la tarea
+bathroom,el baño
+lockers,el casillero
+computer room,la sala de computadoras
+principal's office,oficina del director
+playground,el parque infantil
+playground,el patio
+locker room,el vestuario
+auditorium,el salón de actos
+gym,la gimnasia
+extra credit,crédito extra
+point,el punto
+course,la asignatura
+academic year,el año académico
+school year,el curso escolar
+year,el curso
+bibliography,la bibliografía
+to grade,calificar
+to hand in,presentar
+to hand in one's homework,entregar la tarea
+to revise,repasar
+dictionary,el diccionario
+schoolbag,la mochila
+vocabulary,el vocabulario
+task,la tarea
+grade,la calificación
+learning,el aprendizaje
+exercise,el ejercicio
+schedule,el horario
+unit,la unidad
+A level,el bachillerato
+principal,el director del colegio
+head,el jefe
+lesson,la lección
+chair,la cátedra
+chair,la silla
+desk,el escritorio
+graduate,el titulado
+master's,la maestría
+project,el proyecto
+poem,la poesía
+writing,la escritura
+essay,el ensayo
+library,la biblioteca
+education,la instrucción
+education,la educación
+extracurricular activities,las actividades extraescolares
+recess,el recreo
+break,el break
+vacation,la vacación
+quarter,el trimestre
+period,la hora
+class,la promoción
+class,la clase
+teaching assistant,el agregado
+assistant professor,el profesor adjunto
+teacher,el profesor
+teacher,el maestro
+school supplies,materiales escolares
+test,la prueba
+quiz,la prueba
+classroom,el aula
+notebook,la libreta
+pencil sharpener,el sacapuntas
+pencil box,el estuche para lápices
+eraser,la goma
+pen,el bolígrafo
+eraser,el borrador
+Scotch tape,el celo
+whiteout,el líquido corrector
+clipboard,la tabla con pinza
+backpack,la mochila
+scissors,la tijera
+ruler,la regla
+planner,la agenda
+highlighter,el rotulador fluorescente
+book,el libro
+ballpoint pen,el bolígrafo
+folder,la carpeta
+hole punch,la perforadora
+binder,la carpeta
+index card,la ficha
+colored pencil,el lápiz de color
+crayon,la cera
+glue stick,el pegamento en barra
+glue,el pegamento
+lunch box,la lonchera
+divider,el separador
+paper,el papel
+marker,el rotulador
+calculator,la calculadora
+computer,el ordenador
+laptop,el/la portátil
+laptop,la laptop
+mouse,el ratón
+stapler,la grapadora
+staple,la grapa
+printer,la impresora
+notebook,el cuaderno
+compass,el compás
+protractor,el transportador
+paper clip,el clip
+to explain,explicar
+to learn,aprender
+to study,estudiar
+to write,escribir
+to read,leer
+to discuss,discutir
+to graduate,graduarse
+to review,repasar
+to make a summary of,hacer un resumen de
+to note down,anotar
+to attend,asistir
+to go to class,ir a clases
+to ask a question,hacer una pregunta
+to raise one's hand,levantar la mano
+to take an exam,tomar un examen
+to miss class,faltar a clase
+to work in pairs,trabajar en parejas
+to do homework,hacer las tareas
+to go to school,ir a la escuela
+to underline,subrayar
+to write in cursive,escribir en cursiva
+to cheat,hacer trampa
+to write a sentence,escribir una oración
+to pay attention in class,prestar atención en clase
+to match the words,unir las palabras
+to ask,preguntar
+to answer,contestar
+to take note,tomar nota
+to summarize,sintetizar
+to learn by heart,aprender de memoria
+to learn,aprenderse
+to memorize,memorizar
+to draw,dibujar
+to highlight,subrayar
+to study for the exam,estudiar para el examen
+to play hooky,chacharse
+grade,la nota
+to assess,evaluar
+to drill,ejercitar
+to flunk,cargar
+to register,inscribirse
+to give a speech,dar un discurso
+to listen,escuchar
+to look up,consultar
+to take notes,tomar apuntes
+to remember,recordar
+to forget,olvidar
+to do homework,hacer los deberes
+to erase,borrar
+to type,teclear
+to understand,entender
+to participate,participar
+to finish,acabar
+to choose,elegir
+to describe,describir
+help,la ayuda
+work together,trabajen juntos
+sit down,tome asiento
+stop talking,deja de hablar
+spell your name and surname,deletrea tu nombre y apellido
+open your book,abre tu libro
+open your books,abran sus libros
+open your books,abran el libro
+pay attention,presta atención
+pay attention,presten atención
+close your books,cierren los libros
+raise your hand,levanta la mano
+ please,repeat, por favor,repita
+ please,repeat, por favor,repitan
+take out a piece of paper,saquen una hoja de papel
+take out a pencil,saquen un lápiz
+take out your homework,saca la tarea
+go to the blackboard,ve a la pizarra
+go to the board,ve a la pizarra
+go to the whiteboard,ve a la pizarra
+do your homework,haz tu tarea
+spell out the words,deletrea las palabras
+stop,deja de
+ please,sit down, por favor,siéntense
+honors,el curso avanzado
+economics,la economía
+calculus,el cálculo
+chemistry,la química
+physics,la física
+photography,la fotografía
+ceramics,la cerámica
+yearbook,el anuario
+creative writing,la escritura creativa
+literature,la literatura
+speech therapy,la logopedia
+choir,el coro
+band,la banda
+shop,el taller de manualidades
+home economics,economía doméstica
+computer science,la informática
+geometry,la geometría
+algebra,el álgebra
+foreign language,lengua extranjera
+dance,el baile
+language arts class,clase de lengua
+social studies,los estudios sociales
+geography,la geografía
+music,la música
+Latin,el latín
+French,el francés
+Spanish,el español
+English,el inglés
+art,el arte
+history,la historia
+math,las matemáticas
+PE,la educación física
+drama,el drama
+science,las ciencias
+instructor,el instructor
+notes,los apuntes
+to matriculate,matricular
+doctorate,el doctorado
+extracurricular,extracurricular
+university,la universidad
+undergraduate,el universitario
+tutor,el tutor
+tuition,la matrícula
+thesis,la tesis
+textbook,el libro de texto
+term,el cuatrimestre
+syllabus,el temario
+loan,el préstamo
+spring break,las vacaciones de primavera
+semester,el trimestre
+semester,el semestre
+roommate,el compañero de habitación
+research,la investigación
+to register,matricular
+professor,el profesor universitario
+postgraduate,de postgrado
+PhD,el doctorado
+minor,la asignatura secundaria
+medical school,la facultad de medicina
+master's degree,la maestría
+major,la especialidad
+lecture,la clase
+Law School,la Facultad de Derecho
+homecoming,fiesta de exalumnos
+graduate,el graduado
+senior,el/la estudiante del último año
+junior,estudiante de tercer año
+sophomore,el/la estudiante de segundo año
+freshman,el/la estudiante de primer año
+sorority,la sororidad
+fraternity,el círculo estudiantil
+financial aid,la ayuda financiera
+to fail,suspender
+to pass,aprobar
+midterm,el examen parcial
+final,el examen final
+to enroll,inscribir
+dormitory,la residencia estudiantil
+diploma,el diploma
+dining hall,el comedor
+department,la facultad
+dean,el decano
+curriculum,el currículum
+credit,el crédito
+course,el curso
+community college,el colegio universitario comunitario
+community college,colegio comunitario
+college,la universidad
+campus,el campus
+scholarship,la beca
+grant,la beca
+degree,la licenciatura
+to audit,asistir como oyente
+advisor,el tutor
+academy,la academia
+the academic world,la academia
+academic,académico
+assignment,el trabajo

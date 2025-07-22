@@ -1,0 +1,332 @@
+vulnerable,vulnerable
+vulgar,vulgar
+vital,vital
+visual,visual
+visible,visible
+violin,el violín
+vertical,vertical
+version,la versión
+verbal,verbal
+usual,usual
+universal,universal
+union,la unión
+tropical,tropical
+triple,triple
+total,el total
+terror,el terror
+television,la televisión
+taxi,el taxi
+superior,superior
+superficial,superficial
+solo,el solo
+similar,similar
+singular,el singular
+simple,simple
+sentimental,sentimental
+secular,secular
+rural,rural
+ritual,ritual
+revision,la revisión
+religion,la religión
+regional,regional
+region,la región
+radio,el radio
+radical,radical
+protector,el protector
+propaganda,la propaganda
+probable,probable
+principal,principal
+plural,el plural
+piano,el piano
+personal,personal
+peculiar,peculiar
+patio,el patio
+pastor,el pastor
+pasta,la pasta
+panorama,el panorama
+oriental,oriental
+original,original
+oral,oral
+opera,la ópera
+normal,normal
+natural,natural
+musical,el musical
+municipal,municipal
+multiple,múltiple
+motor,el motor
+mortal,el/la mortal
+motel,el motel
+moral,moral
+miserable,miserable
+melon,el melón
+mediocre,mediocre
+material,el material
+marginal,marginal
+manual,el manual
+mango,el mango
+macho,el macho
+local,local
+literal,literal
+liberal,liberal
+legal,legal
+lateral,lateral
+kilo,kilo
+judicial,judicial
+irregular,irregular
+invisible,invisible
+invasion,la invasión
+interminable,interminable
+inspector,el inspector
+inferior,inferior
+inseparable,inseparable
+inevitable,inevitable
+industrial,industrial
+individual,individual
+incursion,la incursión
+implacable,implacable
+imperial,imperial
+ideal,ideal
+idea,la idea
+horror,el horror
+horizontal,horizontal
+hobby,el hobby
+habitual,habitual
+grave,grave
+global,global
+genesis,la génesis
+general,general
+gala,la gala
+fundamental,fundamental
+frontal,frontal
+formula,la fórmula
+formal,formal
+flexible,flexible
+final,final
+festival,el festival
+federal,federal
+familiar,familiar
+factor,el factor
+exterior,el exterior
+extension,la extensión
+explosion,la explosión
+experimental,experimental
+excursion,la excursión
+error,el error
+enigma,el enigma
+elementary,elemental
+electoral,electoral
+editorial,el editorial
+division,la división
+disc,el disco
+director,el director
+dimension,la dimensión
+diagonal,diagonal
+decision,la decisión
+debate,el debate
+cultural,cultural
+crisis,la crisis
+criminal,criminal
+cordial,cordial
+control,el control
+considerable,considerable
+confusion,la confusión
+conclusion,la conclusión
+combustion,la combustión
+coma,el coma
+colonial,colonial
+collar,el collar
+club,el club
+civil,civil
+circular,circular
+chocolate,el chocolate
+check,el cheque
+cerebral,cerebral
+central,central
+carbon,el carbón
+capital,la capital
+canon,el canon
+cancer,el cáncer
+canal,el canal
+cable,el cable
+brutal,brutal
+balance,el balance
+automobile,el auto
+artificial,artificial
+area,el área
+animal,el animal
+altar,el altar
+alcohol,el alcohol
+admirable,admirable
+actor,el actor
+visit,la visita
+use,el uso
+terrible,terrible
+temperature,la temperatura
+telephone,el teléfono
+tea,el té
+story,la historia
+estate,la hacienda
+special,especial
+social,social
+situation,la situación
+service,el servicio
+second,segundo
+return,el retorno
+repeat,la repetición
+regular,regular
+problem,el problema
+price,el precio
+popular,popular
+person,la persona
+perfect,perfecto
+pardon,el perdón
+or,o
+opinion,la opinión
+number,el número
+no,no
+necessary,necesario
+nature,la naturaleza
+music,la música
+minute,el minuto
+menu,el menú
+language,el lenguaje
+interesting,interesante
+favorite,favorito
+fantastic,fantástico
+family,la familia
+excellent,excelente
+dollar,el dólar
+day,el día
+cost,el coste
+urgent,urgente
+police,la policía
+medicine,la medicina
+hospital,el hospital
+emergency,la emergencia
+doctor,el doctor
+accident,el accidente
+university,la universidad
+theatre,el teatro
+train,el tren
+station,la estación
+restaurant,el restaurante
+park,el parque
+office,la oficina
+ocean,el océano
+north,el norte
+mountain,la montaña
+map,el mapa
+island,la isla
+hotel,el hotel
+gas,el gas
+to explore,explorar
+distance,la distancia
+car,el carro
+bar,el bar
+bank,el banco
+airport,el aeropuerto
+to happen,suceder
+to stand,soportar
+to stir,revolver
+to subtract,restar
+to remember,recordar
+to remove,quitar
+to try,procurar
+to intend,pretender
+to bother,molestar
+to not know,ignorar
+to record,grabar
+to arouse,excitar
+to throw,echar
+to argue,discutir
+to wake up,despertar
+to disappoint,decepcionar
+to repay,corresponder
+to answer,contestar
+to crash,chocar
+to armor-plate,blindar
+to attend,asistir
+glass,el vaso
+trap,la trampa
+event,el suceso
+soup,la sopa
+wage,el salario
+clothing,la ropa
+network,la red
+collection,la recolección
+recipe,la receta
+plagiarism,el plagio
+condom,el preservativo
+boss,el patrón
+relative,el pariente
+potato,la papa
+bread,el pan
+trade,el oficio
+eleven,once
+opportunity,la ocasión
+news,la noticia
+name,el nombre
+business,el negocio
+mass,la masa
+brand,la marca
+breast,la mama
+bookstore,la librería
+lyrics,la letra
+reading,la lectura
+retirement,la jubilación
+language,el idioma
+mood,el humor
+soccer,el fútbol
+signature,la firma
+lack,la falta
+factory,la fábrica
+success,el éxito
+elevator,el elevador
+manners,la educación
+misfortune,la desgracia
+crime,el delito
+disappointment,la decepción
+damaged,damnificado
+glass,la copa
+driver,el conductor
+commitment,el compromiso
+build,la complexión
+school,el colegio
+letter,la carta
+folder,la carpeta
+charge,el cargo
+countryside,el campo
+legal practice,el bufete
+trillion,el billón
+high school,el bachillerato
+attendance,la asistencia
+murderer,el asesino
+plot,el argumento
+sand,la arena
+eulogy,la apología
+warning,la advertencia
+last,último
+lately,últimamente
+on,sobre
+healthy,sano
+royal,real
+bigger,mayor
+long,largo
+funny,gracioso
+annoying,fastidioso
+exciting,emocionante
+possible,eventual
+polite,educado
+dismissed,destituido
+cultured,culto
+red,colorado
+white,blanco
+brave,bizarro
+nowadays,actualmente
+injury,la herida
+pregnant,embarazada
+present,actual
+fabric,la tela
+degree,la carrera
+sensitive,sensible
+to do,realizar

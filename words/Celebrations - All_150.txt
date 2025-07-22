@@ -1,0 +1,150 @@
+gold,el oro
+love,el amor
+boyfriend,el novio
+girlfriend,la novia
+be mine,sé mío
+I love you,te quiero
+I love you,te amo
+soulmate,el alma gemela
+my love,mi amor
+xoxo,tqm
+kiss me,bésame
+true love,amor verdadero
+hug me,abrázame
+you and me,tú y yo
+sweetie,el amorcito
+sweetie,la ricura
+only you,solo tú
+darling,el cariño
+to adore,adorar
+Saint Valentine,San Valentín
+valentine,tarjeta de San Valentín
+turkey,el pavo
+cranberry,el arándano rojo
+mashed potatoes,el puré de patatas
+gravy,la salsa de carne
+sweet potato,la batata
+yam,el ñame
+pumpkin pie,pastel de calabaza
+cornucopia,la cornucopia
+stuffing,el relleno
+Happy Thanksgiving!,¡Feliz día de Acción de Gracias!
+green bean,la judía verde
+apple pie,la tarta de manzana
+cornbread,el pan de maíz
+Brussels sprouts,el coles de Bruselas
+resolution,el propósito
+New Year,el año nuevo
+goal,la meta
+to set,fijar
+life,la vida
+to work out,hacer gimnasia
+work,el trabajo
+hobby,el hobby
+health,la salud
+exercise,el ejercicio
+vision,la visión de futuro
+self-care,cuidado personal
+tree,el árbol
+light,la luminaria
+Memorial Day,el Día de los Caídos
+Ash Wednesday,el Miércoles de Ceniza
+Mardi Gras,Martes de Carnaval
+Passover,la Pascua judía
+menorah,la menorá
+heart,el corazón
+chocolate,el chocolate
+crush,el crush
+Cupid,el Cupido
+to fall in love,enamorarse
+kiss,el beso
+hug,el abrazo
+lovebird,el tórtolo
+Valentine's Day,el Día de los Enamorados
+Valentine's Day,el Día de San Valentín
+All Saints' Day,Día de Todos los Santos
+Good Friday,el Viernes Santo
+La Tomatina,La Tomatina
+Fallas,las fallas
+national holidays,las fiestas patrias
+Children's Day,Día del Niño
+Workers' Day,Día del Trabajo
+Candlemas,la Candelaria
+running of the bulls in Pamplona,los sanfermines
+Independence Day,el Día de la Independencia
+Festival of Lights,la Fiesta de las Luces
+Labor Day,Día del Trabajador
+April Fools' Day,el día de los Santos Inocentes
+Secretary's Day,Día de la Secretaria
+Teachers Day,Día del Maestro
+Earth Day,Día de la Tierra
+Columbus Day,Día de la Raza y la Hispanidad
+Women's Day,la Día de la Mujer
+Saint Patrick's Day,Día de San Patricio
+Merry Christmas,Feliz Navidad
+happy and prosperous new year,próspero año y felicidad
+Happy New Year,próspero Año Nuevo
+happiness,la felicidad
+dedication,la dedicatoria
+to wish,desear
+maypole,el mayo
+toast,el brindis
+fair,la feria
+benefit,la función benéfica
+compliment,el cumplido
+fireworks,los fuegos artificiales
+to invite,invitar
+offering,la ofrenda
+little gift,el detalle
+bachelorette party,la despedida de soltera
+bachelor party,la despedida de soltero
+invitation,la invitación
+carnival,el carnaval
+group,la comparsa
+contest,el concurso
+prize,el premio
+surprise,la sorpresa
+Holy Week,la Semana Santa
+Easter,la Pascua
+float,el paso
+float,la carroza
+reception,el banquete
+groom,el novio
+bride,la novia
+anniversary,el aniversario
+good luck,buena suerte
+Father's Day,Día del Padre
+Mother's Day,Día de la Madre
+Thanksgiving Day,el Día de Acción de Gracias
+thanksgiving,la acción de gracias
+event,el evento
+decorations,la decoración
+Hanukkah,la Janucá
+frankincense,el olíbano
+myrrh,la mirra
+reunion,el reencuentro
+Nativity scene,el belén
+holiday,el día festivo
+to give,regalar
+Epiphany,día de Reyes
+New Year's Day,día de Año Nuevo
+New Year's Eve,Nochevieja
+Christmas Eve,la Nochebuena
+Christmas card,la tarjeta de Navidad
+Christmas,la Navidad
+to celebrate,celebrar
+Cinco de Mayo,el Cinco de Mayo
+Fourth of July,Cuatro de Julio
+card,la tarjeta
+congratulations,enhorabuena
+celebration,la celebración
+gift,el regalo
+Day of the Dead,el Día de los Muertos
+festival,el festival
+custom,la costumbre
+wedding,la boda
+Happy birthday!,¡Feliz cumpleaños!
+present,el regalo
+Halloween,Halloween
+party,la fiesta
+birthday,el cumpleaños

@@ -1,0 +1,35 @@
+a great deal of,la mar de
+a bit of,un poco de
+a couple of,un par de
+fewer,menos
+neither,ninguno
+few,poco
+either,cualquiera
+loads of,un montón de
+plenty of,bastante
+less,menos
+lots of,un montón de
+any,cualquier
+no,no
+enough,bastante
+a lot of,mucho
+too much,demasiado
+a ton,el montón
+several,varios
+a little,un poco
+many,muchas
+most,la mayoría
+a lot,mucho
+little,poco
+much,mucho
+no,ninguno
+every,cada
+everything,todo
+no one,ninguno
+each,cada
+none of,ningún
+both,ambos
+some,alguno
+so much,tanto
+more,más
+all,todo

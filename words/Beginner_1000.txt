@@ -1,0 +1,1000 @@
+country,el país
+to compete,competir
+to teach,enseñar
+season,la estación
+plane,el avión
+sure,seguro
+square,la plaza
+small,pequeño
+to send,enviar
+to come,venir
+one hundred,cien
+journalist,el/la periodista
+development,el desarrollo
+earthquake,el terremoto
+last night,anoche
+Monday,el lunes
+to put,poner
+silver,la plata
+gold,el oro
+coat,el abrigo
+to see,ver
+blue,azul
+car,el coche
+Sunday,el domingo
+exam,el examen
+to pay,pagar
+to be able to,poder
+bed,la cama
+good night,buenas noches
+artist,el/la artista
+gray,gris
+green,verde
+white,blanco
+black,negro
+yellow,amarillo
+red,rojo
+brown,el marrón
+orange,anaranjado
+purple,morado
+pink,rosado
+color,el color
+to do,hacer
+to say,decir
+to go out,salir
+to want,querer
+to speak,hablar
+boyfriend,el novio
+movie theater,el cine
+to have,tener
+to ask for,pedir
+to take,tomar
+boring,aburrido
+food,la comida
+rich,rico
+calm,tranquilo
+to go,ir
+to eat,comer
+to return,volver
+young,joven
+countryside,el campo
+music,la música
+to know,saber
+to start,empezar
+on,sobre
+to hurt,doler
+store,la tienda
+coffee,el café
+big,grande
+to be,estar
+to live,vivir
+to get up,levantarse
+fun,divertido
+film,la película
+clothing,la ropa
+kitchen,la cocina
+water,el agua
+month,el mes
+January,el enero
+February,el febrero
+March,el marzo
+April,el abril
+May,el mayo
+June,el junio
+July,el julio
+August,el agosto
+September,el septiembre
+October,el octubre
+November,el noviembre
+December,el diciembre
+summer,el verano
+winter,el invierno
+fall,el otoño
+spring,la primavera
+week,la semana
+Tuesday,el martes
+Wednesday,el miércoles
+Thursday,el jueves
+Friday,el viernes
+Saturday,el sábado
+to lose,perder
+also,también
+to go to bed,acostarse
+to dance,bailar
+someone,alguien
+table,la mesa
+a lot of,mucho
+company,la empresa
+bag,la bolsa
+forest,el bosque
+some,alguno
+pollution,la contaminación
+to be,ser
+to arrive,llegar
+to know,conocer
+to sleep,dormir
+should,deber
+after,después
+to tell,contar
+nice,simpático
+to spend,gastar
+house,la casa
+chair,la silla
+happy,contento
+hardworking,trabajador
+fish,el pescado
+actor,el actor
+mall,el centro comercial
+market,el mercado
+never,nunca
+schedule,el horario
+yesterday,ayer
+today,hoy
+tomorrow,mañana
+weekend,el fin de semana
+before,antes
+day,el día
+year,el año
+jacket,la chaqueta
+shy,tímido
+doctor,el médico
+history,la historia
+bank,el banco
+environment,el medio ambiente
+police officer,el/la policía
+writer,el escritor
+actress,la actriz
+sofa,el sofá
+to look for,buscar
+to read,leer
+always,siempre
+good,bueno
+to rest,descansar
+to study,estudiar
+to win,ganar
+neither,tampoco
+tall,alto
+hand,la mano
+sweet,dulce
+wardrobe,el armario
+T-shirt,la camiseta
+intelligent,inteligente
+theater,el teatro
+teacher,el profesor
+prize,el premio
+nature,la naturaleza
+museum,el museo
+nervous,nervioso
+to write,escribir
+to play,jugar
+Spanish,el español
+to like,gustar
+to travel,viajar
+then,luego
+to drink,beber
+sad,triste
+to end,terminar
+what,qué
+woman,la mujer
+game,el partido
+street,la calle
+to take a shower,ducharse
+painting,el cuadro
+work,el trabajo
+child,el niño
+brother,el hermano
+lawyer,el abogado
+head,la cabeza
+team,el equipo
+arm,el brazo
+grandmother,la abuela
+leg,la pierna
+father,el padre
+rice,el arroz
+chicken,el pollo
+price,el precio
+engineer,el ingeniero
+tennis,el tenis
+gym,el gimnasio
+to recycle,reciclar
+television,el televisor
+restaurant,el restaurante
+art,el arte
+lamp,la lámpara
+river,el río
+to take,llevar
+to follow,seguir
+to get,conseguir
+to buy,comprar
+to run,correr
+something,algo
+to put on,ponerse
+to get dressed,vestirse
+because,porque
+to take a bath,bañarse
+short,bajo
+to cook,cocinar
+late,tarde
+time,el tiempo
+hour,la hora
+date,la fecha
+noon,el mediodía
+midnight,la medianoche
+morning,la mañana
+time,la hora
+century,el siglo
+people,la gente
+handsome,guapo
+no one,nadie
+to need,necesitar
+bread,el pan
+door,la puerta
+city,la ciudad
+expensive,caro
+health,la salud
+pretty,bonito
+blond,rubio
+swimming pool,la piscina
+mouth,la boca
+ugly,feo
+to save,ahorrar
+to go shopping,ir de compras
+cake,el pastel
+comfortable,cómodo
+difficult,difícil
+paper,el papel
+money,el dinero
+to solve,resolver
+plate,el plato
+other,otro
+milk,la leche
+mother,la madre
+stairs,la escalera
+which,cuál
+director,el director
+sport,el deporte
+competition,el concurso
+bookstore,la librería
+drink,la bebida
+tomato,el tomate
+to work,funcionar
+concert,el concierto
+to wait for,esperar
+to look at,mirar
+place,el lugar
+to work,trabajar
+too,demasiado
+to prefer,preferir
+to sing,cantar
+to taste,probar
+to swim,nadar
+to share,compartir
+foot,el pie
+to bother,molestar
+English,el inglés
+dinner,la cena
+to discover,descubrir
+sister,la hermana
+book,el libro
+school,la escuela
+couple,la pareja
+meat,la carne
+sea,el/la mar
+skirt,la falda
+beach,la playa
+serious,serio
+church,la iglesia
+to protect,proteger
+manager,el/la gerente
+singer,el/la cantante
+exit,la salida
+entrance,la entrada
+ma'am,la señora
+park,el parque
+nose,la nariz
+grandfather,el abuelo
+interesting,interesante
+friend,el amigo
+patient,paciente
+can,la lata
+eye,el ojo
+egg,el huevo
+painting,la pintura
+firefighter,el bombero
+parents,los padres
+painter,el pintor
+supermarket,el supermercado
+politics,la política
+energy,la energía
+to find,encontrar
+to think,pensar
+to be left,quedar
+to touch,tocar
+still,todavía
+besides,además
+enough,bastante
+older,mayor
+between,entre
+to have dinner,cenar
+to rain,llover
+to cost,costar
+dark-haired,moreno
+to discuss,discutir
+bad,malo
+easy,fácil
+backpack,la mochila
+to have breakfast,desayunar
+to paint,pintar
+long,largo
+dessert,el postre
+neighborhood,el barrio
+to improve,mejorar
+library,la biblioteca
+tree,el árbol
+dangerous,peligroso
+class,la clase
+garden,el jardín
+open,abierto
+knee,la rodilla
+salt,la sal
+sir,el señor
+light,la luz
+lettuce,la lechuga
+to recommend,recomendar
+swimming,la natación
+lake,el lago
+population,la población
+fish,el pez
+in front of,delante de
+center,el centro
+old,antiguo
+soccer,el fútbol
+illness,la enfermedad
+advertisement,el anuncio
+soda,el refresco
+coach,el entrenador
+employment,el empleo
+nurse,el enfermero
+mountain,la montaña
+fruit,la fruta
+architect,el arquitecto
+profession,la profesión
+stomach,el estómago
+politician,el político
+to wear,llevar
+when,cuando
+because of,por
+to learn,aprender
+to believe,creer
+then,entonces
+from,desde
+to walk,caminar
+to wake up,despertarse
+to help,ayudar
+old,viejo
+to sell,vender
+to die,morir
+daughter,la hija
+to remember,recordar
+kind,amable
+hotel,el hotel
+breakfast,el desayuno
+dog,el perro
+to draw,dibujar
+to fall,caerse
+hospital,el hospital
+man,el hombre
+uncle,el tío
+suit,el traje
+dress,el vestido
+mirror,el espejo
+dining room,el comedor
+neck,el cuello
+why,por qué
+present,el regalo
+suddenly,de repente
+ice cream,el helado
+newspaper,el periódico
+unfriendly,antipático
+wall,la pared
+dirty,sucio
+oil,el aceite
+boss,el jefe
+apple,la manzana
+to explain,explicar
+screen,la pantalla
+animal,el animal
+cat,el gato
+waiter,el camarero
+jungle,la selva
+interview,la entrevista
+girl,la chica
+war,la guerra
+orange,la naranja
+no,ninguno
+custom,la costumbre
+clean,limpio
+party,la fiesta
+cheese,el queso
+flu,la gripe
+salesclerk,el dependiente
+towel,la toalla
+flower,la flor
+hot,picante
+to vacuum,pasar la aspiradora
+family,la familia
+under,debajo de
+salad,la ensalada
+pharmacy,la farmacia
+pill,la pastilla
+aunt,la tía
+vegetable,la verdura
+technology,la tecnología
+café,la cafetería
+to give,dar
+to bring,traer
+for,para
+to open,abrir
+to call,llamar
+to stay,quedarse
+until,hasta
+to receive,recibir
+to pick up,recoger
+in,en
+however,sin embargo
+to want,desear
+to break,romper
+to change,cambiar
+to turn off,apagar
+strong,fuerte
+happy,alegre
+thin,delgado
+son,el hijo
+network,la red
+to get married,casarse
+cheap,barato
+floor,el piso
+shirt,la camisa
+to ski,esquiar
+to comb one's hair,peinarse
+to fall asleep,dormirse
+suitcase,la maleta
+or,o
+window,la ventana
+during,durante
+new,nuevo
+body,el cuerpo
+tie,la corbata
+boat,el barco
+bird,el pájaro
+song,la canción
+teacher,el maestro
+soap,el jabón
+to request,solicitar
+armchair,el sillón
+healthy,sano
+cough,la tos
+basketball,el baloncesto
+to have a good time,pasarlo bien
+kid,el chico
+behind,detrás de
+bus,el autobús
+cook,el cocinero
+to exercise,hacer ejercicio
+safety,la seguridad
+bottle,la botella
+university,la universidad
+airport,el aeropuerto
+responsible,responsable
+office,la oficina
+to make the bed,hacer la cama
+mechanic,el mecánico
+shampoo,el champú
+excursion,la excursión
+modern,moderno
+hamburger,la hamburguesa
+sunglasses,las gafas de sol
+literature,la literatura
+monument,el monumento
+comedy,la comedia
+secretary,el secretario
+audience,el público
+credit card,la tarjeta de crédito
+ATM,el cajero automático
+Hello!,¡Hola!
+to understand,entender
+number,el número
+zero,cero
+one,uno
+two,dos
+three,tres
+four,cuatro
+five,cinco
+six,seis
+seven,siete
+eight,ocho
+nine,nueve
+ten,diez
+eleven,once
+twelve,doce
+thirteen,trece
+fourteen,el catorce
+fifteen,quince
+sixteen,dieciséis
+seventeen,diecisiete
+eighteen,el dieciocho
+nineteen,el diecinueve
+twenty,veinte
+to listen to,escuchar
+to drive,conducir
+to close,cerrar
+to serve,servir
+to begin,comenzar
+I'm sorry,lo siento
+to go for a walk,pasear
+love,el amor
+to answer,contestar
+tired,cansado
+to forget,olvidar
+nothing,nada
+to visit,visitar
+living room,la sala
+alone,solo
+heart,el corazón
+to drive,manejar
+to repeat,repetir
+to leave,irse
+notebook,el cuaderno
+cousin,el primo
+to skate,patinar
+test,la prueba
+trip,el viaje
+to shave,afeitarse
+appointment,la cita
+to practice,practicar
+who,quién
+less,menos
+bathroom,el baño
+land,la tierra
+life,la vida
+cereal,el cereal
+short,corto
+niece,la sobrina
+owner,el dueño
+sugar,el/la azúcar
+key,la llave
+rug,la alfombra
+friendship,la amistad
+soup,la sopa
+onion,la cebolla
+butter,la mantequilla
+cap,la gorra
+salary,el sueldo
+stone,la piedra
+twenty-one,veintiuno
+twenty-two,veintidós
+twenty-three,veintitrés
+twenty-four,veinticuatro
+twenty-five,veinticinco
+twenty-six,veintiséis
+twenty-seven,veintisiete
+twenty-eight,veintiocho
+twenty-nine,el veintinueve
+thirty,el treinta
+forty,cuarenta
+fifty,cincuenta
+sixty,sesenta
+seventy,setenta
+eighty,ochenta
+ninety,noventa
+one hundred and one,ciento uno
+two hundred,doscientos
+three hundred,trescientos
+four hundred,cuatrocientos
+five hundred,quinientos
+six hundred,seiscientos
+seven hundred,el setecientos
+eight hundred,ochocientos
+nine hundred,novecientos
+thousand,mil
+two thousand,dos mil
+one hundred thousand,cien mil
+two hundred thousand,doscientos mil
+million,el millón
+fair,justo
+the day before yesterday,anteayer
+carrot,la zanahoria
+food,el alimento
+red-haired,pelirrojo
+fork,el tenedor
+when,cuándo
+employee,el empleado
+ham,el jamón
+brave,valiente
+mouse,el ratón
+to sunbathe,tomar el sol
+closed,cerrado
+blanket,la manta
+how much,cuánto
+to reduce,reducir
+train,el tren
+hat,el sombrero
+problem,el problema
+accountant,el contador
+climate,el clima
+telephone,el teléfono
+metro,el metro
+where,dónde
+company,la compañía
+map,el mapa
+pants,el pantalón
+grape,la uva
+scientist,el científico
+player,el jugador
+west,el oeste
+untidy,desordenado
+crafts,la artesanía
+cookie,la galleta
+housing,la vivienda
+shoe,el zapato
+hairdresser,el peluquero
+boot,la bota
+customer,el cliente
+grandparents,los abuelos
+performance,la actuación
+shoe store,la zapatería
+mathematics,las matemáticas
+free time,el tiempo libre
+dance,la danza
+important,importante
+meeting,la reunión
+to pollute,contaminar
+yogurt,el yogur
+culture,la cultura
+passport,el pasaporte
+volleyball,el voleibol
+musician,el músico
+to listen to music,escuchar música
+documentary,el documental
+better,mejor
+like,como
+to leave,dejar
+to hear,oír
+thank you,gracias
+but,pero
+already,ya
+to return,regresar
+this,este
+check,la cuenta
+now,ahora
+with,con
+to feel,sentirse
+birthday,el cumpleaños
+lazy,perezoso
+ready,listo
+to add,añadir
+town,el pueblo
+often,a menudo
+to be born,nacer
+nephew,el sobrino
+to run,dirigir
+lunch,el almuerzo
+last name,el apellido
+pencil,el lápiz
+career,la carrera
+language,el idioma
+to offer,ofrecer
+name,el nombre
+desk,el escritorio
+very,muy
+pain,el dolor
+maybe,tal vez
+ball,la pelota
+to fight,luchar
+first,primero
+second,segundo
+third,tercero
+fourth,cuarto
+fifth,quinto
+sixth,sexto
+seventh,séptimo
+eighth,octavo
+ninth,noveno
+tenth,décimo
+shame,la vergüenza
+advice,el consejo
+knife,el cuchillo
+excuse me,perdón
+road,la carretera
+to obtain,obtener
+bad,mal
+pen,el bolígrafo
+garlic,el ajo
+student,el/la estudiante
+tasty,sabroso
+to act,actuar
+drama,el drama
+arrival,la llegada
+throat,la garganta
+star,la estrella
+stadium,el estadio
+pepper,la pimienta
+to invite,invitar
+athlete,el/la deportista
+blouse,la blusa
+to fall in love,enamorarse
+corn,el maíz
+computer,el ordenador
+design,el diseño
+image,la imagen
+package,el paquete
+elegant,elegante
+for example,por ejemplo
+medicine,la medicina
+desert,el desierto
+show,el espectáculo
+baseball,el béisbol
+tea,el té
+sculpture,la escultura
+jewelry store,la joyería
+article,el artículo
+equality,la igualdad
+education,la educación
+apartment,el apartamento
+dancer,el bailarín
+recycling,el reciclaje
+sculptor,el escultor
+French,el francés
+volunteer,el voluntario
+toothpaste,la pasta de dientes
+product,el producto
+historical,histórico
+there,allá
+night,la noche
+game,el juego
+video game,el videojuego
+travel agency,la agencia de viajes
+to take out,sacar
+to have fun,divertirse
+well,bien
+to achieve,lograr
+almost,casi
+to use,usar
+to take care of,cuidar
+face,la cara
+homework,la tarea
+without,sin
+hair,el pelo
+happy,feliz
+to save,guardar
+little,poco
+angry,enojado
+to fill,llenar
+watch,el reloj
+to cross,cruzar
+fat,gordo
+to prepare,preparar
+worse,peor
+room,la habitación
+to develop,desarrollar
+horse,el caballo
+trash,la basura
+mail,el correo
+noise,el ruido
+grandson,el nieto
+landscape,el paisaje
+poor,pobre
+wife,la esposa
+slow,lento
+hall,el pasillo
+thing,la cosa
+magazine,la revista
+husband,el esposo
+to snow,nevar
+spoon,la cuchara
+stove,la estufa
+to hate,odiar
+to bargain,regatear
+to record,grabar
+to surprise,sorprender
+close to,cerca de
+before,antes de
+no,no
+yes,sí
+turkey,el pavo
+heavy,pesado
+each,cada
+my,mi
+all,todo
+there,allí
+close,cerca
+far,lejos
+so much,tanto
+so,tan
+to have,haber
+nice to meet you,mucho gusto
+happy birthday,feliz cumpleaños
+even though,aunque
+while,mientras
+if,si
+and,y
+well,pues
+to seem,parecer
+to have lunch,almorzar
+to enjoy,disfrutar
+to go down,bajar
+to attend,asistir
+to fall,caer
+to fit,caber
+to laugh,reír
+fear,el miedo
+pizza,la pizza
+chocolate,el chocolate
+truth,la verdad
+position,el puesto
+voice,la voz
+sound,el sonido
+translator,el traductor
+pronunciation,la pronunciación
+room,el cuarto
+doctor,el doctor
+weather,el tiempo
+according to,según
+from,de
+of,de
+to complain,quejarse
+with you,contigo
+who,quien
+to sit,sentarse
+early,temprano
+to pass,pasar
+to translate,traducir
+to earn,ganar
+to clean,limpiar
+to happen,pasar
+to treat,tratar
+to choose,escoger
+to return,devolver
+to stop,parar
+to throw,echar
+to feel,sentir
+to take away,quitar
+to turn in,entregar
+to finish,acabar
+to reach,alcanzar
+you're welcome,de nada
+please,por favor
+to,a
+things,las cosas
+to order,ordenar
+hurry,la prisa
+up,arriba
+idea,la idea
+Hey!,¡Oye!
+mango,el mango
+wave,la ola
+wish,el deseo
+tail,la cola
+to approach,acercarse
+rabbit,el conejo
+both,ambos
+to hit,golpear
+purpose,el propósito
+lost,perdido
+list,la lista
+China,la China
+to pretend,fingir
+stick,el palo
+to pray,rezar
+legal,legal
+to encourage,animar
+scared,asustado
+nap,la siesta
+bland,soso
+lamb,el cordero
+harvest,la cosecha
+drawer,el cajón
+to bite,morder
+translation,la traducción
+to pursue,perseguir
+demanding,exigente
+any,cualquiera
+piece,el pedazo
+to push,empujar
+treasure,el tesoro
+common,común
+pocket,el bolsillo
+apology,la disculpa
+amazing,asombroso
+wet,mojado
+favor,el favor
+to sew,coser
+Australia,Australia
+bacon,el tocino
+blind,ciego
+noun,el sustantivo
+United States,Estados Unidos
+coconut,el coco
+German,el alemán
+finger,el dedo
+children,los hijos
+to celebrate,celebrar
+silent,callado
+to damage,dañar
+ear,la oreja
+healthy,saludable
+luggage,el equipaje
+weird,raro
+accommodations,el alojamiento
+to last,durar
+government,el gobierno
+elevator,el ascensor
+to stop,dejar de
+sociable,sociable
+washing machine,la lavadora
+keyboard,el teclado
+storm,la tormenta
+news,las noticias
+path,el sendero
+tidy,ordenado
+south,el sur
+to set the table,poner la mesa
+driver,el conductor
+to insist,insistir
+tuna,el atún
+computer,la computadora
+program,el programa
+plant,la planta
+salesperson,el vendedor
+to take out the trash,sacar la basura
+channel,el canal
+hobby,el pasatiempo
+offer,la oferta
+poverty,la pobreza
+freedom,la libertad
+destination,el destino
+delicious,delicioso
+lively,animado
+host,el anfitrión
+in the morning,por la mañana
+garage,el garaje
+impatient,impaciente
+to investigate,investigar
+novel,la novela
+guide,el/la guía
+play,la obra de teatro
+after,después de
+dentist,el/la dentista
+to play sports,practicar deportes
+calculator,la calculadora
+hurricane,el huracán
+factory,la fábrica
+architecture,la arquitectura
+transportation,el transporte
+romantic,romántico
+classical,clásico
+menu,el menú
+that,que
+to hope,esperar
+to go up,subir
+to walk,andar
+to send,mandar
+east,el este
+how,cómo
+to show,mostrar
+here,aquí
+to wash,lavar
+to love,encantar
+to lend,prestar
+to fix,arreglar
+same,mismo
+to ring,sonar
+word,la palabra
+hopefully,ojalá
+to understand,comprender
+to ask,preguntar
+to avoid,evitar
+to cut,cortar
+letter,la carta
+clock,el reloj
+more,más

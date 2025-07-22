@@ -1,0 +1,190 @@
+molecule,la molécula
+neutron,el neutrón
+nucleus,el núcleo
+atom,el átomo
+sulfur,el azufre
+phosphorus,el fósforo
+oxygen,el oxígeno
+nitrogen,el nitrógeno
+hydrogen,el hidrógeno
+carbon,el carbono
+element,el elemento
+bird,el pájaro
+amphibian,el anfibio
+fish,el pez
+invertebrate,invertebrado
+virus,el virus
+species,la especie
+reptile,el reptil
+to reproduce,reproducirse
+organism,el organismo
+mammal,el mamífero
+insect,el insecto
+to inherit,heredar
+hereditary,hereditario
+genetic,genético
+gene,el gene
+extinct,extinto
+to evolve,evolucionar
+environment,el medioambiente
+ecosystem,el ecosistema
+DNA,ADN
+to classify,clasificar
+clone,el clon
+herbivore,el herbívoro
+omnivore,el omnívoro
+carnivore,el/la carnívoro
+bone,el hueso
+body,el cuerpo
+biologist,el biólogo
+dead,muerto
+alive,vivo
+animal,el animal
+astronaut,el/la astronauta
+telescope,el telescopio
+galaxy,la galaxia
+eclipse,el eclipse
+Pluto,Plutón
+Neptune,Neptuno
+Uranus,el Urano
+Saturn,Saturno
+Jupiter,Júpiter
+Mars,Marte
+Earth,la Tierra
+Venus,Venus
+Mercury,Mercurio
+constellation,la constelación
+orbit,la órbita
+quantity,la cuantía
+length,el largo
+height,la altura
+numeral,numeral
+greater than,más grande que
+cylinder,el cilindro
+more than,más que
+less than,menos que
+fewer,menos
+equal,igual
+count,el conteo
+algebra,el álgebra
+directrix,la directriz
+asteroid,el asteroide
+comet,el cometa
+dinosaur,el dinosaurio
+engineering,la ingeniería
+static,estático
+compass,el compás
+pH,pH
+base,la base
+acid,el ácido
+extinction,la desaparición
+geometry,la geometría
+obtuse,obtuso
+right,recto
+acute,agudo
+solution,la solución
+decimal,decimal
+fraction,la fracción
+to divide,dividir
+mathematics,las matemáticas
+maths,la mate
+to multiply,multiplicar
+to subtract,restar
+to subtract,sustraer
+to add,sumar
+math,las matemáticas
+statistics,la estadística
+proof,la prueba
+aquatic,acuático
+solution,la solución
+hertz,el hertz
+crater,el cráter
+proton,el protón
+electron,el electrón
+meson,el mesón
+culture,el cultivo
+velocity,la velocidad
+research,la investigación
+computer science,la informática
+computer science,la computación
+to divide,dividirse
+hypothesis,la hipótesis
+condensation,la condensación
+organ,el órgano
+organs of the human body,órganos del cuerpo humano
+muscles,la musculatura
+skeleton,el esqueleto
+bond,el enlace
+particle,la partícula
+experiment,el experimento
+to wane,menguar
+to wax,crecer
+venom,el veneno
+halo,el halo
+space,el espacio
+process,el proceso
+compound,el compuesto
+shuttle,el transbordador
+rocket,el cohete
+conductive,conductor
+conductor,el conductor
+electricity,la electricidad
+matter,la materia
+focus,el foco
+ego,el ego
+id,el id
+psychology,la psicología
+mass,la masa
+symbol,el símbolo
+to excavate,excavar
+dig,la investigación arqueológica
+reaction,la reacción
+atmosphere,la atmósfera
+parasite,el parásito
+host,el huésped
+Moon,la Luna
+taste,el gusto
+smell,el olfato
+hearing,la audición
+sight,la visión
+touch,el tacto
+gas,el gas
+liquid,líquido
+solid,sólido
+state,el estado
+satellite,el satélite
+star,la estrella
+sense,el sentido
+paleontologist,el paleontólogo
+fossil,el fósil
+fossilization,la fosilización
+medicine,la medicina
+genetics,la genética
+ecology,la ecología
+astronomy,la astronomía
+meteorology,la meteorología
+physics,la física
+geology,la geología
+biology,la biología
+chemistry,la química
+energy,la energía
+solar energy,la energía solar
+thermal,térmico
+planet,el planeta
+world,el mundo
+gem,la joya
+gravity,la gravedad
+iron,el hierro
+science,la ciencia
+ocean,el océano
+rock,la roca
+beach,la playa
+desert,el desierto
+land,la tierra
+sea,el/la mar
+lake,el lago
+river,el río
+mountain,la montaña
+coast,el litoral
+island,la isla
+arid,árido

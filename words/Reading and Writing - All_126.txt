@@ -1,0 +1,126 @@
+to be set,situarse
+vocabulary,el vocabulario
+to summarize,resumir
+summary,el resumen
+fluency,la fluidez
+comprehension,la comprensión
+pen name,el seudónimo
+metaphor,la metáfora
+first edition,príncipe
+special issue,el número extraordinario
+special edition,el extraordinario
+censorship,la censura
+storytelling,la narración de cuentos
+hyperbole,la hipérbole
+mythology,la mitología
+alliteration,la aliteración
+works cited,las obras citadas
+bibliography,la bibliografía
+footnote,la nota al pie de página
+foot,el pie
+rhyme,la rima
+speech bubble,el bocadillo
+scribe,el escriba
+ghostwriter,el negro
+translator,el traductor
+critic,el crítico
+biographer,el biógrafo
+playwright,el dramaturgo
+essayist,el/la ensayista
+novelist,el/la novelista
+poet,el/la poeta
+plot,el argumento
+comic,el tebeo
+manga,el manga
+reading matter,la lectura
+thesaurus,el diccionario de sinónimos
+notes,los apuntes
+publication,la publicación
+to publish,editar
+print,la letra de imprenta
+author,el escritor
+issue,el número
+fascicle,la entrega
+installment,la entrega
+travel guidebook,la guía turística
+self-help,la autoayuda
+guide,la guía
+draft,el borrador
+horoscope,el horóscopo
+reader,el lector
+textbook,el libro de texto
+reference,la referencia bibliográfica
+memoirs,las memorias
+journalism,el periodismo
+essay,el ensayo
+autobiography,la autobiografía
+biography,la biografía
+tragicomedy,la tragicomedia
+tall tale,la patraña
+satire,la sátira
+magic realism,el realismo mágico
+legend,la leyenda
+humour,el humor
+fable,la fábula
+fiction,la ficción
+thriller,el thriller
+horror,de terror
+fantasy,la literatura fantástica
+science fiction,la ciencia ficción
+suspense,el suspense
+mystery,la novela de misterio
+comedy,la comedia
+romantic novel,la novela rosa
+literature,la literatura
+line,las letras
+section,la sección
+chapter,el capítulo
+editor,el editor
+to edit,editar
+journal,la revista
+review,la reseña
+copy,el ejemplar
+myth,el mito
+fairy tale,cuento de hadas
+main character,el personaje principal
+antagonist,el/la antagonista
+protagonist,el/la protagonista
+stanza,la estrofa
+verse,el verso
+volume,el volumen
+tome,el tomo
+quarterly,la publicación trimestral
+magazine,la revista
+newsletter,el boletín informativo
+newspaper,el periódico
+page,la página
+appendix,el apéndice
+supplement,el anejo
+genre,el género
+subtitle,el subtítulo
+title,el título
+text,el texto
+binding,la encuadernación
+quote,la cita
+idyll,el idilio
+headline,el encabezado
+editorial,el editorial
+article,el artículo
+proverb,el proverbio
+saying,el refrán
+poem,el poema
+poetry,la poesía
+dictionary,el diccionario
+sentence,la oración
+Harry Potter,Harry Potter
+short story,el relato corto
+tale,la conseja
+bookstore,la librería
+library,la biblioteca
+theme,el tema
+character,el personaje
+reading,la lectura
+to read,leer
+notebook,el cuaderno
+story,el cuento
+book,el libro

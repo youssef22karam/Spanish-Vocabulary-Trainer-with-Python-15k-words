@@ -1,0 +1,148 @@
+receding hairline,las entradas
+ovary,el ovario
+nervous system,el sistema nervioso
+member,el miembro
+canal,el canal
+system,el aparato
+immune system,el sistema inmunitario
+genitals,los genitales
+pupil,la pupila
+jaw,la mandíbula
+anatomy,la anatomía
+mustache,el bigote
+beard,la barba
+goatee,la chiva
+sideburn,la patilla
+ponytail,la coleta
+bangs,el flequillo
+knuckle,el nudillo
+little finger,el meñique
+torso,el torso
+freckle,la peca
+wrinkle,la arruga
+dimple,el hoyuelo
+upper leg,el pernil
+upper foreleg,el codillo
+eyelid,el párpado
+fingertip,la yema
+fist,el puño
+gum,la encía
+molar,la muela
+mole,el lunar
+scalp,el cuero cabelludo
+side,el lado
+iris,la iris
+cornea,la córnea
+appendix,el apéndice
+kidney,el riñón
+rectum,el recto
+testicle,el testículo
+uterus,la matriz
+cervix,el/la cérvix
+urethra,la uretra
+womb,la matriz
+vulva,la vulva
+pituitary gland,la hipófisis
+thyroid,el/la tiroides
+gland,la glándula
+pancreas,el páncreas
+lymph node,el nódulo linfático
+capillary,el capilar
+artery,la arteria
+aorta,la aorta
+spleen,el bazo
+large intestine,el intestino grueso
+small intestine,el intestino delgado
+gallbladder,la vesícula
+esophagus,el esófago
+trachea,la tráquea
+kneecap,la rótula
+armpit,la axila
+diaphragm,el diafragma
+navel,el ombligo
+larynx,la laringe
+pharynx,la faringe
+nape,la nuca
+Adam's apple,la nuez
+ligament,el ligamento
+tendon,el tendón
+collarbone,la clavícula
+bone marrow,la médula ósea
+palate,el paladar
+uvula,la campanilla
+sinus,el seno
+temple,la sien
+earlobe,el lóbulo
+nostril,la fosa nasal
+eardrum,el tímpano
+vein,la vena
+skeleton,el esqueleto
+skull,el cráneo
+liver,el hígado
+shin,la espinilla
+palm,la palma
+nipple,el pezón
+belly button,el ombligo
+anus,el ano
+pinky,el dedo meñique
+ring finger,el anular
+middle finger,el dedo medio
+index finger,el dedo índice
+big toe,el dedo gordo
+toenail,la uña del pie
+fingernail,la uña
+vagina,la vagina
+penis,el pene
+butt,el poto
+lower back,el lomo
+abdomen,el abdomen
+belly,el vientre
+forearm,el antebrazo
+spine,la espina
+throat,la garganta
+back,la espalda
+thumb,el pulgar
+thigh,el muslo
+calf,la pantorrilla
+heart,el corazón
+teeth,la dentadura
+lip,el labio
+blood,la sangre
+head,la cabeza
+face,el rostro
+hair,el cabello
+ear,la oreja
+eye,el ojo
+tongue,la lengua
+forehead,la frente
+neck,el cuello
+chest,el pecho
+breast,el seno
+shoulder,el hombro
+arm,el brazo
+wrist,la muñeca
+hand,la mano
+finger,el dedo
+stomach,la barriga
+rib,la costilla
+skin,la piel
+leg,la pierna
+knee,la rodilla
+ankle,el tobillo
+foot,el pie
+toe,el dedo del pie
+eyebrow,la ceja
+tooth,el diente
+bone,el hueso
+organ,el órgano
+nail,la uña
+brain,el cerebro
+elbow,el codo
+muscle,el músculo
+lung,el pulmón
+waist,la cintura
+hip,la cadera
+buttocks,las nalgas
+joint,la articulación
+heel,el talón
+mouth,la boca

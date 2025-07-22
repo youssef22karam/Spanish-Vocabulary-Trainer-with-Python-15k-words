@@ -1,0 +1,35 @@
+dwarf,el enano
+sparkle,el destello
+glitter,la purpurina
+horn,el cuerno
+magic,mágico
+magical,mágico
+Cyclops,el cíclope
+phoenix,el fénix
+griffin,el grifo
+troll,el trol
+ogre,el ogro
+fairy,el hada
+werewolf,el hombre lobo
+yeti,el yeti
+leprechaun,el duende
+chupacabra,el chupacabras
+dragon,el dragón
+curse,el embrujo
+spell,el hechizo
+vampire,el vampiro
+ghost,el fantasma
+Martian,el marciano
+boogeyman,el coco
+possession,la posesión
+to exist,existir
+apparition,la aparición
+genie,el genio
+freak,el fenómeno
+creature,la criatura
+imaginary,imaginario
+mythical,mítico
+unicorn,el unicornio
+wizard,el mago
+witch,la bruja
+mermaid,la sirena

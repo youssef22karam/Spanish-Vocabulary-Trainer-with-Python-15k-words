@@ -1,0 +1,116 @@
+earthquake,el terremoto
+eruption,la erupción
+mudslide,el huaico
+avalanche,el alud
+avalanche,la avalancha
+blizzard,la ventisca
+tsunami,el tsunami
+forest fire,el incendio forestal
+tornado,el tornado
+hurricane,el huracán
+battle,la batalla
+discrimination,la discriminación
+senselessness,la insensatez
+stupidity,la estupidez
+foolishness,la insensatez
+male chauvinism,el machismo
+jealousy,los celos
+argument,la riña
+favor,el favor
+struggle,la lucha
+misfortune,la desgracia
+predicament,el apuro
+censorship,la censura
+to rescue,rescatar
+war,la guerra
+landslide,el alud
+drought,la sequía
+flood,la inundación
+bolt of lightning,el relámpago
+to complain,quejarse
+peace,la paz
+burn,la quemadura
+sexism,el sexismo
+mess,el lío
+lack of,falta de
+objection,la objeción
+racism,el racismo
+to burst,reventar
+mold,el moho
+remedy,el remedio
+choice,el remedio
+crisis,la crisis
+to explode,estallar
+waste,el desperdicio
+burden,el lastre
+solution,la solución
+opportunity,el/la chance
+evil,malvado
+to fail,suspender
+to fail,fracasar
+fall,la caída
+F,el suspenso
+to wallop,zurrar
+louse,el piojo
+to murder,asesinar
+to give in,ceder
+illness,la enfermedad
+weak point,la punto débil
+mistake,el error
+disruption,el trastorno
+wrong,mal
+trouble,la cuita
+storm,la tormenta
+setback,el contratiempo
+to scream,gritar
+fix,el apuro
+issue,el asunto
+to get hurt,dañarse
+to break,romper
+poison,el veneno
+advantage,la ventaja
+paradox,la paradoja
+venom,el veneno
+to threaten,amenazar
+sword,la espada
+troublemaker,el alborotador
+troublemaker,el/la pendenciero
+troublemaker,el gamberro
+fault,la culpa
+crack,la grieta
+injury,la lesión
+to take on a challenge,asumir un reto
+threat,la amenaza
+concern,la preocupación
+support,el apoyo
+split,la escisión
+to betray,traicionar
+to hurt,hacer daño
+invitation,la invitación
+to prevent,impedir
+attack,el ataque
+controversy,la polémica
+to argue,discutir
+to fight,batallar
+to fight,luchar
+fight,la bronca
+fight,la pelea
+fight,la lucha
+shove,el empujón
+mystery,la incógnita
+approach,el acercamiento
+robbery,el robo
+problem,el inconveniente
+spot,la mancha
+farce,el circo
+farce,el cachondeo
+rifle,el rifle
+gun,la pistola
+conflict,el conflicto
+to work out,descifrar
+emergency,la emergencia
+challenge,el reto
+key,la llave
+problem,el problema
+leak,el escape
+accident,el accidente

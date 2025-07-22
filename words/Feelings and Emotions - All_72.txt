@@ -1,0 +1,72 @@
+sure,seguro
+envy,la envidia
+contempt,el desprecio
+low,depre
+exasperated,exasperado
+calm,tranquilo
+furious,rabioso
+uneasy,intranquilo
+cross,enfadado
+How are you?,¿Cómo estás?
+How do you feel?,¿Cómo te sientes?
+loneliness,la soledad
+numb,paralizado
+empathy,la empatía
+sorrow,la pena
+pity,la pena
+shocked,conmocionado
+angry,enojado
+joyful,regocijado
+exalted,encumbrado
+anxious,inquieto
+bored,aburrido
+depressed,deprimido
+excited,emocionado
+fearful,temeroso
+hopeful,ilusionado
+impressed,impactado
+horrified,horrorizado
+indignant,indignado
+nervous,nervioso
+jealous,envidioso
+sad,triste
+surprised,sorprendido
+stressed,estresado
+tense,tenso
+worried,preocupado
+tired,cansado
+exhausted,agotado
+happy,contento
+happy,feliz
+happy,alegre
+in a bad mood,de mal humor
+in a good mood,de buen humor
+satisfied,satisfecho
+scared,asustado
+ashamed,avergonzado
+upset,molesto
+proud,orgulloso
+dizzy,mareado
+lost,perdido
+overwhelmed,agobiado
+hungry,hambriento
+in love,enamorado
+fed up,harto
+sleepiness,el adormecimiento
+astonishment,el estupor
+disgust,el asco
+disappointment,la decepción
+anger,la ira
+anxiety,la ansiedad
+boredom,el aburrimiento
+happiness,la felicidad
+depression,la depresión
+enthusiasm,el entusiasmo
+hope,la esperanza
+joy,la alegría
+jealousy,los celos
+fear,el miedo
+elation,la exaltación
+fright,el asombro
+sadness,la tristeza
+concern,la preocupación

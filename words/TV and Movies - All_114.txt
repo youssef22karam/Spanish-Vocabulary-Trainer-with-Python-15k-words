@@ -1,0 +1,114 @@
+parody,la parodia
+satire,la sátira
+crude,vulgar
+sense of humor,el sentido del humor
+humor,el humor
+laughter,la risa
+to be funny,tener gracia
+prank,la diablura
+to laugh,reír
+TV set,el aparato de televisión
+masterpiece,la obra maestra
+special effect,el efecto especial
+trailer,los avances
+soundtrack,la banda sonora
+cinematography,la cinematografía
+review,la reseña
+extra,el/la extra
+credits,los créditos
+adaptation,la adaptación
+epic,la película épica
+cartoon,la película de dibujos animados
+animated,animado
+screenwriter,el/la guionista
+screen,la pantalla
+movie star,la estrella de cine
+cast,el elenco
+documentary,el documental
+action movie,película de acción
+costume,el disfraz
+censor,el censor
+censorship,la censura
+still,el fotograma
+frame,el frame
+scary movie,la película de miedo
+producer,el productor
+to edit,montar
+plot,la trama
+pilot,el programa piloto
+media,medios de comunicación
+take,la toma
+shot,la toma
+role,el papel
+short,el corto
+picture,la imagen
+to watch a movie,ver una película
+to watch TV,ver la tele
+substitute,el/la suplente
+double,el/la doble
+advertisement,el anuncio
+ad,la cuña
+commercial,el spot
+talk show,el talk show
+quiz show,el concurso de televisión
+slot,el espacio
+newsreader,el locutor
+presenter,el conductor
+episode,el episodio
+to be set,situarse
+TV show,la serie de televisión
+subtitle,el subtítulo
+dubbed,doblado
+to dub,doblar
+host,el animador
+acting,la actuación
+to film,filmar
+director,el director
+image,la imagen
+showing,la proyección
+set,el set
+scene,la escena
+genre,el género
+view,la reproducción
+star,la estrella
+game show,el programa de concursos
+musical,el musical
+soap opera,la telenovela
+animation,la película de animación
+western,el wéstern
+thriller,el thriller
+science fiction,la ciencia ficción
+romance,el romance
+biography,la biografía
+story,el relato
+mystery,la película de misterio
+crime,policiaco
+comedy,el humorismo
+action,la acción
+drama,el drama
+station,la emisora
+channel,la cadena
+broadcast,la retransmisión
+broadcasting,la difusión
+fan,el/la fan
+seat,la butaca
+ticket,el ticket
+poster,el cartel
+short film,el cortometraje
+Harry Potter,Harry Potter
+news,las noticias
+show,el show
+to watch,ver
+actress,la actriz
+actor,el actor
+part,el papel
+main character,el personaje principal
+antagonist,el/la antagonista
+protagonist,el/la protagonista
+character,el carácter
+season,la temporada
+series,la serie
+program,el programa
+movie theater,el cinema
+TV,la TV
+movie,la película

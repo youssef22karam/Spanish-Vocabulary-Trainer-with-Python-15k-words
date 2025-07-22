@@ -1,0 +1,804 @@
+ please?,Can you say that again, por favor?,¿Puedes repetir
+Enjoy your meal!,¡Buen provecho!
+ please?,Can I get the bill, por favor?,¿Me trae la cuenta
+starter,el entrante
+spicy sauce,la salsa picante
+how many people,cuántas personas
+little box,la cajita
+soy sauce,la salsa de soja
+jelly,la mermelada
+mayonnaise,la mayonesa
+fruity,afrutado
+spicy,picoso
+to grind,moler
+to bake,hornear
+to sauté,saltear
+to simmer,cocer a fuego lento
+to boil,hervir
+to blend,mezclar
+to whisk,batir
+to drain,escurrir
+to toss,revolver
+to grate,rallar
+grapefruit,el pomelo
+tangerine,la mandarina
+sponge,la esponja
+sink,la pileta
+dishes,la vajilla
+dishwasher,el lavavajillas
+cutting board,la tabla de cortar
+microwave,el microondas
+freezer,el congelador
+fridge,el/la refri
+refrigerator,la nevera
+counter,la encimera
+maple syrup,jarabe de arce
+hash browns,las papas hash brown
+orange juice,el jugo de naranja
+eggs any style,huevos al gusto
+cranberry,el arándano rojo
+whipped cream,el chantillí
+sautéed,sofrito
+fried,frito
+stir-fried,saltado
+tasteless,soso
+yummy,de rechupete
+lukewarm,tibio
+crunchy,crujiente
+moldy,mohoso
+bacon and eggs,huevos y tocino
+caper,la alcaparra
+coffee cake,el pastel de café
+coconut cake,el pastel de coco
+angel food cake,pastel de ángel
+pound cake,ponqué
+carrot cake,la tarta de zanahoria
+fruitcake,el pastel de frutas
+birthday cake,el bizcocho de cumpleaños
+tres leches cake,el pastel de tres leches
+cheesecake,el pay de queso
+chocolate cake,pastel de chocolate
+baked beans,los frijoles al horno
+french fry,la papa frita
+frying pan,el/la sartén
+saucepan,la cacerola
+ladle,el cazo
+mixer,la batidora
+kettle,la tetera
+teapot,la tetera
+coffee maker,la cafetera
+diet,el régimen
+buffet,el buffet
+cash,el efectivo
+credit card,la tarjeta de crédito
+to split,compartir
+reserved,reservado
+percent,por ciento
+how much is it,cuánto le debo
+bland,insípido
+salted,salado
+tasty,rico
+cold,frío
+I'd like,yo quisiera
+I'm going to order,voy a pedir
+what are you going to order,qué vas a pedir
+What are you having for dessert?,¿Qué vas a pedir de postre?
+enjoy your meal,que aproveche
+bring me,tráigame
+ please?,Can I get the check, por favor?,¿Me trae la cuenta
+to book,reservar
+ please,a table for four, por favor,una mesa para cuatro
+to pay cash,pagar en efectivo
+to pay with card,pagar con tarjeta
+to pay the check,pagar la cuenta
+to order food,pedir comida
+waiter,el camarero
+How do you like your meat?,¿Cómo te gusta la carne?
+dinner guest,el/la comensal
+customer,el cliente
+glass,la copa
+main course,el plato principal
+reservation,la reservación
+gluten-free,sin gluten
+spicy,picante
+sparkling or flat,con gas o sin gas
+apple,la manzana
+measuring cup,la jarra medidora
+cookie sheet,la bandeja para horno
+can opener,el abrelatas
+bottle opener,el abrebotellas
+tongs,las pinzas
+cheddar cheese,el queso cheddar
+bagel,el bagel
+sweet tea,el té dulce
+Jell-O,la gelatina
+grilled cheese sandwich,sándwich de queso a la parrilla
+spaghetti and meatballs,el espagueti con albóndigas
+cranberry sauce,la salsa de arándano
+mashed potatoes,el puré de papas
+baked potato,la patata asada
+cheese sauce,la salsa de queso
+cheeseburger,la hamburguesa con queso
+chocolate chip cookie,la galleta con pepitas de chocolate
+tater tot,el crujiente de papa
+sourdough bread,el pan de masa fermentada
+pot roast,el guisado de carne
+banana split,el banana split
+cornbread,el pan de maíz
+pecan pie,el pastel de pacana
+meat loaf,pastel de carne
+macaroni and cheese,macarrones con queso
+potato salad,la ensalada de papa
+peanut butter and jelly,crema de cacahuate y mermelada
+peanut butter and jelly sandwich,el sándwich de crema de cacahuate y mermelada
+waffle,el gofre
+clam chowder,la crema de almejas
+buffalo wings,alitas de búfalo
+red onion,la cebolla roja
+lox,el salmón ahumado
+broiled,a la parrilla
+tart,agrio
+refreshing,refrescante
+sprinkles,las chispas
+ice cream sundae,copa de helados
+mulberry,la mora
+cottage cheese,el requesón
+cottage cheese,el queso fresco
+Manchego cheese,el queso manchego
+grated cheese,queso rallado
+whole milk,la leche entera
+skim milk,leche desnatada
+condensed milk,la leche condensada
+powdered milk,la leche en polvo
+whipped cream,la nata montada
+pastry cream,la crema pastelera
+pork,carne de cerdo
+beef,la carne de res
+beef,la carne de vaca
+minced beef,carne de res molida
+fried chicken,el pollo frito
+clam,la almeja
+scallop,la vieira
+mussel,el mejillón
+veal,la ternera
+trout,la trucha
+cold buffet,el lunch
+to nibble on,picar
+coconut milk,la leche de coco
+smoothie,el smoothie
+coconut water,la agua de coco
+soy milk,la leche de soja
+carbonated water,la agua con gas
+mineral water,el agua mineral
+mixed drink,el aliado
+cocktail,el cóctel
+cider,la sidra
+green tea,el té verde
+milkshake,el batido
+hot chocolate,el chocolate caliente
+iced tea,el té helado
+tomato juice,el zumo de tomate
+grape juice,zumo de uva
+pineapple juice,el jugo de piña
+apple juice,el jugo de manzana
+liquor,el aguardiente
+spirits,las bebidas alcohólicas fuertes
+gordita,la gordita
+jicama,la jícama
+pulque,el pulque
+pork shank,el chamorro
+kebab,el alambre
+grasshopper,el chapulín
+stew,la birria
+picadillo,el picadillo
+quesadilla,la queca
+chalupa,la chalupa
+flauta,el taquito
+bread roll dipped in guajillo chili sauce filled with potatoes with chorizo,el pambazo
+tamarind,el tamarindo
+tortilla chip,el totopo
+chilaquiles,los chilaquiles
+baked bean stew,frijoles de la olla
+refried beans,los frijoles refritos
+bread of the dead,el pan de muerto
+ and cheese, lettuce, cream,fried corn dough topped with beans,el sope
+al pastor,al pastor
+guacamole,el guacamole
+tamale,el tamal
+chocolate cake,la torta de chocolate
+stuffed chilies,los chiles rellenos
+tortilla stuffed with meat and cheese,la garnacha
+pozole,el pozole
+quesadilla,la quesadilla
+carnitas,la carnitas
+capirotada,la capirotada
+pork cracklings,el chicharrón
+toast topped with beans and melted cheese,el mollete
+hanger steak,la arrachera
+fritter,el buñuelo
+atole,el atole
+corn smut,el huitlacoche
+Popsicle,la paleta
+baguette,la flauta
+fried corn pancake,el molote
+amaranth bar,la alegría
+cochinita pibil,la cochinita pibil
+orujo,el orujo
+wine,el vino
+custard,las natillas
+nougat,el turrón
+ratatouille,el pisto
+fabada,la fabada
+fried breadcrumbs,las migas
+meatball,la albóndiga
+Spanish omelet,la tortilla de patatas
+gazpacho,el gazpacho
+aioli,el alioli
+fried potatoes with spicy tomato sauce,las patatas bravas
+paella,la paella
+chocolate ice cream,el helado de chocolate
+strawberry ice cream,el helado de fresa
+vanilla ice cream,el helado de vainilla
+lemon pie,el pay de limón
+cheesecake,la tarta de queso
+apple pie,la tarta de manzana
+pumpkin pie,la tarta de calabaza
+chocolate pie,la tarta de chocolate
+egg tart pastry,el pastel de nata
+candy cane,el bastón de caramelo
+muffin,la magdalena
+chocolate pie,pastel de chocolate
+cupcake,el pastelito
+to slice,cortar en rebanadas
+to sprinkle,espolvorear
+to peel,pelar
+to cook over a low heat,cocer a fuego lento
+to measure,medir
+to add,añadir
+to simmer,hervir a fuego lento
+to melt,fundir
+whisk,la batidora
+to whip,montar
+to drain,drenar
+to strain,colar
+to roast,asar
+to turn over,voltear
+to stir,revolver
+acid,ácido
+seasoned,sazonado
+sugary,azucarado
+salty,salobre
+peanut butter,la mantequilla de cacahuate
+jam,la mermelada
+salsa roja,la salsa roja
+salsa macha,la salsa macha
+salsa verde,la salsa verde
+basil,la albahaca
+bay leaf,el laurel
+cayenne pepper,la cayena
+coriander,el cilantro
+cumin,el comino
+curry powder,el curry
+dill,el eneldo
+mint,la yerbabuena
+tarragon,el estragón
+borage,la borraja
+epazote,el epazote
+lavender,la lavanda
+lemon balm,el toronjil
+rosemary,el romero
+thyme,el tomillo
+annatto,el achiote
+cardamom,el cardamomo
+chia,la chía
+clove,el clavo de olor
+nutmeg,la nuez moscada
+marjoram,la mejorana
+parsley,el perejil
+chipotle,el chipotle
+artichoke,la alcachofa
+Brussels sprouts,el coles de Bruselas
+endive,la endibia
+fennel,el hinojo
+chard,la acelga
+arugula,la rúcula
+rhubarb,el ruibarbo
+parsnip,la chirivía
+turnip,el nabo
+radish,el rábano
+eggplant,la berenjena
+okra,la okra
+shallot,el chalote
+zucchini,el calabacín
+asparagus,el espárrago
+mammee,el mamey
+quince,el membrillo
+lychee,el lichi
+tropical fruit,la fruta tropical
+stone,el hueso
+citrus fruit,el cítrico
+persimmon,el caqui
+passion fruit,el/la maracuyá
+papaya,la papaya
+gluten,el gluten
+vegetarian,el vegetariano
+vegan,el vegano
+typical dish,plato típico
+dish of the day,el plato del día
+ripe,a punto
+to divide,dividir
+that's all,eso es todo
+nothing else,nada más
+How much is it?,¿Cuánto es?
+sparkling,con gas
+still,sin gas
+tasteless,insípido
+another,otro
+a little more,un poco más
+allergy,la alergia
+table,la mesa
+bartender,el tabernero
+bartender,el/la barman
+tomato sauce,la salsa de tomate
+ketchup,el kétchup
+mustard,la mostaza
+hot sauce,la salsa picante
+salt shaker,el salero
+mushroom,el champiñón
+to wash the dishes,lavar los platos
+to crush,aplastar
+caramel,el caramelo
+marinade,el escabeche
+chilli sauce,el ají
+garlic sauce,el ajillo
+noodles,los tallarines
+cal,cal
+mayo,la mayonesa
+griddle,la plancha
+nacho,el nacho
+spotted seabass,la baila
+mold,el moho
+causa,la causa
+round,el redondo
+cheap restaurant,la fonda
+nectarine,el pelón
+dough,la masa
+yucca,la yuca
+bacon,el tocino
+green beans,las vainas
+berry,la baya
+honeycomb,el panal
+mead,la aloja
+sink,el fregadero
+to pour,verter
+bar,el mesón
+to wash,fregar
+to take the lid off,destapar
+season,la temporada
+orchard,el huerto
+platter,la fuente
+enjoy your meal,buen provecho
+port,el oporto
+mince,el picadillo
+wedge,el casco
+hors d'oeuvres,el pincho
+to shake,menear
+to refill,rellenar
+blood sausage,la morcilla
+blood sausage,la rellena
+ingredient,el ingrediente
+alcohol,el alcohol
+cone,el cucurucho
+oregano,el orégano
+bakery,la repostería
+feed,la toma
+lard,la manteca de cerdo
+root beer,la root beer
+I know how to cook,sé cocinar
+grater,el rallador
+steamed,al vapor
+dehydrated,deshidratado
+dried,paso
+smoked,ahumado
+aged,de crianza
+recipe,la receta
+mantecada,la mantecada
+cutlery,los cubiertos
+strawberry,la fresa
+charred,achicharrado
+burnt,quemado
+undercooked,crudo
+skirt steak,la falda
+lunch box,la tartera
+cake,la tarta
+snack bar,la lonchería
+popcorn,palomitas
+bell pepper,el pimentón
+red pepper,la pimienta roja
+green pepper,el pimiento verde
+sweet potato,la batata
+what's for dinner,qué hay para cenar
+pork,carne de puerco
+to drink,beber
+to drink,tomar
+gas,el gas
+charcoal,el carbón vegetal
+pap,la papilla
+croquette,la croqueta
+prickly pear,el nopal
+takeout,la comida para llevar
+pantry,la despensa
+apron,el delantal
+fig,el higo
+chopping board,la tabla de picar
+oatmeal,la avena
+tinga,la tinga
+sour cream,la crema agria
+cookie,la pasta
+biscuit,la galleta
+burger,la hamburguesa
+tip,la propina
+crayfish,la jaiba
+crab,la nécora
+chips,papas fritas
+chips,las patatas fritas
+ginger,el jengibre
+container,el bote
+diet,la dieta
+wrap,el wrap
+napkin,la servilleta
+to eat out,comer fuera
+to mix,mezclar
+cornstarch,la maicena
+teaspoon,la cucharadita
+cream,la crema
+cream,la nata
+corn,el maíz
+prune,la ciruela pasa
+raisin,la uva pasa
+dried fruit and nuts,el fruto seco
+pea,el guisante
+to grow,criar
+pineapple,la piña
+ceviche,el ceviche
+seaweed,el alga
+French toast,la torrija
+pancake,el panqueque
+to beat,batir
+marshmallow,la nube
+bite,el mordisco
+kidney,el riñón
+unripe,verde
+ripe,maduro
+beef stew,la birria de res
+thirst,la sed
+chestnut,la castaña
+walnut,la nuez
+cava,el cava
+champagne,el champán
+gringa,la gringa
+margarine,la margarina
+butter,la mantequilla
+bland,soso
+garden,el jardín
+gum,el chicle
+sauce,la salsa
+churro,el churro
+dulce de leche,el dulce de leche
+crème caramel,el flan
+palate,el paladar
+café,el café
+cafeteria,la cantina
+to wolf down,zampar
+spoiled,dañado
+spinach,la espinaca
+vintage,el reserva
+pastry,el pastel
+check,la cuenta
+bill,la cuenta
+jar,el tarro
+tin,la lata
+can,la lata
+off,pasado
+bad,malo
+stale,pasado
+fresh,fresco
+blueberry,el arándano
+blackberry,la mora
+raspberry,la frambuesa
+slight,leve
+beverage,la bebida
+agriculture,la agricultura
+to brown,dorar
+to toast,brindar
+cream cheese,el queso crema
+edible,comestible
+soft drink,la gaseosa
+lemonade,la limonada
+straw,la pajita
+ice,el hielo
+to serve,servir
+batter,el batido
+syrup,el jarabe
+honey,la miel
+taste,la boca
+well done,bien hecho
+medium,al punto
+medium rare,a término medio
+rare,poco hecho
+utensil,el utensilio
+to have a second helping of,repetir
+helping,la porción
+chow,el bitute
+toast,la tostada
+toast,el brindis
+casserole,el guisado
+stew,el guiso
+soup,el caldo
+to chop,cortar en trozos
+fries,las patatas fritas
+fries,papas fritas
+poultry,la carne de ave
+junk food,la comida basura
+pint,la pinta
+delicious,delicioso
+tasty,sabroso
+hen,la gallina
+to crack,cascar
+to dice,cortar en dados
+to cut,cortar
+cola,el refresco de cola
+soda water,la soda
+soda,la soda
+date,el dátil
+lasagna,la lasaña
+steak,el filete
+steak,el bistec
+farming,la agricultura
+hunting,la caza
+fishing,la pesca
+bon appétit,buen provecho
+rum,el ron
+whiskey,el güisqui
+vodka,el vodka
+avocado,el aguacate
+spice,las especias
+heat,el picor
+dining room,el comedor
+scissors,la tijera
+to have an aftertaste,repetir
+harvest,la cosecha
+squash,la calabaza
+texture,la textura
+to buy,comprar
+shopping,la compra
+horchata,la horchata
+nutrition,la nutrición
+sausage,la salchicha
+sausage,el chorizo
+hot dog,el hot dog
+hamburger,la hamburguesa
+hunger,el hambre
+to hunt,cazar
+to fish,pescar
+yogurt,el yogur
+pasta,la pasta
+nut,el fruto seco
+nut,la nuez
+cereal,el cereal
+dairy,los lácteos
+juice,el zumo
+juice,el jugo
+grilled,a la plancha
+broiler,el grill
+barbecued,a la brasa
+boiling,hirviente
+baked,horneado
+freezing,helado
+frozen,congelado
+lukewarm,templado
+to order,pedir
+egg,el huevo
+omelette,la tortilla
+tortilla,la tortilla
+legume,la legumbre
+taco,el taco
+chickpea,el garbanzo
+lentil,la lenteja
+bean,el frijol
+cantaloupe,el melón
+watermelon,la sandía
+tablespoon,la cuchara sopera
+food processor,el procesador de alimentos
+blender,la licuadora
+saffron,el azafrán
+pepper,el pimiento
+chili,el chile
+spatula,la paleta
+spatula,la espátula
+ladle,el cucharón
+serving spoon,la cuchara para servir
+teaspoon,la cucharilla
+spoon,la cuchara
+fork,el tenedor
+knife,el cuchillo
+mug,la taza
+glass,el vaso
+stove,la cocina
+cooker,la cocina
+oven,el horno
+baking,la repostería
+kitchen assistant,el pinche
+market,el mercado
+greengrocer,el verdulero
+greengrocer,el frutero
+butcher,el carnicero
+fishmonger,el pescadero
+bakery,la panadería
+shellfish,el marisco
+seafood,la comida de mar
+menu,el menú
+menu,la carta
+course,el plato
+dish,el plato
+plate,el plato
+bowl,el tazón
+peanut,el cacahuate
+peanut,el maní
+almond,la almendra
+rice,el arroz
+Spanish food,comida española
+gravy,la salsa de carne
+stuffing,el relleno
+stew,el cocido
+tripe stew,el menudo
+peach,el durazno
+peach,el melocotón
+coconut,el coco
+plum,la ciruela
+lime,el limón verde
+lime,la lima
+cherry,la cereza
+celery,el apio
+tomato,el jitomate
+tomato,el tomate
+millet,el millo
+pub,el pub
+bar,el bar
+supermarket,el supermercado
+grocery store,la tienda de comestibles
+grinder,la trituradora
+sub,el sándwich de baguette
+sandwich,el bocadillo
+sandwich,el sándwich
+sour,agrio
+bitter,amargo
+sweet,la golosina
+sweet,dulce
+candy,la chuche
+salad,la ensalada
+soup,la sopa
+appetizer,el aperitivo
+tapa,las tapas
+pepper,la pimienta
+salt,la sal
+spice,la especia
+cookie,la galleta
+pie,el pay
+salty,salado
+hot,picante
+hot,caliente
+beer,la cerveza
+beef stew,la carne guisada
+red wine,el vino tinto
+white wine,el vino blanco
+vanilla,de vainilla
+cinnamon,la canela
+hazelnut,la avellana
+barbecue,la barbacoa
+kitchen,la cocina
+lobster,la langosta
+octopus,el pulpo
+squid,el calamar
+cod,el bacalao
+salmon,el salmón
+tuna,el atún
+tuna,el bonito
+tuna,la tuna
+prickly pear,la tuna
+to chew,masticar
+olive oil,el aceite de oliva
+oil,el aceite
+onion,la cebolla
+garlic,el ajo
+herb,la hierba
+savory,salado
+to savor,saborear
+taste,el sabor
+taste,la prueba
+to try,probar
+lean,magro
+greasy,grasiento
+fast food,comida rápida
+unhealthy,insalubre
+healthy,saludable
+cucumber,el pepino
+carrot,la zanahoria
+cabbage,la col
+lettuce,la lechuga
+cauliflower,el/la coliflor
+broccoli,el brécol
+yam,el ñame
+potato,la patata
+potato,la papa
+milk,la leche
+chocolate,el chocolate
+slice,la lonja
+cheese,el queso
+cold cut,el fiambre
+ham,el jamón
+bacon,el bacon
+kiwi,el kiwi
+mango,el mango
+plantain,el plátano macho
+grape,la uva
+clementine,la clementina
+pear,la pera
+banana,el plátano
+banana,la banana
+full,satisfecho
+full,lleno
+thirsty,sediento
+hungry,hambriento
+cake,el pastel
+pie,la tarta
+dessert,el postre
+to fry,freír
+ice cream,el helado
+pot,la olla
+bread,el pan
+pan,la cacerola
+Indian food,la comida india
+Chinese food,la comida china
+Italian food,comida italiana
+pizza,la pizza
+Mexican food,la comida mexicana
+water,el agua
+restaurant,el restaurante
+to have dinner,cenar
+to have an afternoon snack,merendar
+to eat,comer
+to have lunch,almorzar
+to have breakfast,desayunar
+goat,la cabra
+turkey,el guajolote
+pork,el cerdo
+lamb,el cordero
+chicken,el pollo
+meat,la carne
+coffee,el café
+tea,el té
+brown sugar,el azúcar moreno
+sugar,el/la azúcar
+flour,la harina
+mid-morning snack,el almuerzo
+snack,el tentempié
+dinner,la cena
+lunch,la comida
+lunch,el almuerzo
+soy,la soja
+fish,el pescado
+breakfast,el desayuno
+orange,la naranja
+meal,la comida
+tableware,el menaje
+chef,el/la chef
+to cook,cocinar
+cook,el cocinero
+cooking,la cocción
+vegetable,la verdura
+flavor,el sabor
+fruit,la fruta
+drink,la bebida
+food,el alimento
+food,la comida

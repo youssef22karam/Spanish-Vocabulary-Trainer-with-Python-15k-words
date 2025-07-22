@@ -1,0 +1,209 @@
+plane,el avión
+car,el coche
+to go through,atravesar
+near,cerca
+beside,al lado de
+in front of,delante de
+to go over,pasar por encima de
+behind,detrás de
+between,entre
+around the corner,a la vuelta de la esquina
+to go along,ir por
+to cross,atravesar
+to go past,pasar por
+legend,signos convencionales
+side path,el desecho
+shortcut,el atajo
+on the right,a la derecha
+on the left,a mano izquierda
+to turn around,dar la vuelta
+to go straight,seguir derecho
+to turn right,doblar a la derecha
+to turn left,doblar a la izquierda
+southwest,el suroeste
+southeast,el sureste
+northwest,el noroeste
+northeast,el noreste
+west,el oeste
+east,el este
+south,el sur
+north,el norte
+port of call,la escala
+layover,la escala
+stopover,la escala
+barrier,la valla protectora
+underpass,el paso subterráneo
+traffic jam,el atasco
+shipyard,el astillero
+to weigh,pesar
+seat belt,el cinturón de seguridad
+wheelbase,la batalla
+berm,el arcén
+conductor,el jefe de tren
+boxcar,el furgón
+freight car,el vagón
+exhaust pipe,el mofle
+exhaust,el tubo de escape
+petrol station,el surtidor
+gas station,la gasolinera
+to get out of,salir de
+to get in,montarse en
+to get in,subir
+engineer,el/la maquinista
+tugboat,el remolcador
+pilot,el/la piloto
+pilot,el/la práctico
+hull,el casco
+overhead railway,el elevado
+overpass,el elevado
+taxi stand,el sitio
+train station,estación de ferrocarril
+bus station,la estación de autobuses
+machine,la máquina
+to run aground,encallar
+rim,el rin
+corvette,la corbeta
+freeway,la autopista
+jack,el gato
+jack,la gata
+starboard,el estribor
+port,el babor
+stern,la popa
+bow,la proa
+seaworthy,marinero
+trunk,el maletero
+sails,el velamen
+aircraft carrier,el portaaviones
+sailboat,el barco de vela
+drone,el dron
+helicopter,el helicóptero
+railroad,el ferrocarril
+repair shop,el taller
+garage,la cochera
+garage,el garaje
+carrier,el portaequipajes
+roof rack,la baca
+wheel,la rueda
+tire,el neumático
+tire,la llanta
+pump,el inflador
+traffic light,el semáforo
+sign,la señal
+automotive,automóvil
+aircraft,la aeronave
+to collide,colisionar
+crash,el choque
+belt,la banda
+driver,el conductor
+shaft,el árbol
+mast,el árbol
+oil,el aceite
+to give a ride,llevar
+to take,andar en
+off-ramp,la vía de salida
+on-ramp,la vía de acceso
+junction,el enlace
+intersection,el cruce
+battery,la batería
+distance,la distancia
+accident,el accidente
+buoy,la boya
+high beam,la larga
+marina,el puerto deportivo
+port,el puerto
+avenue,la avenida
+taxi,el taxi
+to launch,botar
+to run over,atropellar
+to turn,girar
+to turn,doblar
+station wagon,la rural
+motorboat,la motora
+canoe,la canoa
+kayak,el kayak
+track,la senda
+track,la rodada
+lorry,el camión
+reserve tank,la reserva
+direction,el rumbo
+to dirt bike,andar en moto todo terreno
+motorcycle,la moto
+to start,arrancar
+to accelerate,acelerar
+stop,el paradero
+taxi driver,el/la taxista
+station,la estación
+subway,el subterráneo
+subway,el metro
+to derail,descarrilar
+brake,el freno
+vessel,la nave
+ship,la nave
+horsepower,el caballo
+traffic signs,las señales de tránsito
+to fly,volar
+trip,el viaje
+ride,paseo en coche
+rest area,la área de servicio
+traffic island,el refugio
+to take off,despegar
+to land,aterrizar
+chain,la cadena
+emission,la emanación
+GPS,GPS
+map,el mapa
+windscreen,la luna
+windshield,el parabrisas
+speeding,el exceso de velocidad
+to speed,exceder el límite de velocidad
+speed,la velocidad
+camper,la casa rodante
+RV,la caravana
+trailer,el acoplado
+tractor,el tractor
+truck,el camión
+bend,la vuelta
+school bus,el bus escolar
+bus,el bus
+interstate,interestatal
+carriageway,la calzada
+solar energy,la energia solar
+highway,la autovía
+electric,eléctrico
+petrol,el gas
+diesel,el gasóleo
+train,el tren
+express,exprés
+fast,rápido
+tank,el carro de combate
+tank,el estanque
+carriage,el carruaje
+coach,el autocar
+cart,la carreta
+traffic,el tráfico
+pickup,la pick-up
+turn signal,el intermitente
+headlight,el faro
+light,la luz
+cruise ship,el crucero
+cruise,el crucero
+flight,el vuelo
+jet,el jet
+journey,el viaje
+route,la ruta
+way,el camino
+path,el caminito
+track,el camino
+radio,el radio
+sonar,el sonar
+gear,la marcha
+boat,el barco
+airplane,el avión
+to drive,manejar
+to drive,conducir
+road,la calle
+lane,el carril
+street,la calle
+transportation,el transporte
+transport,el transporte
+driving,la conducción

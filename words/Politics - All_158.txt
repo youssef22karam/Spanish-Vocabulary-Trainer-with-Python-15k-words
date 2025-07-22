@@ -1,0 +1,158 @@
+register,el censo
+to elect,elegir
+elect,electo
+overthrow,el derrocamiento
+veto,el veto
+debate,el debate
+plan,el plan
+to give a speech,dar un discurso
+public,el público
+international,internacional
+nonprofit,sin ánimo de lucro
+governmental,gubernamental
+economic,económico
+social,social
+cultural,cultural
+Democratic,demócrata
+democratic,democrático
+Republican,el republicano
+republican,republicano
+fascist,fascista
+refugee,refugiado
+comrade,el compañero
+comrade,el/la camarada
+loyal,leal
+censorship,la censura
+seat,el escaño
+regional government,la Junta
+campaign,la campaña
+mission,la misión
+green,verde
+to rise up,sublevarse
+progressive,progresista
+sit-in,la sentada
+convention,la convención
+demonstration,la manifestación
+vote,la votación
+tie,el empate
+to abdicate,abdicar
+speaker,el expositor
+to conquer,conquistar
+candidate,el candidato
+connections,el enchufe
+contact,la palanca
+me too,yo también
+Black Lives Matter,Las vidas negras importan
+racism,el racismo
+idealistic,idealista
+realistic,realista
+to govern,regir
+to govern,gobernar
+migration,la migración
+to rebel,sublevarse
+freedom,la libertad
+lobby,el lobby
+to pass,aprobar
+member,afiliado
+French Revolution,Revolución francesa
+revolution,la revolución
+power,el poder
+riot,la revuelta
+machine,la máquina
+ban,la prohibición
+human trafficking,la trata
+secretariat,el secretariado
+conflict,el conflicto
+human rights,los derechos humanos
+loyalty,la lealtad
+dove,la paloma
+law,la ley
+citizen,el ciudadano
+leader,el/la dirigente
+palace,el palacio
+protest,la protesta
+battle,la batalla
+opponent,el opositor
+leadership,el liderazgo
+bill,proyecto de ley
+development,el devenir
+army,el ejército
+vote,el voto
+inequality,la desigualdad
+council,la diputación
+reaction,la reacción
+espionage,el espionaje
+candidacy,la candidatura
+ticket,la fórmula
+march,la marcha
+global,global
+struggle,la lucha
+dictatorship,la dictadura
+dictator,el dictador
+authoritarian,autoritario
+occupied,ocupado
+independence,la independencia
+nomination,el nombramiento
+election,las elecciones
+advisor,el consejero
+minister,el ministro
+minister,el secretario
+minister,el consejero
+cabinet,el gabinete
+cabinet,el consejo de ministros
+chancellor,el/la canciller
+prime minister,el primer ministro
+president,el presidente
+mayor,la alcaldesa
+mayor,el alcalde
+representative,el diputado
+senator,el senador
+politician,el político
+king,el rey
+queen,la reina
+position,la posición
+position,la postura
+position,el cargo
+economy,la economía
+tribe,la tribu
+right,el derecho
+flag,la bandera
+movement,el movimiento
+population,la población
+change,el cambio
+developing country,el país en desarrollo
+welfare state,el estado del bienestar
+health care,la asistencia sanitaria
+state,el estado
+nation,la nación
+peace,la paz
+weapon,el arma
+state,el estado
+party,el partido
+war,la guerra
+policy,la política
+mandate,el mandato
+to run,concurrir
+news,las noticias
+committee,el comité
+royal,regio
+royal,el/la miembro de la familia real
+constitution,la constitución
+republic,la república
+monarchy,la monarquía
+crown,el trono
+fight,la lucha
+political,político
+socialist,socialista
+Communist,comunista
+anarchist,el/la anarquista
+libertarian,el libertario
+liberal,liberal
+conservative,conservador
+right,la derecha
+left,la izquierda
+opinion,la opinión
+map,el mapa
+immigration,la inmigración
+government,el gobierno
+politics,la política

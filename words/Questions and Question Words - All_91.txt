@@ -1,0 +1,91 @@
+What color are your eyes?,¿De qué color son tus ojos?
+how do you write,cómo se escribe
+Where are you?,¿Dónde estás?
+How much money do you have?,¿Cuánto dinero tienes?
+do you mean,quieres decir
+What's the weather like?,¿Qué tiempo hace?
+Where are you going?,¿Adónde vas?
+Do you speak Spanish?,¿Hablas español?
+Do you speak English?,¿Hablas inglés?
+What do you like to do?,¿Qué te gusta hacer?
+How was your day?,¿Qué tal tu día?
+how much is it,cuánto cuesta
+How much does it cost?,¿Cuánto cuesta?
+How much does it cost?,¿Cuánto vale?
+What's for dinner?,¿Qué hay para cenar?
+How are you?,¿Cómo estás?
+Where were you born?,¿Dónde naciste?
+What classes do you take?,¿Qué clases tomas?
+What day is it today?,¿Qué día es hoy?
+Where am I?,¿Dónde estoy?
+Are you ready?,¿Estás lista?
+are you free,estás disponible
+What day is today?,¿Qué día de la semana es hoy?
+do you want,quieres que
+When are you coming?,¿Cuándo vienes?
+Who are you?,¿Quién eres?
+What are you doing?,¿Qué haces?
+Did you sleep well?,¿Durmió bien?
+How are you doing?,¿Qué tal vas?
+How do you say ... ?,¿Cómo se dice ... ?
+What time is it?,¿Qué hora es?
+What's new?,¿Qué hay de nuevo?
+Where are you from?,¿De dónde es usted?
+How do you feel?,¿Cómo te sientes?
+When is your birthday?,¿Cuándo es tu cumpleaños?
+Where do you live?,¿Dónde vives?
+What do you do for a living?,¿A qué te dedicas?
+What's your name?,¿Cuál es tu nombre?
+who is he,quién es
+What do you look like?,¿Qué aspecto tienes?
+What are you like?,¿Cómo es?
+What's your name?,¿Cómo te llamas?
+What do you look like?,¿Cómo eres físicamente?
+What are you like?,¿Cómo eres?
+how old are you,cuántos años tiene usted
+how are you,qué tal estás
+multiple-choice exam,el examen tipo test
+to answer,contestar
+to ask,preguntar
+answer,la respuesta
+question,la pregunta
+what,qué
+who,quién
+when,cuándo
+Come again?,cómo
+how,cómo
+how much,cuánto
+how,cuán
+where,adónde
+where,dónde
+what ... for,para qué
+which,cuál
+from where,de dónde
+whom,quién
+where,hacia dónde
+For whom?,¿Para quién?
+in what way,de qué manera
+with whom,con quién
+since when,desde cuándo
+how long ago,cuánto tiempo hace
+which way,por dónde
+how often,con qué frecuencia
+what is,qué es
+what...is wearing,qué lleva puesto
+what...is doing,qué hace
+who's,quién es
+what's it like,cómo es
+how long,hace cuánto tiempo
+how long,cuánto tiempo
+is it true that,es verdad que
+when and where did it happen,cuándo y dónde ocurrió
+what is it made of,de qué está hecho
+how is,qué tal
+what day,qué día
+what date,qué día
+what time,qué hora
+on which,en que
+how do you say,cómo se dice
+what,a qué
+what's ... about,de qué se trata
+why,por qué

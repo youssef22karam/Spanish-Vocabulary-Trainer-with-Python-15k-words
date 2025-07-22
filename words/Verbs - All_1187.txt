@@ -1,0 +1,1187 @@
+to compete,competir
+to teach,enseñar
+to send,enviar
+to come,venir
+to put,poner
+to see,ver
+to pay,pagar
+to be able to,poder
+to slow down,ralentizar
+to drive crazy,enloquecer
+to hang,suspender
+to wash the dishes,lavar los platos
+to impose,imponer
+to be in charge of,estar al mando de
+to not give a straight answer,responder con evasivas
+to cover oneself,cubrirse
+to make stand on end,erizar
+to hedge,cercar con un seto
+to faint,desvanecerse
+to vanish,esfumarse
+to wear out,ajar
+to have an afternoon snack,merendar
+to get divorced,divorciarse
+to correct,corregir
+to impress,impresionar
+to frighten,asustar
+to shock,escandalizar
+to make impossible,imposibilitar
+to exclude,excluir
+to calm down,calmarse
+to instill,inculcar
+to stay,hospedarse
+to break up,desguazar
+to throw away,desechar
+to rule out,descartar
+to sunbathe,tomar el sol
+to rescue,rescatar
+to seat,talonar
+to look forward to,estar deseando
+to feel like,tener ganas de
+to hike,hacer senderismo
+to claim,reclamar
+to protest,protestar
+to agree with,estar de acuerdo
+to weigh,levar
+to flatten,allanar
+to try,procurar
+to fall behind,atrasarse
+to charge at,arremeter
+to whip,azotar
+to agree,concordar
+to campaign,hacer campaña
+to envy,envidiar
+to sit,sentar
+to climb,trepar
+to fall ill,enfermar
+to get dirty,ensuciarse
+to collect,recaudar
+to lift,elevar
+to cheer up,animarse
+to stop,dejar de
+to redefine,redefinir
+to clear,atrabancar
+to push up,hacer subir
+to vomit,vomitar
+to bring up,sacar a relucir
+to appear,figurar
+to color in with crayons,pintar con ceras
+to send a message to,enviar un mensaje a
+to lower,agachar
+to unite,unificar
+to give,conceder
+to ring out,repiquetear
+to echo,resonar
+to drum,tamborilear
+to play the drums,tocar la batería
+to play drums,tocar el tambor
+to bet,apostar
+to catch,atrapar
+to become less deep,hacerse menos profundo
+to encode,cifrar
+to codify,codificar
+to charge for,cobrar
+to outline,explicar a grandes rasgos
+to outline,perfilar
+to sketch,esbozar
+to staff,dotar de personal
+to greet one another,saludarse
+to be happy,ser feliz
+to abut,lindar con
+to share a border with,limitar con
+to stockpile,acaparar
+to corral,acorralar
+to set a trap,tender una trampa
+to make,elaborar
+to formulate,formular
+to frame,enmarcar
+to stay,mantenerse
+to shop,hacer compras
+to require,requerir
+to assert,afirmar
+to state,declarar
+to fan,aventar
+to conceive,concebir
+to wake up,despertar
+to cry,lagrimar
+to escape,escaparse
+to scare,dar miedo
+to hoe again,binar
+to cure,curar
+to remedy,remediar
+to fill with,infundir
+to stimulate,estimular
+to inspire,inspirar
+to network,conectar a la red
+to network,establecer contactos
+to place,situar
+to position,posicionar
+to upset,disgustar
+to evade,burlar
+to jump rope,saltar a la cuerda
+to extend,prolongar
+to emigrate,emigrar
+to take care of oneself,cuidarse
+to curse,echar una maldición a
+to curse,maldecir
+to scrape,raspar
+to cross out,tachar
+to scratch,rascar
+to dress up,ataviar
+to exhibit,exhibir
+to arrange,disponer
+to explode,estallar
+to waste,desperdiciar
+to waste,malgastar
+to thrive,crecerse
+to type,escribir a máquina
+to type,teclear
+to undress,desnudar
+to make ... fall in love,enamorar
+to forge,falsificar
+to overwhelm,agobiar
+to boil,bullir
+to buzz,zumbar
+to sing softly,canturrear
+to sing to oneself,tararear
+to finance,financiar
+to authenticate,autenticar
+to become,convertirse
+to plant,plantar
+to go up to,subir a
+to come into,entrar en
+to go in,meterse
+to wait for,aguardar
+to propel,impulsar
+to promote,promover
+to ride a bicycle,ir en bicicleta
+to chance to,dar la casualidad de que
+to risk,arriesgarse a
+to rebuild,reconstruir
+to feel like,apetecer
+to beat,apalear
+to anger,enojar
+to live,habitar
+to contact,contactar
+to get to,llegar a
+to publish,editar
+to pile up,apilar
+to pour,diluviar
+to flow,fluir
+to invest in,invertir en
+to collapse,desplomarse
+to cultivate,cultivar
+to warp,urdir
+to plot,maquinar
+to expose,dejar al descubierto
+to bring to light,sacar a la luz
+to open,destapar
+to turn into,convertir
+to benefit from,beneficiarse
+to fall asleep,dormirse
+to keep quiet,callar
+to exercise,ejercitarse
+to elbow,dar un codazo a
+to write reviews,escribir críticas
+to review,pasar revista a
+to review,reseñar
+to analyze,analizar
+to shake,temblar
+to witness,dar testimonio
+to testify,atestiguar
+to witness,presenciar
+to be,encontrarse
+to lie in,radicar
+to imagine,representarse
+to eliminate,suprimir
+to shed,mudar de
+to spill,derramar
+to abdicate,abdicar
+to determine,determinar
+to plot,tramar
+to stand out,destacarse
+to offer,ofrecer
+to count on,contar con
+to exacerbate,exacerbar
+to make worse,agravar
+to list,listar
+to make a mistake,equivocarse
+to remove,eliminar
+to make friends,hacer amigos
+to average out,promediar
+to venerate,venerar
+to worship,rendirle culto a
+to worship,idolatrar
+to ache for,suspirar por
+to long for,ansiar
+to get some fresh air,ventilarse
+to receive,acoger
+to welcome,dar la bienvenida
+to favor,favorecer
+to sew,coser
+to justify,justificar
+to proclaim boastfully,vociferar
+to storm,tomar por asalto
+to shake,menear
+to bathe,bañar
+to cycle,hacer en bici
+to go by bike,ir en bici
+to calm down,ponerse tranquilo
+to refrigerate,refrigerar
+to cool,enfriar
+to annoy,fastidiar
+to paste,pegar
+to repair,reparar
+to spread,difundir
+to explore,explorar
+to predispose,predisponer
+to condition,condicionar
+to format,formatear
+to confer a doctorate on,doctorar
+to twerk,perrear
+to distribute,distribuir
+to flow,manar
+to publish,publicar
+to abandon,desertar
+to break down,desglosar
+to injure oneself,lesionarse
+to complain,lamentarse
+to test,poner a prueba
+to value,tasar
+to tax,cobrar impuestos
+to tax,gravar
+to have,poseer
+to cover,revestir
+to put in a cast,escayolar
+to pawn,empeñar
+to curl up,acurrucarse
+to know oneself,conocerse
+to pill,formar bolitas
+to be afraid,tener miedo
+to machine,fabricar a máquina
+to slide,deslizarse
+to wind,serpentear
+to hammer,clavar
+to detach,desprender
+to wear for the first time,estrenar
+to release,poner en libertad
+to free,liberar
+to poison,envenenar
+to fantasize,fantasear
+to landscape,ajardinar
+to contain,contener
+to round,redondear
+to scold,regañar
+to continue,continuar
+to congratulate,congratular
+to enter,ingresar
+to pile up,amontonar
+to tilt to one side,ladear
+to cool,refrescar
+to bear,cargar con
+to beach,varar
+to dominate,dominar
+to bundle up,abrigar
+to recover from,recuperarse de
+to nurse,amamantar
+to spell,deletrear
+to invite,invitar
+to be used to,estar acostumbrado
+to adore,adorar
+to move away,distanciarse
+to make the bed,hacer la cama
+to govern,regir
+to sin,pecar
+to print,imprimir
+to search,registrar
+to question,cuestionar
+to decorate,engalanar
+to doll up,emperifollar
+to snap,chasquear
+to crack,resquebrajar
+to crack,agrietar
+to call me,llamarme
+to lift,alzar
+to wait for,esperar
+to foresee,prever
+to seat,acomodar
+to thank,agradecer
+to knock down,tumbar
+to make taboo,convertir en tabú
+to chargrill,asar al carbón
+to chargrill,asar a las brasas
+to realize,darse cuenta
+to can,enlatar
+to shine,brillar
+to incite to rebellion,rebelar
+to entail,conllevar
+to carry,acarrear
+to carry,llevar encima
+to undergo,someterse
+to hold,sostener
+to rejoice,regocijarse
+to appreciate,apreciar
+to surf,surfear
+to intimidate,intimidar
+to imagine,imaginarse
+to transfer,ceder
+to bend,doblarse
+to lean,inclinarse
+to be jealous,tener celos
+to stray,desviarse
+to undo,deshacer
+to yawn,bostezar
+to link,enlazar
+to join,unir
+to poll,encuestar
+to scratch,rayar
+to brush,cepillar
+to be hot,tener calor
+to disappoint,decepcionar
+to apprehend,aprehender
+to suggest,plantear
+to expose,exponer
+to invade,invadir
+to hunt,cazar
+to initialize,inicializar
+to pass,promulgar
+to jog,trotar
+to miss,faltar a
+to go for a walk,pasear
+to salivate,salivar
+to get upset,inmutarse
+to trust in,confiar en
+to concern,incumbir
+to concern,concernir
+to worry,preocupar
+to postpone,retrasar
+to mold,moldear
+to knock out,dejar K.O.
+to knock out,noquear
+to export,exportar
+to distribute,repartir
+to divide,dividir
+to respect,respetar
+to interrupt,interrumpir
+to beat,latir
+to palpitate,palpitar
+to crush,machacar
+to dare,atreverse
+to have lunch,almorzar
+to destroy,destrozar
+to inform,enterar
+to write,redactar
+to sand,lijar
+to polish,pulir
+to enter,entrar a
+to access,acceder a
+to mine,minar
+to burn,quemar
+to wound,herir
+to look like,parecerse a
+to level,nivelar
+to dirty,ensuciar
+to betray,traicionar
+to unfold,desdoblar
+to pull someone's leg,tomar el pelo
+to subjugate,avasallar
+to step on,pisar
+to doubt,dudar
+to reason,razonar
+to shrink,encoger
+to propel,propulsar
+to get off,bajarse
+to fall,descender
+to shield,escudar
+to watch TV,ver la tele
+to postpone,posponer
+to defend,defender
+to return,devolver
+to focus on,centrarse en
+to pass the time,pasar el rato
+to enumerate,enumerar
+to cite,citar
+to trade,comerciar
+to go through,traspasar
+to exchange,intercambiar
+to be detrimental to,perjudicar
+to hurt,hacer daño
+to kidnap,raptar
+to last,durar
+to send by express mail,enviar por correo exprés
+to draw lots for,sortear
+to introduce,presentar
+to line up,alinear
+to mediate,intermediar
+to blow,soplar
+to motivate,motivar
+to push,empujar
+to cause,dar lugar a
+to confess,confesar
+to dawn,amanecer
+to touch the bottom,tocar fondo
+to comb,peinar
+to prevent,prevenir
+to attack,atacar
+to tire,cansar
+to predict,pronosticar
+to tilt,inclinar
+to handle,toquetear
+to except,exceptuar
+to insist,insistir
+to reimburse,reembolsar
+to structure,estructurar
+to design,diseñar
+to inject,inyectar
+to pump,bombear
+to bless,bendecir
+to gesture,hacer gestos
+to engrave,inscribir
+to riot,amotinarse
+to riot,provocar disturbios
+to supply,suministrar
+to stipulate,estipular
+to provide,proporcionar
+to invent,inventar
+to drop,dejar caer
+to fail,fallar
+to cover,forrar
+to cover,recubrir
+to confront,afrontar
+to face,mirar a
+to give,dar a
+to tutor,dar clases particulares
+to store,almacenar
+to house,albergar
+to nick,mellar
+to chip,desportillar
+to produce,rendir
+to carry out,ejecutar
+to interpret,interpretar
+to represent,representar
+to carry out,desempeñar
+to howl,aullar
+to achieve,cumplir
+to haggle,regatear
+to negotiate,negociar
+to approach,acercarse a
+to board,abordar
+to approach,aproximarse
+to dedicate,dedicar
+to spend,gastar
+to tell,narrar
+to flatter,halagar
+to congratulate,felicitar
+to be on a diet,hacer régimen
+to go on a diet,hacer dieta
+to collect,coleccionar
+to wrap,envolver
+to decrease,menguar
+to lighten,clarear
+to break up,dispersarse
+to pick out,entresacar
+to dilute,diluir
+to resign,renunciar
+to replace,reemplazar
+to connect,relacionar
+to make buttonholes on,ojalar
+to practice,ejercitar
+to mention,mencionar
+to allow,consentir
+to make out,divisar
+to get angry,enojarse
+to express,expresar
+to tie,atar
+to examine,examinar
+to complain,quejarse
+to decode,descodificar
+to decipher,descifrar
+to threaten,amenazar
+to promise,prometer
+to pay attention,prestar atención
+to reassume,reasumir
+to put one's makeup on,pintarse
+to reveal,revelar
+to get ready,arreglarse
+to gather,reunir
+to turn up,aparecer
+to get in line,hacer cola
+to upset,afligir
+to challenge,desafiar
+to develop,desarrollar
+to forgive,perdonar
+to exhaust,agotar
+to devise,idear
+to calculate,calcular
+to solve,resolver
+to go well,salir bien
+to enjoy oneself,gozar
+to water,abrevar
+to exonerate,exculpar
+to tell on,chivarse de
+to inform on,delatar
+to come,acudir
+to relax,relajarse
+to find,hallar
+to be out of place,desentonar
+to connect,conectar
+to have to,tener que
+to press,apretar
+to smash,estrellar
+to reduce,reducir
+to cheat,hacer trampa
+to swindle,estafar
+to swindle,timar
+to communicate,comunicarse
+to transmit,transmitir
+to drip,chorrear
+to wave,ondear
+to lock up,encerrar
+to hit,dar un golpe
+to rap,rapear
+to belly land,aterrizar de panza
+to raze to the ground,arrasar
+to make a good impression,quedar bien
+to rise,ascender
+to be worth,valer
+to cloud,nublar
+to twist,torcer
+to focus,enfocar
+to bury,enterrar
+to hate,odiar
+to embroider,bordar
+to excel in,lucirse en
+to assemble,armar
+to build,erigir
+to create,crear
+to make up,constituir
+to found,fundar
+to run,dirigir
+to prevent,impedir
+to be lucky,tener suerte
+to save,salvar
+to dumbfound,dejar helado
+to demolish,derribar
+to pave,pavimentar
+solar,solar
+to murmur,murmurar
+to exist,existir
+to leave,largarse
+to cause,causar
+to splash,salpicar
+to riddle,acribillar
+to season with pepper,sazonar con pimienta
+to pray,rezar
+to shoot,disparar
+to plant,sembrar
+to provide,proveer
+to be enough,bastar
+to denounce,denunciar
+to report,dar parte de
+to produce,reportar
+to report,informar sobre
+to fascinate,fascinar
+to change,mudar
+to establish,establecer
+to give birth,parir
+to litter,tirar basura
+to worry,preocuparse
+to grab,agarrar
+to be quiet,callarse
+to be quiet,guardar silencio
+to go on tour around,ir de gira por
+to visit,visitar
+to work,funcionar
+to crash into,chocar contra
+to affect,afectar
+to experience,experimentar
+to catch,pillar
+to reflect,reflexionar
+to classify,clasificar
+to sprout,brotar
+to leaf through,hojear
+to tread,hollar
+to frequent,frecuentar
+to toast,brindar
+to toast,tostar
+to value,valorar
+to roof,techar
+to deserve,merecer
+to kiss,besar
+to contribute,aportar
+to face up to,hacer frente a
+to assure,asegurar
+to moan,plañir
+to confirm,acreditar
+to cheer up,alegrar
+to give a scholarship to,becar
+to pretend,fingir
+to track,ir dejando
+to weigh,pesar
+to recognize,reconocer
+to invoice,pasarle la factura a
+to announce,anunciar
+to get angry,enfadarse
+to hold,mantener
+to retire,retirarse
+to retire,jubilarse
+to bone,deshuesar
+to stone,lapidar
+to emphasize,destacar
+to find out,averiguar
+to use,emplear
+to be a boarder,estar interno
+to lodge,hospedar
+to get on,subirse a
+to board,embarcarse
+to exercise,hacer ejercicio
+to collaborate,colaborar
+to admit,admitir
+to tolerate,tolerar
+to knock over,volcar
+to disturb,trastornar
+to not agree with,sentar mal
+to alter,alterar
+to offend,ofender
+to fart,tirarse un pedo
+to save,ahorrar
+to turn,girar
+to disappear,desaparecer
+to saw,serrar
+to beg,rogar
+to regret it,arrepentirse
+to choose,escoger
+to stress out,estresar
+to stoke,avivar
+to fan,abanicar
+to accommodate,alojar
+to hide,ocultar
+to sieve,cribar
+to filter,filtrar
+to emit,emitir
+to joke,bromear
+to check,comprobar
+to act,actuar
+to fix,arreglar
+to trip up,hacerle la zancadilla a
+to stumble,tropezar
+to sweep,barrer
+to entrust,encomendar
+to avoid,eludir
+to border,bordear
+to surround,rodear
+to stay the night,hacer noche
+to stop over,hacer escala
+to protect,proteger
+to prepare,prepararse
+to derive from,derivar
+to begin,iniciar
+to turn up,presentarse
+to hurt oneself,lastimarse
+to start,arrancar
+to excavate,excavar
+to dig,cavar
+to record,grabar
+to be bored,aburrirse
+to aim,apuntar
+to like,caer bien
+to sign,firmar
+to escape,huir
+to track,rastrear
+to hurry,meter prisa
+to block,bloquear
+to confuse,confundir a
+to be addressed to,ir dirigido a
+to space out,espaciar
+to go with,acompañar
+to derail,descarrilar
+to live on,perdurar
+to pound,aporrear
+to cancel,cancelar
+to imitate,imitar
+to crush,aplastar
+to challenge,retar
+to put to bed,acostar
+to climb,escalar
+to suffer,sufrir
+to lose weight,adelgazar
+to guide,guiar
+to lie,mentir
+to swear,jurar
+to scream,chillar
+to request,solicitar
+to disperse,dispersar
+to promote,fomentar
+to numb,entumecer
+to make sleepy,adormecer
+to hit,golpear
+to have breakfast,desayunar
+to jump,saltar
+to place,colocar
+to walk,marchar
+to graduate,licenciarse
+to promote,promocionar
+to commercialize,comercializar
+to center,centrar
+to fence in,vallar
+to text,enviar mensajes de texto
+to order,ordenar
+to mention,nombrar
+to grow,crecer
+to put on makeup,maquillarse
+to vacuum,pasar la aspiradora
+to swing,balancear
+to swing,oscilar
+to agree,acordar
+to soap,enjabonar
+to draw,trazar
+to exaggerate,exagerar
+to overact,sobreactuar
+to pack,empacar
+to make an effort,esforzarse
+to finish,apurar
+to allow,permitir
+to woo,cortejar
+to cut,partir
+to dry,secarse
+to take down,descolgar
+to land,aterrizar
+to encourage,animar
+to travel around,recorrer
+to populate,poblar
+to chat,charlar
+to celebrate,celebrar
+to happen,ocurrir
+to be overconfident,confiarse
+to communicate,comunicar
+to conjugate,conjugar
+to dream,soñar
+to surprise,sorprender
+to captivate,cautivar
+to amaze,asombrar
+to disguise as,disfrazar
+to improve,mejorar
+to hurry up,apresurarse
+to laugh,reírse
+to guess,adivinar
+to heat,calentar
+to withstand,resistir
+to bear,aguantar
+to stand,soportar
+to please,placer
+to increase,aumentar
+to marry,casar
+to finish,acabar
+to participate,participar
+to turn in,entregar
+to cross,cruzar
+to extend,extenderse
+to cover,abarcar
+to plan,proyectar
+to perfect,perfeccionar
+to reflect,reflejar
+to skate,patinar
+to support,apoyar
+to consider,considerar
+to add,agregar
+to please,agradar
+to be surprised,sorprenderse
+to happen,suceder
+to say hello to,saludar
+to fear,temer
+to defeat,vencer
+to hug,abrazar
+to cover,cubrir
+to take advantage of,aprovechar
+to train,adiestrar
+to form,formar
+to train,entrenar
+to warn,advertir
+to notify,notificar
+to inform,informar
+to advise,asesorar
+to recommend,recomendar
+to advise,aconsejar
+to shake,sacudir
+to come from,provenir
+to show,señalar
+to mark,marcar
+to be able to,lograr
+to handle,manejar
+to propose,proponer
+to move,conmover
+to transport,transportar
+to transfer,trasladar
+to move,mover
+to oppose,oponerse
+to object,objetar
+to prune,podar
+to cut off,recortar
+to fish,pescar
+to move,mudarse
+to assume,asumir
+to return,regresar
+to walk,dirigirse
+to thrill,emocionar
+to complete,completar
+to produce,producir
+to get married,casarse
+to put,meter
+to obey,obedecer
+to overcome,superar
+to order,mandar
+to resume,reanudar
+to restart,reiniciar
+to review,revisar
+to accumulate,acumular
+to bother,molestar
+to raise,levantar
+to camp,acampar
+to cry,llorar
+to lend,prestar
+to tackle,abordar
+to shout,gritar
+to hide,esconder
+to snow,nevar
+to rest,descansar
+to bring up,educar
+to enter,entrar
+to deceive,engañar
+to reach,alcanzar
+to burst,reventar
+to fix,fijar
+to have fun,divertirse
+to let go of,soltar
+to jump,brincar
+to scuba dive,bucear
+to discover,descubrir
+to thunder,tronar
+to boom,retumbar
+to take a bath,bañarse
+to forget,olvidar
+to love,amar
+to demand,exigir
+to seize,apoderarse
+to destroy,destruir
+to interview,entrevistar
+to equip,equipar
+to suppose,suponer
+to enjoy,disfrutar
+to shave,afeitarse
+to turn on,encender
+to sell,vender
+to paint,pintar
+to control,regular
+to talk,platicar
+to compare,comparar
+to matter,importar
+to fast,ayunar
+to interest,interesar
+to accept,aceptar
+to show,mostrar
+to receive,recibir
+to meet with,encontrarse con
+to plan,programar
+to smell,oler
+to taste,degustar
+to taste,catar
+to fill,llenar
+to miss,faltar
+to look after,atender
+to take care of,cuidar
+to carry out,realizar
+to say goodbye,despedirse
+to comb one's hair,peinarse
+to build,construir
+to exploit,exprimir
+to milk,ordeñar
+to collect,juntar
+to wonder,preguntarse
+to brush,cepillarse
+to break,romper
+to share,compartir
+to get dressed,vestirse
+to fight,luchar
+to fight,pelear
+to ski,esquiar
+to hurt,doler
+to change,cambiar
+to have dinner,cenar
+to turn off,apagar
+to remember,acordarse
+to ring,sonar
+to avoid,evitar
+to cost,costar
+to take a shower,ducharse
+to park,aparcar
+to sit,sentarse
+to remember,recordar
+to be born,nacer
+to seem,parecer
+to rain,llover
+to bore,aburrir
+to throw,echar
+to understand,comprender
+to wash,lavarse
+to decide,decidir
+to answer,contestar
+to become,llegar a ser
+to turn into,convertirse en
+to rent,alquilar
+to miss,extrañar
+to listen to,oír
+to swim,nadar
+to need,necesitar
+to go up,subir
+to want,desear
+to prepare,preparar
+to feel,sentirse
+to use to,soler
+to end,terminar
+to count,contar
+to talk,hablar
+to use,usar
+to practice,practicar
+to pick up,recoger
+to be called,llamarse
+to try,intentar
+to try,probar
+to start,comenzar
+to get up,levantarse
+to describe,describir
+to stay,quedarse
+to advance,avanzar
+to cook,cocinar
+to go,marcharse
+to abandon,abandonar
+to leave,dejar
+to watch,observar
+to prefer,preferir
+to brown,dorar
+to find,encontrar
+to wake up,despertarse
+to believe,creer
+to take,tardar
+to owe,deber
+to love,encantar
+to call,llamar
+to listen to,escuchar
+to drink,beber
+to follow,seguir
+to take out,sacar
+to work,trabajar
+to stop,parar
+to sing,cantar
+to delete,borrar
+to go to bed,acostarse
+to help,ayudar
+to start,empezar
+to walk,caminar
+to think,pensar
+to travel,viajar
+to be left,quedar
+to take,tomar
+to run,correr
+to dance,bailar
+to take,llevar
+to look for,buscar
+to buy,comprar
+to live,vivir
+to play,jugar
+to arrive,llegar
+to go out,salir
+to know,conocer
+to like,gustar
+to eat,comer
+to speak,hablar
+to kick,patear
+to head,cabecear
+to throw,lanzar
+to pass,pasar
+to dribble past,regatear
+to dribble,driblar
+to touch,tocar
+to reprimand,amonestar
+to throw out,expulsar
+to thrash,golear
+to confront,enfrentar
+to clear,despejar
+to win,ganar
+to lose,perder
+to tie,empatar
+to bark,ladrar
+to meow,maullar
+to raise,criar
+to take out for a walk,sacar a pasear
+to feed,alimentar
+to pet,acariciar
+to growl,gruñir
+to mate,aparear
+to castrate,castrar
+to purr,ronronear
+to sterilize,esterilizar
+to tame,domesticar
+to bite,morder
+to sting,picar
+to gallop,galopar
+to fly,volar
+to get depressed,abatirse
+to land,posarse
+to scratch,rasguñar
+to commit a crime,delinquir
+to commit,cometer
+to kill,matar
+to murder,asesinar
+to rape,violar
+to rob,asaltar
+to rob,atracar
+to steal,robar
+to steal,hurtar
+to sue,demandar
+to prosecute,procesar
+to prosecute,encausar
+to question,interrogar
+to try,enjuiciar
+to acquit,absolver
+to sentence,condenar
+to judge,juzgar
+to appeal,apelar
+to fine,multar
+to slice,cortar en rebanadas
+to chop,picar
+to sprinkle,espolvorear
+to peel,pelar
+to grate,rallar
+to grind,triturar
+to pour,verter
+to bake,hornear
+to cook over a low heat,cocer a fuego lento
+to fry,freír
+to sauté,saltear
+to measure,medir
+to add,añadir
+to simmer,hervir a fuego lento
+to melt,fundir
+to boil,hervir
+to mix,mezclar
+to ride,montar
+to beat,batir
+to drain,drenar
+to strain,colar
+to roast,asar
+to turn over,voltear
+to stir,revolver
+to explain,explicar
+to learn,aprender
+to understand,entender
+to study,estudiar
+to memorize,memorizar
+to write,escribir
+to argue,discutir
+to fail,reprobar
+to pass,aprobar
+to graduate,graduarse
+to go over,repasar
+to make a summary of,hacer un resumen de
+to note down,anotar
+to attend,asistir
+to go to class,ir a clases
+to ask a question,hacer una pregunta
+to put one's hand up,levantar la mano
+to take an exam,rendir un examen
+to skip class,faltar a clase
+to work in pairs,trabajar en parejas
+to do one's homework,hacer la tarea
+to do homework,hacer los deberes
+to go to school,ir a la escuela
+to underline,subrayar
+to write in cursive,escribir en cursiva
+to write a sentence,escribir una oración
+to pay attention in class,prestar atención en clase
+to match the words,unir las palabras
+to ask,preguntar
+to answer,responder
+to take note,tomar nota
+to summarize,resumir
+to learn by heart,aprender de memoria
+to learn,aprenderse
+to draw,dibujar
+to stand out,resaltar
+to study for the exam,estudiar para el examen
+to put on,ponerse
+to iron,planchar
+to take off,quitarse
+to stretch,estirar
+to tear,rasgar
+to clean,limpiar
+to wash,lavar
+to dry,secar
+to go with,combinar
+to clash,desentonar
+to get wrinkled,arrugarse
+to try on,probarse
+to fold,doblar
+to hang,colgar
+to vote,votar
+to register,registrarse
+to choose,elegir
+to govern,gobernar
+to overthrow,derrocar
+to veto,vetar
+to debate,debatir
+to plan,planificar
+to give a speech,dar un discurso
+to log off,desconectarse
+to go online,entrar en línea
+to surf,navegar
+to download,descargar
+to go down,bajar
+to email,enviar por correo electrónico
+to attach,adjuntar
+to open,abrir
+to close,cerrar
+to insert,introducir
+to copy,copiar
+to cut,cortar
+to displace,desplazar
+to press,pulsar
+to click on,hacer clic en
+to scan,escanear
+to save,guardar
+to load,cargar
+to install,instalar
+to have,tener
+to be,ser
+to give,dar
+to keep,retener
+to feel,sentir
+to ask for,pedir
+to laugh,reír
+to smile,sonreír
+to get,conseguir
+to say goodbye to,despedir
+to amuse,divertir
+to die,morir
+to do again,repetir
+to serve,servir
+to suggest,sugerir
+to wear,vestir
+to drive,conducir
+to translate,traducir
+to say,decir
+to bring,traer
+to fall,caer
+to read,leer
+to gnaw on,roer
+to hear,oír
+to conclude,concluir
+to be,estar
+to fit,caber
+to have,haber
+to do,hacer
+to want,querer
+to go,ir
+to know,saber
+to know very well,resaber
+to have,disponer
+to sleep,dormir

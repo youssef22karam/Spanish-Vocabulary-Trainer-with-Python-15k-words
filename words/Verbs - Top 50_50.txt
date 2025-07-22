@@ -1,0 +1,50 @@
+to come,venir
+to put,poner
+to see,ver
+to wake up,despertar
+to question,cuestionar
+to start,comenzar
+to write,escribir
+to turn into,convertir
+to wash,lavar
+to study,estudiar
+to wait for,esperar
+to ask for,pedir
+to get,conseguir
+to use,usar
+to sit,sentar
+to try,probar
+to cook,cocinar
+to dance,bailar
+to help,ayudar
+to contain,contener
+to need,necesitar
+to take,llevar
+to count,contar
+to look for,buscar
+to eat,comer
+to sleep,dormir
+to travel,viajar
+to have,haber
+to learn,aprender
+to hear,oír
+to take,tomar
+to call,llamar
+to walk,caminar
+to work,trabajar
+to know,conocer
+to play,jugar
+to know,saber
+to go out,salir
+to describe,describir
+to speak,hablar
+to like,gustar
+to buy,comprar
+to give,dar
+to want,querer
+to say,decir
+to have,tener
+to do,hacer
+to go,ir
+to be,estar
+to be,ser

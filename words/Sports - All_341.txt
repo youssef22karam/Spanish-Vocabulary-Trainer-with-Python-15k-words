@@ -1,0 +1,341 @@
+to compete,competir
+indoor,bajo techo
+outdoor,al aire libre
+swimsuit,el bañador
+bathing suit,el traje de baño
+inning,la entrada
+to tackle,entrarle a
+to tackle,hacer un placaje a
+tackle,el tackle
+friendly match,el amistoso
+bullring,la plaza de toros
+arena,la arena
+climbing,la escalada
+mountaineering,el alpinismo
+junior,el/la cadete
+green,el green
+corner,el saque de esquina
+home run,el home run
+team member,el/la integrante del equipo
+to call,pitar
+to warm up,precalentar
+to convert,convertir
+season,la temporada
+enthusiast,el aficionado
+amateur,amateur
+to knock out,noquear
+to eliminate,eliminar
+winger,el/la ala
+wing,el ala
+fly ball,el fly
+to disallow,anular
+lane,la calle
+fairway,la calle
+baseball bat,el bate de béisbol
+hockey stick,el palo de hockey
+stick,el palo
+golf club,el palo de golf
+qualification,la clasificación
+saddle,el sillín
+balance beam,la barra de equilibrio
+surfing,el surfing
+course,el campo
+to jog,trotar
+to trot,trotar
+form,la forma física
+KO,KO
+goalie,el portero
+skipper,el patrón
+sideline,la banda
+footballer,el/la futbolista
+wall,la barrera
+soccer jersey,la camiseta de fútbol
+soccer goal,la portería de fútbol
+soccer team,el equipo de fútbol
+soccer ball,la pelota de fútbol
+soccer cleat,la bota de fútbol
+soccer practice,el entrenamiento de fútbol
+football pitch,el campo de fútbol
+offside,el offside
+defense,la zaga
+midfielder,el/la centrocampista
+catcher,el/la catcher
+batter,el bateador
+pitcher,el/la pitcher
+to defend,jugar de defensa
+fight,el combate
+to trade,traspasar
+partner,la pareja
+pugilist,el púgil
+boxer,el boxeador
+attack,el ataque
+mitt,el guante
+pump,el inflador
+period,el tiempo
+cup,la copa
+cup,copero
+racket,la raqueta
+paddle,la pala
+to train,entrenarse
+crowd,la entrada
+spectator,el espectador
+apparatus,el aparato
+competitor,el/la concursante
+competitor,el/la rival
+rivalry,la rivalidad
+competition,el concurso
+competition,la competición
+time,la marca
+record,el récord
+quarter,el cuarto
+jai alai,la cesta punta
+jai alai,el jai alai
+badminton,el bádminton
+equipment,el aparato
+rink,la pista
+court,la cancha
+goalposts,el marco
+ace,el ace
+punch,la pegada
+to hit,batear
+hit,el hit
+bobsled,el bobsleigh
+snowboarding,el snowboard
+cross-country skiing,el esquí de fondo
+cross-country running,la carrera a campo traviesa
+breaststroke,la braza
+backstroke,el dorso
+crawl,el crol
+butterfly,la mariposa
+to intercept,abarajar
+blocker,el bloqueador
+semifinal,la semifinal
+final,la final
+qualifying heat,la serie
+heat,la prueba
+finish line,la línea de llegada
+start,la salida
+lead,la delantera
+oar,el remo
+rowing,el remo
+canoe,la canoa
+kayak,el kayak
+putt,el putt
+swing,el swing
+stroke,la brazada
+stroke,la tacada
+to work out,entrenar
+diving board,el trampolín
+sporty,deportista
+sportsperson,el/la deportista
+rules,el reglamento
+scoreboard,el marcador
+athletics,el atletismo
+diamond,el cuadro
+fitness,la forma física
+target,el blanco
+title,el cetro
+half,el tiempo
+trainer,el preparador
+active,activo
+heat,la prueba eliminatoria
+event,la prueba
+open tournament,el abierto
+open,el open
+to fence,practicar esgrima
+stamina,el fondo
+draw,el empate
+point,el tanto
+water sports,los deportes acuáticos
+pitch,el campo
+track,la pista
+heat,la eliminatoria
+walk,el paseo
+ride,la cabalgata
+round,el round
+lap,la vuelta
+lap,el largo
+position,la posición
+to skate,patinar
+athlete,el/la deportista
+to be victorious,vencer
+to beat,ganar
+defeat,la derrota
+sailing,la navegación a vela
+match,el partido
+to dive,zambullirse
+scuba diving,el submarinismo
+hike,la andada
+long walk,la caminata
+ramble,la caminata
+race,la carrera
+yoga,el yoga
+athletic,atlético
+hiking,el senderismo
+halftime,el entretiempo
+fault,la falta
+pool,la piscina
+pool,el pool
+manager,el técnico
+one-two,la pared
+to swim,nadar
+practice,el entrenamiento
+gym,el gimnasio
+running,el pedestrismo
+healthy,sano
+striker,el ariete
+exercise,el ejercicio
+dribble,el regate
+dribbling,el regateo
+to dribble past,regatear
+to catch,atrapar
+penalty,el penalty
+extra time,el tiempo extra
+amazing goal,el golazo
+thrashing,la goleada
+to block,placar
+block,el tapón
+injured,lesionado
+sweeper,el/la líbero
+handball,la mano
+warning,la amonestación
+own goal,el autogol
+rebound,el rebote
+rebound,el rechace
+kick,el lanzamiento
+overtime,el tiempo extra
+overtime,el tiempo suplementario
+shot,el chut
+uniform,el uniforme
+jersey,la camiseta
+jersey,la camisola
+whistle,el pito
+flag,la bandera
+sock,el calcetín
+shorts,pantalones cortos
+shin guard,la espinillera
+stadium,el estadio
+referee,el juez
+referee,el árbitro
+foul,el foul
+to blow the whistle for,pitar
+goal scorer,el goleador
+scorer,el anotador
+forward,el delantero
+to score,meter un goal
+to score,encestar
+to score,marcar
+bench,el banquillo
+home base,la base del bateador
+home,la goma
+cleat,zapato de fútbol
+playoff,el play-off
+puck,el puck
+substitute,el/la reserva
+red card,la tarjeta roja
+card,la cartulina
+center,el/la pívot
+shot,el chute
+kick-off,el puntapié inicial
+defender,el zaguero
+header,el remate
+goalkeeper,el arquero
+keeper,el portero
+to score a goal,meter un gol
+game,el partido
+soccer game,el partido de fútbol
+locker room,el vestuario
+team,el equipo
+soccer player,el/la futbolista
+player,el jugador
+line-up,la alineación
+squad,la plantilla
+captain,el capitán
+winger,el lateral
+coach,el entrenador
+fan,el/la fan
+hooligan,el/la hooligan
+World Cup,la Copa Mundial
+championship,el campeonato
+net,las mallas
+to shoot,chutar
+to kick,patear
+to kick,dar
+to head,cabecear
+to throw,lanzar
+to throw,tirar
+throw,el tiro
+pass,el pase
+to dribble past,driblear
+to dribble,driblar
+to touch,tocar
+to caution,amonestar
+to throw out,expulsar
+to score a lot of goals against,golear
+to meet,enfrentarse
+to clear,despejar
+to win,ganar
+to lose,perder
+tie,el empate
+ice hockey,el hockey sobre hielo
+field hockey,el hockey
+handball,el balonmano
+relay race,la carrera de relevos
+marathon,el/la maratón
+racing,carreras
+paddle tennis,el pádel
+squash,el squash
+discus throwing,el lanzamiento de disco
+javelin throw,el lanzamiento de jabalina
+weight lifting,la halterofilia
+softball,el sóftbol
+cycling,el ciclismo
+football,el fútbol
+fencing,la esgrima
+triathlon,el triatlón
+polo,el polo
+water polo,el waterpolo
+skating,el patinaje
+figure skating,el patinaje artístico
+martial art,la arte marcial
+sport climbing,la escalada deportiva
+gymnastics,la gimnasia
+biking,el ciclismo
+billiards,el billar
+bowling,el boliche
+bowling,los bolos
+boxing,el boxeo
+bullfighting,la tauromaquia
+jogging,el jogging
+karate,el karate
+ping-pong,el ping-pong
+skateboarding,el skateboard
+skiing,el esquí
+surfing,el surf
+swimming,la natación
+rafting,el rafting
+wrestling,la lucha libre
+freestyle wrestling,la lucha libre
+baseball,el béisbol
+helmet,el casco
+basketball,el baloncesto
+soccer,el fútbol
+lacrosse,el lacrosse
+American football,el fútbol americano
+base,la base
+ball,el balón
+basket,el enceste
+basket,la canasta
+baseball mitt,el guante de béisbol
+bat,el bate
+glove,el guante
+club,el club
+field,el campo
+trophy,el trofeo
+tournament,el torneo
+goal,el gol
+goal,la portería
+golf,el golf
+tennis,el tenis
+volleyball,el voleibol
+track and field,el atletismo

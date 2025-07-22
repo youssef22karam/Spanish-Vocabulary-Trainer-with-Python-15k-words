@@ -1,0 +1,30 @@
+pounds of weight,libras de peso
+kilogram,el kilogramo
+metric,métrico
+ton,la tonelada
+gram,el gramo
+density,la densidad
+mass,la masa
+volume,el volumen
+width,el ancho
+height,la altitud
+foot,el pie
+measure,la medida
+weight,el peso
+area,la superficie
+half,la mitad
+half,medio
+size,el tamaño
+liter,el litro
+milliliter,el mililitro
+ounce,la onza
+gallon,el galón
+cup,la taza
+quart,el cuarto de galón
+pint,la pinta
+millimeter,el milímetro
+centimeter,el centímetro
+inch,la pulgada
+meter,el metro
+yard,la yarda
+span,la cuarta

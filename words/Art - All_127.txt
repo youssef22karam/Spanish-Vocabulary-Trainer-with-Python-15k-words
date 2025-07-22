@@ -1,0 +1,127 @@
+artist,el/la artista
+carving,la talla
+alabaster,el alabastro
+ivory,el marfil
+nylon,el nylon
+brass,el latón
+leather,el cuero
+ceramic,la cerámica
+felt,el fieltro
+glass,el vidrio
+metal,el metal
+wood,la madera
+textile,el textil
+paper,el papel
+graphic designer,el diseñador gráfico
+collage,el collage
+etching,el aguafuerte
+lithograph,la litografía
+to spray paint,sopletear
+graffiti,el graffiti
+dye,el tinte
+gouache,el gouache
+mural,el mural
+fresco,el fresco
+ink,la tinta
+chalk,la tiza
+china,la porcelana
+glaze,el esmalte
+clay,el búcaro
+rococo,el rococó
+minimalism,el minimalismo
+Futurism,el futurismo
+classicism,el clasicismo
+Baroque,el Barroco
+avant-garde,la vanguardia
+surrealism,el surrealismo
+expressionism,el expresionismo
+architecture,la arquitectura
+impressionism,el impresionismo
+Art Nouveau,el art nouveau
+art dealer,el marchante
+Cubism,el cubismo
+Pop Art,el pop art
+fine arts,las bellas artes
+arts and crafts,la artesanía
+arts and crafts,las manualidades
+muse,la musa
+life,el natural
+realistic,realista
+abstract,el cuadro abstracto
+shading,la sombra
+silhouette,la silueta
+opus,la obra
+work,la obra
+monument,el monumento
+print,el positivo
+print,la lámina
+motif,el motivo
+sculptor,el escultor
+sculpture,la escultura
+marble,el mármol
+charcoal,el carbón
+picture,el cuadro
+performance,la performance
+drawing,el dibujo
+frame,el marco
+dealer,el marchante
+auction,la subasta
+paintbrush,la brocha
+brush,el pincel
+darkroom,el cuarto oscuro
+canvas,el lienzo
+showing,la muestra
+stained glass,el vidrio de colores
+glassblowing,el soplado
+pottery,la cerámica
+ceramics,la cerámica
+foreground,el primer plano
+background,el fondo
+to pose,posar
+to model,modelar
+model,el/la modelo
+gallery,el museo
+art gallery,la galería de arte
+art show,la exposición de arte
+art show,la muestra de arte
+show,la exposición
+study,el estudio
+studio,el estudio
+still life,el bodegón
+still life,la naturaleza muerta
+landscape,el paisaje
+work of art,la obra de arte
+artwork,la obra artística
+poster,el cartel
+artistic,artístico
+artist,el pintor
+to develop,revelar
+negative,el negativo
+digital camera,la cámara fotográfica digital
+digital camera,la cámara digital
+to draw,dibujar
+outline,el perfil
+sketch,el sketch
+painter,el pintor
+photographer,el fotógrafo
+camera,la cámara fotográfica
+camera,la cámara
+photography,la fotografía
+photograph,la fotografía
+painting,el lienzo
+painting,el cuadro
+acrylic,el acrílico
+watercolor,la acuarela
+tempera,el temple
+tempera,la témpera
+oil painting,el óleo
+oil painting,la pintura al óleo
+colored pencil,el lápiz de color
+pastel,el pastel
+marker,el rotulador
+crayon,el crayón
+to paint,pintar
+paint,la pintura
+to color,colorear
+color,el color
+art,el arte

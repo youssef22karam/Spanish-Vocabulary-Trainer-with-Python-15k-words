@@ -1,0 +1,39 @@
+sign,el signo
+astrology,la astrología
+fish,el pez
+Pisces,Piscis
+virgin,el/la virgen
+Virgo,Virgo
+bearer,el portador
+Aquarius,Acuario
+lion,el león
+Leo,Leo
+goat,la cabra
+Capricorn,Capricornio
+crab,el cangrejo
+Cancer,Cáncer
+archer,el arquero
+Sagittarius,Sagitario
+twin,gemelo
+Gemini,Géminis
+scorpion,el alacrán
+Scorpio,Escorpio
+bull,el toro
+Taurus,Tauro
+scales,la báscula
+Libra,la Libra
+ram,el carnero
+Aries,Aries
+sun,el sol
+Moon,la Luna
+fixed,fijo
+element,el elemento
+Earth,la Tierra
+fire,el fuego
+water,el agua
+air,el aire
+cycle,el ciclo
+heavenly body,el astro
+star,la estrella
+planet,el planeta
+horoscope,el horóscopo

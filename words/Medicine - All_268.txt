@@ -1,0 +1,268 @@
+bypass,el bypass
+cardiac arrest,el paro cardíaco
+ICU,la unidad de cuidados intensivos
+ICU,UTI
+food poisoning,la intoxicación por alimentos
+yeast infection,la candidiasis
+thermometer,el termómetro
+cystitis,la cistitis
+gonorrhea,la gonorrea
+syphilis,la sífilis
+hemorrhage,la hemorragia
+chicken pox,la varicela
+typhoid fever,el tifus abdominal
+typhoid,la tifoidea
+cirrhosis,la cirrosis
+tuberculosis,la tuberculosis
+arthritis,la artritis
+tetanus,el tétano
+hemorrhoids,la almorrana
+smallpox,la viruela
+hepatitis,la hepatitis
+leukemia,la leucemia
+meningitis,la meningitis
+pneumonia,la neumonía
+pneumonia,la pulmonía
+mumps,las paperas
+HIV,VIH
+AIDS,el sida
+IV,IV
+exam table,la camilla
+gurney,la camilla
+stretcher,la camilla
+to resuscitate,reanimar
+antidote,el antídoto
+fracture,la fisura
+incision,la incisión
+prognosis,el pronóstico
+diagnosis,la diagnosis
+intravenous,intravenoso
+germ,el germen
+CPR,RCP
+epilepsy,la epilepsia
+Band-Aid,el/la curita
+serum,el suero
+dehydrated,deshidratado
+vein,la vena
+nausea,el mareo
+unconscious,inconsciente
+cast,el yeso
+physician's assistant,el médico asociado
+physician,el facultativo
+physician,el galeno
+cancer,el cáncer
+bandage,la venda
+tumor,el tumor
+brace,el aparato
+swollen,hinchado
+poison,el veneno
+fatal,mortal
+fatal,fatal
+injured,herido
+injured,lesionado
+limb,el miembro
+to examine,examinar
+spasm,el espasmo
+stiff,entumecido
+condition,la afección
+stiffness,las agujetas
+sprain,el esguince
+wound,la herida
+bone,el hueso
+to moan,quejarse
+stomachache,el dolor de estómago
+earache,el dolor de oídos
+fracture,la fractura
+broken bone,el hueso roto
+sore throat,el dolor de garganta
+diarrhea,la diarrea
+cramps,dolor menstrual
+bruise,el moretón
+heartburn,el ardor de estómago
+heartburn,la acidez
+headache,la jaqueca
+heart attack,el ataque al corazón
+heart attack,el infarto
+flu,la gripe
+sickness,la enfermedad
+body,el cuerpo
+to deliver,atender el parto
+nursing,la enfermería
+to be late,llegar tarde
+deficiency,carencia de
+to bring up,devolver
+migraine,la migraña
+depressed,deprimido
+phlegm,la flema
+face mask,el barbijo
+face mask,el cubrebocas
+reflex,el reflejo
+depression,la depresión
+to conceive,concebir
+remedy,el remedio
+to inhale,inhalar
+acute,agudo
+fit,la crisis
+breakdown,la crisis
+mastectomy,la mastectomía
+scratch,el arañazo
+seriously ill,grave
+social distancing,distanciamiento social
+louse,el piojo
+to make ill,enfermar
+delicate,delicado
+pregnant,embarazada
+pediatrician,el/la pediatra
+ibuprofen,el ibuprofeno
+chill,el enfriamiento
+rubbing alcohol,el alcohol
+to explore,explorar
+to blow one's nose,sonarse la nariz
+reaction,la reacción
+case,el caso
+pill,la píldora
+aneurysm,el/la aneurisma
+resident,el/la residente
+residency,la residencia
+tract,la vía
+drops,las gotas
+wash your hands,lávate las manos
+infection,el contagio
+infection,la infección
+pap,la papilla
+lesion,la lesión
+to gain weight,ganar peso
+nausea,la náusea
+anxiety,la ansiedad
+doctor's office,el consultorio médico
+deaf,sordo
+pound,la libra
+cane,la muletilla
+burn,la quemadura
+weight,el peso
+cough,la tos
+obesity,la obesidad
+rabies,la rabia
+to throw up,devolver
+Dr.,Dra.
+Dr.,Dr.
+mental health,la salud mental
+therapy,la terapia
+gas,el gas
+attack,la crisis
+critical,crítico
+birth,el parto
+allergy,la alergia
+shot,la inyección
+vaccine,la vacuna
+contraction,la contracción
+disability,la discapacidad
+period,la regla
+delivery,el parto
+ailment,el padecimiento
+mentally unbalanced,perturbado
+doctor's office,el consultorio
+surgery,el consultorio
+surgery,la cirugía
+get well soon,que te mejores
+weak,endeble
+X-ray,la radiografía
+to set,ensalmar
+to set,encasar
+to quarantine,poner en cuarentena
+to get,pillar
+symptom,el síntoma
+symptom complex,el cuadro
+first aid kit,el botiquín
+first aid,los primeros auxilios
+wellness,el bienestar
+wellness,la salud integral
+oral,oral
+bite,la picada
+virus,el virus
+sanity,la cordura
+blocker,el bloqueador
+prescription,la receta
+to catch,coger
+temperature,la fiebre
+stroke,el ictus
+How are you feeling?,¿Cómo te encuentras?
+pandemic,la pandemia
+immune system,el sistema inmunitario
+upset,revuelto
+stone,el cálculo
+to hurt oneself,lastimarse
+sac,la bolsa
+to gain weight,engordar
+to lose weight,adelgazar
+examination,la exploración
+nervous,nervioso
+numb,adormecido
+cold,el resfriado
+withdrawal symptoms,el mono
+dentist,el odontólogo
+dentist,el/la dentista
+glasses,los anteojos
+glasses,las gafas
+stitch,el punto
+stitch,el flato
+death,el fallecimiento
+death,la muerte
+coma,el coma
+to cut oneself,cortarse
+blood test,la prueba de sangre
+care,los cuidados
+doctor,el médico
+to repeat on,repetir
+nutrition,la nutrición
+fever,la calentura
+fever,la fiebre
+injury,la lesión
+to treat,tratar
+drug,el fármaco
+disease,la enfermedad
+disease,la afección
+diabetes,la diabetes
+quarantine,la cuarentena
+lockdown,la cuarentena
+to take,tomar
+health care,la atención médica
+healthcare worker,el sanitario
+patient,el enfermo
+ill,enfermo
+emergency,la emergencia
+self-isolation,el autoaislamiento
+self-isolation,el aislamiento domiciliario
+cut,el corte
+pharmacy,la farmacia
+well,bien
+well-being,el bienestar
+hygiene,la higiene
+to take care of,cuidar
+nurse,el enfermero
+to die,morir
+outbreak,el brote
+outbreak,la ola
+hurt,dolido
+rash,el brote
+rash,el sarpullido
+organs of the human body,órganos del cuerpo humano
+ill,mal
+coronavirus,el coronavirus
+doctor,el doctor
+mask,la mascarilla
+healthy,saludable
+healthy,sano
+illness,la enfermedad
+pain,el dolor
+anatomy,la anatomía
+human body,el cuerpo humano
+physical,la revisión médica
+alive,vivo
+sick,mareado
+sick,enfermo
+hospital,el hospital
+medicine,el fármaco
+medicine,la medicina
+health,la salud
+medical,médico

@@ -1,0 +1,279 @@
+to compete,competir
+to draw,dibujar
+to take photos,sacar fotos
+to play basketball,jugar al baloncesto
+to cook,cocinar
+to write,escribir
+to play sports,practicar deportes
+to play the piano,tocar el piano
+to dance,bailar
+to swim,nadar
+to fish,pescar
+to scuba dive,bucear
+to jog,trotar
+to sing,cantar
+to knit,tejer
+to go to the museum,ir al museo
+to collect coins,coleccionar monedas
+to play soccer,jugar al fútbol
+to play board games,jugar juegos de mesa
+to do yoga,hacer yoga
+to act,actuar
+to learn languages,aprender idiomas
+to make handicrafts,hacer manualidades
+to watch movies,ver películas
+to climb,trepar
+to hang out with friends,juntarse con amigos
+to go skydiving,hacer paracaidismo
+to skate,patinar
+to play,jugar
+to skip,brincar
+to jump,saltar
+to hop,saltar a la pata coja
+tag,el corre que te pillo
+to hide,esconder
+hide-and-seek,las escondidas
+swing,el columpio
+sandbox,el cajón de arena
+playground,el parque infantil
+to push,empujar
+to pull,jalar
+toy,el juguete
+Frisbee,el frisbee
+rope,la cuerda
+tree house,casa del árbol
+roller coaster,la montaña rusa
+Ferris wheel,la noria
+carousel,el carrusel
+slide,el tobogán
+bumper cars,carros chocones
+acrobat,el/la acróbata
+clown,el payaso
+popcorn,el popcorn
+costume,el disfraz
+stilt,el zanco
+trapeze,el trapecio
+magician,el mago
+juggler,el/la malabarista
+cotton candy,el dulce de algodón
+prize,el premio
+food court,plaza de comida
+games of chance,los juegos de azar
+to ride,montar
+fireworks,los fuegos artificiales
+arts and crafts,las manualidades
+to sunbathe,tomar el sol
+to tell stories,contar cuentos
+climbing,la escalada
+mountain climbing,el montañismo
+mountaineering,el alpinismo
+to play golf,jugar al golf
+to play volleyball,jugar al voleibol
+piccolo,el flautín
+to drive,conducir
+to shoot,disparar
+networking,la creación de una red de contactos
+to talk on the phone,hablar por teléfono
+to jump rope,saltar a la cuerda
+to play games,jugar juegos
+to warm up,calentar
+to hum,tararear
+to nap,descansar
+to take a nap,tomar una siesta
+editing,la edición
+to take pictures,tomar fotos
+manga,el manga
+track and field,el atletismo
+theater,el teatro
+to twerk,perrear
+magic,la magia
+album,el álbum
+cumbia,la cumbia
+doodle,el monigote
+ice skating,el patinaje sobre hielo
+saxophone,el saxofón
+bowling,los bolos
+to sleep,dormir
+to play chess,jugar al ajedrez
+to write stories,escribir cuentos
+gymnastics,la gimnasia
+to dance tango,bailar tango
+scooter,el monopatín
+skateboarding,el skateboard
+expert,el experto
+intermediate,de nivel intermedio
+beginner,el/la principiante
+horseback riding,la equitación
+piracy,la piratería
+softball,el sóftbol
+road trip,el viaje por carretera
+musical,el musical
+boxing,el boxeo
+flamenco,el flamenco
+to design,diseñar
+to run,correr
+cake,el pastel
+to collect,coleccionar
+paddle,la pala
+keyboard,el teclado
+to train,entrenarse
+to compose,componer
+to perform,interpretar
+hockey,el hockey
+to relax,relajarse
+to laugh,reír
+to rap,rapear
+to read magazines,leer revistas
+adventure,la aventura
+to go to the beach,ir a la playa
+to play the drums,tocar la batería
+to play baseball,jugar al béisbol
+wrestling,la lucha libre
+series,la serie
+surfing,el surfing
+philosophy,la filosofía
+to get a haircut,cortarse el pelo
+to pull a prank,hacer una travesura
+to work out,hacer ejercicio
+to ride a bike,montar en bici
+to ride a horse,montar a caballo
+to style one's hair,peinarse
+homework,la tarea
+housework,los quehaceres
+spare time,el tiempo libre
+fitness,el mantenimiento
+ceramics,la cerámica
+amusement park,el parque de atracciones
+squash,el squash
+interests,intereses
+coaching,el entrenamiento
+astrology,la astrología
+skiing,el esquí
+to text,enviar mensajes de texto
+radio,el radio
+to watch videos,ver videos
+crochet,el crochet
+knitting,la labor de punto
+sewing,la costura
+gardening,la jardinería
+handball,el balonmano
+fashion,la moda
+water sports,los deportes acuáticos
+dominoes,el dominó
+checkers,las damas
+chess,el ajedrez
+drama,el drama
+choir,el coro
+to study,estudiar
+to go for a walk,pasear
+roller skating,el patinaje sobre ruedas
+figure skating,el patinaje artístico
+to play video games,jugar videojuegos
+to play tennis,jugar al tenis
+to go to concerts,ir a conciertos
+match,el partido
+fishing,la pesca
+poetry,la poesía
+to tell jokes,contar chistes
+golf,el golf
+customs and traditions,costumbres y tradiciones
+to go camping,ir de camping
+to have fun,divertirse
+to play an instrument,tocar un instrumento
+scuba diving,el submarinismo
+diving,el buceo
+to walk,andar
+trekking,el trekking
+mountain biking,ciclismo de montaña
+biking,el ciclismo
+volleyball,el voleibol
+leisure,el ocio
+yoga,el yoga
+athletics,el atletismo
+to rehearse,ensayar
+essay,el ensayo
+watercolor painting,la acuarela
+oil painting,la pintura al óleo
+to read the newspaper,leer el periódico
+to watch the news,ver las noticias
+entertainment,el entretenimiento
+film,la película
+hiking,el senderismo
+to go to the library,ir a la biblioteca
+pastel,el dibujo al pastel
+to sketch,esbozar
+drawing,el dibujo
+dancing,el baile
+show,el show
+singing,el canto
+dice,los dados
+to watch TV,ver la tele
+rest,el descanso
+cruise,el crucero
+gambling,las apuestas
+pool,el billar
+martial art,la arte marcial
+to ski,esquiar
+song,la canción
+to play the guitar,tocar la guitarra
+to fly,volar
+things to do,cosas que hacer
+jigsaw puzzle,el puzzle
+pastime,el pasatiempo
+media,medios de comunicación
+organ,el órgano
+ball,la pelota
+team,el equipo
+video game,el videojuego
+practice,el entrenamiento
+photography,la fotografía
+kayak,el kayak
+canoe,la canoa
+sailing,la navegación a vela
+boat,el barco
+gym,el gimnasio
+character,el personaje
+to paint,pintar
+zoo,el zoo
+jogging,el jogging
+running,el pedestrismo
+World Cup,la Copa Mundial
+swimming,la natación
+program,el programa
+reading,la lectura
+outdoors,al aire libre
+horoscope,el horóscopo
+cinema,el cinema
+television,la televisión
+baseball,el béisbol
+culture,la cultura
+notebook,el cuaderno
+free time,el tiempo libre
+story,el cuento
+exercise,el ejercicio
+garden,el jardín
+football,el fútbol
+to color,colorear
+routine,la rutina
+basketball,el baloncesto
+dance,el baile
+bass,el bajo
+to read,leer
+movie,la película
+party,la fiesta
+games,los juegos
+book,el libro
+art,el arte
+tourism,el turismo
+to travel,viajar
+soccer,el fútbol
+conversation,la conversación
+cooking,la cocina
+shopping,las compras
+activity,la actividad
+chores,las tareas domésticas
+vacation,la vacación
+holidays,la vacación
+music,la música
+hobby,el hobby
+sports,los deportes

@@ -1,0 +1,86 @@
+moisturizer,la crema hidratante
+concealer,el corrector
+foundation,la base
+brush,la brocha
+lip gloss,el brillo de labios
+lip liner,el delineador
+meditation,la meditación
+mindfulness,la concienciación
+wellness,el bienestar
+massage,el masaje
+relaxation,la relajación
+self-care,el autocuidado
+to treat oneself to,darse el gusto
+rest,el descanso
+yoga,el yoga
+sleep,el sueño
+high chair,la trona
+walker,el andador
+walker,la andadera
+baby carriage,el cochecito
+bottle,la mamadera
+overalls,el mameluco
+bib,el babero
+rattle,la sonaja
+bottle,el biberón
+cradle,la cuna
+thermometer,el termómetro
+onesie,el osito
+onesie,el pelele
+sock,el calcetín
+blanket,la manta
+wrap,el rebozo
+stroller,la sillita
+stroller,la carriola
+eye shadow,la sombra de ojos
+makeup,el maquillaje
+beauty product,el cosmético
+shave,el afeitado
+haircut,corte de pelo
+face mask,la mascarilla
+curler,el rulo
+curler,el tubo
+to get one's hair done,peinarse
+hair straightener,la plancha
+to comb one's hair,peinarse
+to take care of oneself,cuidarse
+perfume,el perfume
+Kleenex,el kleenex
+healthy lifestyle,estilo de vida saludable
+diaper,el pañal
+shower,la ducha
+wash your hands,lávate las manos
+well-being,el bienestar
+health,la salud
+to take a bath,bañarse
+personal hygiene,el aseo personal
+toiletries,el útiles de aseo
+nail clippers,el cortaúñas
+nail polish remover,el quitaesmalte
+nail file,la lima
+nail polish,el esmalte de uñas
+shower gel,el gel de ducha
+eyeliner,el delineador
+tweezers,las pinzas
+sunblock,la crema protectora
+toner,la loción tonificante
+blush,el colorete
+to floss,limpiarse con hilo dental
+face powder,el polvo
+comb,el peine
+lotion,la loción
+conditioner,el acondicionador
+headband,la diadema
+deodorant,desodorante
+cologne,la colonia
+soap,el jabón
+mascara,el rímel
+shampoo,el shampoo
+brush,el cepillo
+lipstick,la barra de labios
+lipstick,el pintalabios
+toothpaste,el dentífrico
+toothpaste,la pasta de dientes
+razor,la rasuradora
+razor,la maquinilla
+toothbrush,el cepillo de dientes

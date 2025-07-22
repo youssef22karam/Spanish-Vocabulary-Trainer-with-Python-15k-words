@@ -1,0 +1,250 @@
+journalist,el/la periodista
+artist,el/la artista
+sailor,el marinero
+landline,teléfono fijo
+mobile phone,el celular
+cell phone,el teléfono celular
+phone,el teléfono
+postage,el franqueo
+stamp,el sello
+folder,la carpeta
+stapler,la grapadora
+scissors,la tijera
+pencil,el lápiz
+pen,el bolígrafo
+bookcase,la librería
+battery,la pila
+desk,el escritorio
+chair,la silla
+letter,la carta
+tape,el tape
+ruler,la regla
+rubber band,la gomita
+wastepaper basket,la papelera
+paper clip,el clip
+envelope,el sobre
+paper,el papel
+printer,la impresora
+computer,el ordenador
+highlighter,el rotulador fluorescente
+whiteboard,la pizarra blanca
+judge,el magistrado
+businesswoman,la empresaria
+businessman,el empresario
+firefighter,el bombero
+police officer,el/la policía
+postman,el cartero
+soldier,el/la soldado
+veterinarian,el veterinario
+editor,el editor
+writer,el escritor
+programmer,el programador
+builder,el constructor
+architect,el arquitecto
+paramedic,el paramédico
+nutritionist,el/la nutricionista
+flight attendant,la azafata
+researcher,el investigador
+scientist,el científico
+inventor,el inventor
+carpenter,el carpintero
+receptionist,el recepcionista
+ability,la habilidad
+poet,el/la poeta
+photographer,el fotógrafo
+engineer,el ingeniero
+sales,las ventas
+bellhop,el/la botones
+cleaner,el limpiador
+chaplain,el capellán
+to do for a living,dedicarse
+warrior,el guerrero
+rate,la tarifa
+office,el consultorio
+building site,la obra
+gaucho,el gaucho
+mechanic,el mecánico
+retired,jubilado
+to support oneself,sustentarse
+farmhand,el gañán
+painter,el pintor
+teaching,la docencia
+electrician,el/la electricista
+profession,el gremio
+to train,entrenar
+administrative assistant,el auxiliar administrativo
+to recommend,recomendar
+cart driver,el carretero
+forensic scientist,el forense
+tenant farmer,el rentero
+paid,pagado
+internship,las prácticas
+What do you do for a living?,¿A qué te dedicas?
+pilot,el/la práctico
+pilot,el/la piloto
+interview,la entrevista
+colleague,el/la colega
+pediatrician,el/la pediatra
+unemployed,desempleado
+candidate,el pretendiente
+pianist,el/la pianista
+salary,el sueldo
+vet,el veterinario
+doctor,el doctor
+dancer,el bailarín
+to make a living,ganarse la vida
+in the office,en el consultorio
+documents,la documentación
+dishwasher,el/la friegaplatos
+thief,el ladrón
+doorman,el portero
+social worker,el trabajador social
+interior design,el interiorismo
+author,el escritor
+rider,el/la piloto
+sewing,la costura
+guide,el/la guía
+plumber,el fontanero
+construction worker,el/la albañil
+farmer,el agricultor
+gang,la pandilla
+priest,el cura
+preacher,el predicador
+job application,la solicitud de empleo
+reference,la referencia
+trade,el oficio
+lifeguard,el/la socorrista
+workshop,el obrador
+workshop,el taller
+major,el/la comandante
+puppet,la comparsa
+labor,la labor
+job interview,entrevista de trabajo
+holiday,festivo
+to perform,realizar
+cook,el cocinero
+chef,el/la chef
+army,el ejército
+criminal justice,la justicia criminal
+mentor,el mentor
+CV,CV
+résumé,CV
+performance,la performance
+province,la competencia
+clerk,el empleado
+accounting,la contabilidad
+pirate,el/la pirata
+secretary,el secretario
+plumbing,la fontanería
+assignment,la encomienda
+owner,el dueño
+to be promoted,ascender
+liaison,el/la enlace
+full time,tiempo completo
+part time,media jornada
+to apply,presentar una solicitud
+president,el presidente
+day laborer,el jornalero
+nurse,el enfermero
+to work,trabajar
+police,la policía
+hard job,el trabajo duro
+queen,la reina
+legal practice,el bufete
+boss,el jefe
+experience,la experiencia
+perk,la ventaja
+bonus,la extraordinaria
+leadership,el liderazgo
+to retire,jubilarse
+rise,el aumento
+raise,el aumento
+athlete,el/la atleta
+stress,el stress
+host,el presentador
+domestic staff,el servicio
+salesperson,el vendedor
+accountant,el/la contable
+service,el servicio
+taxi driver,el/la taxista
+banking,la banca
+computer specialist,el informático
+comedian,el cómico
+gardener,el jardinero
+coach,el entrenador
+coach,el/la coach
+to apply for,solicitar
+skills,las funciones
+employment,el empleo
+research,la investigación
+What is your job?,¿En qué trabajas tú?
+presentation,la presentación
+dentist,el/la dentista
+court,el juzgado
+equipment,el equipamiento
+application,la solicitud
+business,el negocio
+lawyer,el abogado
+apprentice,el/la aprendiz
+professional,profesional
+appointment,la cita
+to clean,limpiar
+workday,la jornada laboral
+working,laborable
+company,la compañía
+company,la empresa
+fisherman,el pescador
+waiter,el camarero
+office,la oficina
+workplace,el lugar de trabajo
+real estate,inmobiliario
+warehouse,el almacén
+teacher,el profesor
+teacher,el maestro
+principal,el director del colegio
+head teacher,el director
+head,el/la mayor
+model,el/la modelo
+professor,el profesor universitario
+to manage,dirigir
+expert,el experto
+judge,el juez
+customer service,el servicio al cliente
+task,la tarea
+kitchen assistant,el pinche
+to sack,despedir
+to fire,despedir
+suit,el traje
+retail,minorista
+capital,el capital
+singer,el/la cantante
+timetable,el horario
+schedule,el horario
+break,el descanso
+meeting,la reunión
+building,constructor
+finance,las finanzas
+to build,construir
+manager,el/la gerente
+actress,la actriz
+actor,el actor
+to earn,ganar
+sick leave,la baja
+maid,la sirvienta
+translator,el traductor
+personnel,el personal
+farmer,el granjero
+legal,legal
+position,el cargo
+position,el puesto
+student,el/la estudiante
+career,la carrera
+employee,el empleado
+tools,los útiles
+law,el derecho
+occupation,la ocupación
+construction work,la obra
+profession,la profesión
+job,el empleo
+job,el trabajo
+work,el trabajo

@@ -1,0 +1,31 @@
+Spanish,el castellano
+Swahili,el suajili
+Urdu,el urdu
+Vietnamese,el vietnamita
+Turkish,el turco
+Russian,el ruso
+Hindi,el hindi
+Bengali,el bengalí
+Mandarin,el mandarín
+speaker,el/la hablante
+Portuguese,el portugués
+Hebrew,el hebreo
+Italian,el italiano
+Arabic,el árabe
+Thai,el tailandés
+sign language,la lengua de signos
+German,el alemán
+voice,la voz
+translation,la traducción
+pronunciation,la pronunciación
+conversation,la conversación
+fluent,suelto
+to speak,hablar
+accent,el acento
+Chinese,el chino
+Korean,el coreano
+Japanese,el japonés
+French,el francés
+language,el idioma
+English,el inglés
+Spanish,el español

@@ -1,0 +1,71 @@
+after,luego de
+except for,excepto
+across,a través de
+via,vía
+between,entre
+such as,como
+inside,en menos de
+inside,dentro de
+except,excepto
+near,cerca de
+against,frente
+opposite,frente
+save,salvo
+except,salvo
+until,hasta
+next to,junto
+under,debajo de
+above,por encima de
+above,encima de
+through,a través de
+below,abajo de
+as,como
+past,más allá de
+opposite,enfrente
+to,hasta
+to,para
+to,menos
+in,en
+about,sobre
+around,alrededor
+like,como
+before,antes
+after,después de
+to,a
+before,ante
+close to,cabe
+with,con
+against,contra
+from,de
+of,de
+since,desde
+from,desde
+on,en
+between,entre
+among,entre
+toward,hacia
+about,hacia
+until,hasta
+for,para
+because of,por
+for,por
+through,por
+according to,según
+depending on,según
+by,por
+without,sin
+over,sobre
+around,sobre
+after,tras
+behind,tras
+at,a
+compared to,ante
+in spite of,con
+to,con
+point,con
+into,contra
+in,de
+with,de
+during,durante
+in,durante
+for,durante

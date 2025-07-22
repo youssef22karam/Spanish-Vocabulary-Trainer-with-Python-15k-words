@@ -1,0 +1,207 @@
+earthquake,el terremoto
+creeper,la enredadera
+pine cone,la piña
+bark,la corteza
+vine,la vid
+dandelion,el diente de león
+trunk,el tronco
+pollen,el polen
+wheat,el trigo
+marigold,la maravilla
+petunia,la petunia
+primrose,la primavera
+calendula,la caléndula
+Madonna lily,la azucena
+lavender,la lavanda
+iris,el lirio
+hyacinth,el jacinto
+azalea,el/la azalea
+honeysuckle,la madreselva
+begonia,la begonia
+geranium,el geranio
+daffodil,el narciso
+violet,la violeta
+saffron,el azafrán
+chrysanthemum,el crisantemo
+garlic,el ajo
+cactus,el cactus
+corn,el maíz
+bush,la mata
+moss,el musgo
+shrub,la mata
+ivy,la hiedra
+bamboo,el bambú
+reed,el carrizo
+cattail,la anea
+fern,el helecho
+mushroom,la seta
+herb,la hierba
+thistle,el cardo
+fertilizer,el abono
+nutrient,el nutriente
+pollination,la polinización
+yucca,la yuca
+husk,la cascarilla
+pod,la vaina
+sap,la savia
+orchard,el huerto
+thorn,la espina
+sod,la champa
+prickly pear,el nopal
+petal,el pétalo
+bunch,el racimo
+growth,el crecimiento
+out,en flor
+crop,la cosecha
+to prune,podar
+to sow,sembrar
+pine,el pino
+palm tree,la palmera
+date palm,la támara
+daisy,la margarita
+snapdragon,la becerra
+carnation,el clavel
+jasmine,el jazmín
+magnolia,la magnolia
+gardenia,la gardenia
+pansy,la trinitaria
+poppy,la amapola
+forget-me-not,el nomeolvides
+branch,la rama
+sunflower,el girasol
+stem,el tallo
+plant,la planta
+camellia,la camelia
+orchid,la orquídea
+hibiscus,el hibisco
+hydrangea,la hortensia
+lilac,la lila
+dahlia,la dalia
+tulip,el tulipán
+weed,la mala hierba
+root,la raíz
+bud,el capullo
+to blossom,florecer
+seed,la semilla
+acorn,la bellota
+native,oriundo
+indigenous,autóctono
+storm,la tormenta
+drought,la sequía
+rapids,los rápidos
+current,la corriente
+deep,profundo
+shallow,poco profundo
+face,la faz
+ebony,el ébano
+fresh,dulce
+low tide,la bajamar
+high tide,la pleamar
+tsunami,el tsunami
+maple,el arce
+oak,el roble
+beech,el haya
+crater,el cráter
+reservoir,el embalse
+swamp,el pantano
+bog,el cenagal
+fountain,la fuente
+spring,el manantial
+fjord,el fiordo
+inlet,el abra
+cove,la cala
+bank,la ribera
+stick,el palo
+desert,el desierto
+strait,el estrecho
+channel,el canal
+dirt,la tierra
+sand,la arena
+soil,el suelo
+mineral,el mineral
+panorama,el panorama
+seashore,la orilla del mar
+pass,el paso
+organic,orgánico
+reef,el arrecife
+cay,el cayo
+plain,la llanura
+shore,la orilla
+choppy,encrespado
+stream,el arroyo
+fauna,la fauna
+flora,la flora
+rough,agreste
+air,el aire
+water,el agua
+cape,el cabo
+harbor,el puerto
+port,el puerto
+savanna,la sabana
+leaf,la hoja
+brook,el riachuelo
+evolution,la evolución
+stone,la piedra
+rock,la piedra
+avalanche,la avalancha
+landslide,el alud
+natural disaster,el desastre natural
+agriculture,la agricultura
+hay,el heno
+straw,la paja
+carbon footprint,huella de carbono
+star,la estrella
+lava,la lava
+land,la tierra
+sprout,el retoño
+pollution,la contaminación
+rainbow,el arco iris
+wave,la ola
+global warming,el calentamiento global
+meadow,el prado
+field,el campo
+grass,la hierba
+moon,la luna
+countryside,el campo
+landscape,el paisaje
+climate change,el cambio climático
+wilted,lacio
+rose,la rosa
+lotus,el loto
+peak,el pico
+blizzard,la ventisca
+waterspout,la tromba
+hurricane,el huracán
+tornado,el tornado
+flood,la inundación
+snow,la nieve
+hail,el granizo
+wind,el viento
+rain,la lluvia
+ice,el hielo
+sun,el sol
+planet,el planeta
+sky,el cielo
+forest fire,el incendio forestal
+fire,el fuego
+tree,el árbol
+rainforest,bosque lluvioso
+jungle,la selva
+woods,el bosque
+forest,el bosque
+sunrise,la salida del sol
+sunset,el ocaso
+peninsula,la península
+island,la isla
+valley,el valle
+mountain,la montaña
+hill,el cerro
+delta,el delta
+sea,el/la mar
+ocean,el océano
+pond,el estanque
+lake,el lago
+river,el río
+plateau,la meseta
+flower,la flor
+nature,la naturaleza

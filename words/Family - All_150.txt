@@ -1,0 +1,150 @@
+second cousin,el primo segundo
+grandkid,el nieto
+maternal grandparents,los abuelos maternos
+paternal grandparents,abuelos paternos
+grandchildren,los nietos
+first cousin,el primo hermano
+great-grandchildren,bisnietos
+great-granddaughter,la bisnieta
+great-grandson,el bisnieto
+great-grandmother,la bisabuela
+great-grandfather,el bisabuelo
+great-great-grandchild,el tataranieto
+great-great-granddaughter,la tataranieta
+great-great-grandparents,los tatarabuelos
+great-great-grandson,el tataranieto
+great-great-grandmother,la tatarabuela
+great-great-grandfather,el tatarabuelo
+great-aunt,la tía abuela
+great-uncle,el tío abuelo
+stepchildren,los hijastros
+son-in-law,el yerno
+daughter-in-law,la nuera
+in-laws,la familia política
+parents-in-law,los suegros
+father-in-law,el suegro
+mother-in-law,la suegra
+brother-in-law,el cuñado
+older brother,hermano mayor
+older sister,hermana mayor
+big sister,hermana mayor
+big brother,hermano mayor
+younger brother,el hermano menor
+younger sister,la hermana menor
+little brother,el hermanito
+little sister,la hermanita
+brother and sister,hermano y hermana
+husband and wife,los esposos
+newlyweds,recién casados
+high chair,la trona
+walker,el tacatá
+baby carriage,el cochecito
+bib,el babero
+stroller,el cochecito
+rattle,la sonaja
+sock,el calcetín
+blanket,la manta
+wrap,el rebozo
+stroller,la carriola
+overalls,el mameluco
+onesie,el osito
+diaper,el pañal
+thermometer,el termómetro
+bottle,el biberón
+baby bottle,el chupón
+crib,la cuna
+child car seat,el asiento infantil
+cradle,la cuna
+inheritance,la herencia
+sis,el carnalito
+adopted,adoptado
+Junior,júnior
+care,el cuidado
+better half,media naranja
+other half,la costilla
+clan,el clan
+tribe,la tribu
+stepmother,la madrastra
+stepson,el hijastro
+stepdaughter,la hijastra
+stepbrother,el hermanastro
+stepsister,la hermanastra
+last name,el apellido
+to adore,adorar
+spouse,el/la cónyuge
+relation,el pariente
+ancestor,el antepasado
+extended family,la familia extendida
+goddaughter's mother,la comadre
+goddaughter's father,el compadre
+goddaughter,la ahijada
+godson,el ahijado
+reunion,el reencuentro
+partner,la pareja
+same-sex,homoparental
+niece,la sobrina
+senior,sénior
+to spoil,malcriar
+bride,la novia
+guardian,el tutor
+family name,el apellido
+mommy,la mamacita
+to get together,juntarse
+grandparents,los abuelos
+blood,la sangre
+sister-in-law,la cuñada
+stepfather,el padrastro
+siblings,los hermanos
+single,soltero
+single,el single
+grandson,el nieto
+foster,de acogida
+love,el amor
+granddaughter,la nieta
+affection,el cariño
+marriage,el matrimonio
+younger,menor
+to get married,casarse
+girlfriend,la novia
+boyfriend,el novio
+to raise,criar
+twin,mellizo
+twin,gemelo
+little,pequeño
+I love you,te amo
+family tree,el árbol genealógico
+lover,el/la amante
+uncle,el tío
+married,casado
+grandfather,el abuelo
+grandmother,la abuela
+auntie,la tita
+cousin,el primo
+cousin,la prima
+daughter,la hija
+dear,mijo
+sister,la hermana
+wedding,la boda
+aunt,la tía
+relative,el/la familiar
+parents,los padres
+child,el niño
+nephew,el sobrino
+brother,el hermano
+children,los hijos
+son,el hijo
+dating,salir en citas
+husband,el marido
+pop,el papi
+daddy,el papi
+father,el padre
+dad,el papá
+relationship,la relación
+wife,la esposa
+baby,el/la baby
+mommy,la mami
+mum,la mamá
+mom,la mamá
+mother,la madre
+family member,el/la miembro de la familia
+family,la familia

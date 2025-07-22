@@ -1,0 +1,38 @@
+plane,el avión
+car,el coche
+jump rope,el lazo de saltar
+domino,el dominó
+spinning top,el trompo
+board game,el juego de mesa
+games,los juegos
+basketball,el baloncesto
+football,el balón de fútbol
+soccer ball,la pelota de fútbol
+ball,la pelota
+story,el cuento
+kite,la cometa
+skateboard,la patineta
+marble,la canica
+colored pencils,los lápices de colores
+pencil,el lápiz
+watercolor,la acuarela
+paint,la pintura
+crayons,los colores
+to color,colorear
+to paint,pintar
+to draw,dibujar
+chalk,la tiza
+train,el tren
+playful,juguetón
+play,el juego
+ring-around-the-rosy,el corro
+kids,jóvenes
+top,la peonza
+slide,el tobogán
+playground,el patio
+swing,el columpio
+doll,la muñeca
+jigsaw puzzle,el puzzle
+bike,la bici
+bicycle,la bicicleta
+toy,el juguete

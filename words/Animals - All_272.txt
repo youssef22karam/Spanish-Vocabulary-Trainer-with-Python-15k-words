@@ -1,0 +1,272 @@
+oyster,la ostra
+bull,el toro
+groundhog,la marmota de América
+shrew,la musaraña
+gerbil,el jerbo
+baboon,el babuino
+earwig,la tijereta
+ladybird,la mariquita
+crow,la corneja
+plankton,el plancton
+mahi-mahi,el dorado
+krill,el kril
+flounder,la acedia
+clown fish,el pez payaso
+narwhal,el narval
+hermit crab,el ermitaño
+conch,la caracola
+newt,el tritón
+slug,la babosa
+black widow,la viuda negra
+lioness,la leona
+puma,el puma
+canine,canino
+feline,el felino
+bobcat,el gato montés
+ocelot,el ocelote
+panther,la pantera
+tiger,el tigre
+diurnal,diurno
+carnivore,el/la carnívoro
+omnivore,el omnívoro
+herbivore,el herbívoro
+carnivorous,carnívoro
+nocturnal,nocturno
+wild,salvaje
+domesticated,domesticado
+tame,manso
+gentle,apacible
+docile,dócil
+ferocious,fiero
+stubborn,terco
+rabid,rabioso
+affectionate,afectuoso
+fluffy,esponjoso
+fierce,feroz
+loving,amoroso
+terrifying,aterrador
+cute,mono
+hare,la liebre
+chipmunk,la ardilla listada
+ferret,el hurón
+weasel,la comadreja
+zebra,la cebra
+mink,el visón
+raccoon,el mapache
+mole,el topo
+gazelle,la gacela
+stag,el venado
+sloth,el perezoso
+badger,el tejón
+antelope,el antílope
+beaver,el castor
+lynx,el lince
+snow leopard,la onza
+sea turtle,la tortuga de mar
+anaconda,la anaconda
+cobra,la cobra
+python,la pitón
+rattlesnake,el crótalo
+iguana,la iguana
+caiman,el caimán
+salamander,la salamandra
+leech,la sanguijuela
+snail,el caracol
+moth,la polilla
+lightning bug,la luciérnaga
+mite,el ácaro
+locust,la langosta
+weevil,el gorgojo
+aphid,el pulgón
+louse,el piojo
+beetle,el escarabajo
+flea,la pulga
+cockroach,la cucaracha
+praying mantis,la mantis religiosa
+ladybug,la mariquita
+dragonfly,la libélula
+cricket,el grillo
+grasshopper,el saltamontes
+grasshopper,el chapulín
+bedbug,el/la chinche
+cicada,la chicharra
+tarantula,la tarántula
+insect,el insecto
+bug,el bicho
+centipede,el ciempiés
+tick,la garrapata
+mosquito,el mosquito
+fly,la mosca
+caterpillar,la oruga
+bumblebee,el abejorro
+firefly,la luciérnaga
+scorpion,el escorpión
+scorpion,el alacrán
+piglet,el lechón
+alpaca,la alpaca
+llama,la llama
+kid,el chivo
+duckling,el patito
+hen,la gallina
+filly,la potra
+mule,el mulo
+vulture,el buitre
+turkey,el pavo
+toucan,el tucán
+falcon,el halcón
+stork,la cigüeña
+sparrow,el gorrión
+peacock,el pavo real
+ostrich,el avestruz
+robin,el petirrojo
+cockatoo,la cacatúa
+albatross,el albatros
+cardinal,el cardenal
+goose,el ganso
+flamingo,el flamenco
+trout,la trucha
+catfish,el bagre
+herring,el arenque
+carp,la carpa
+salmon,el salmón
+piranha,la piraña
+sea bass,la lubina
+swordfish,el emperador
+shrimp,la gamba
+shrimp,el camarón
+sponge,la esponja
+puffer fish,el pez globo
+sawfish,el pez sierra
+mackerel,la caballa
+whale calf,el ballenato
+eel,la anguila
+manatee,el manatí
+cod,el bacalao
+barracuda,la barracuda
+anchovy,el boquerón
+seahorse,el caballo de mar
+cuttlefish,la sepia
+clam,la almeja
+crab,el cangrejo
+coral,el coral
+mussel,el mejillón
+seagull,la gaviota
+pelican,el pelícano
+puffin,el frailecillo
+otter,la nutria
+starfish,la estrella de mar
+lobster,el bogavante
+scallop,la vieira
+jellyfish,la medusa
+killer whale,la orca
+squid,el calamar
+bark,el ladrido
+breed,la raza
+mew,el miau
+exercise,el ejercicio
+to swoop down,abatirse
+to take out for a walk,sacar a pasear
+to feed,dar de comer
+to pet,acariciar
+to growl,gruñir
+to mate,aparear
+to castrate,capar
+to purr,ronronear
+to neuter,castrar
+to spay,esterilizar
+to sterilize,esterilizar
+to tame,domar
+to bite,morder
+to sting,picar
+to gallop,galopar
+to fly,volar
+to swoop down on,abalanzarse sobre
+perch,la percha
+to scratch,arañar
+to scratch,rascar
+rhinoceros,el rinoceronte
+toad,el sapo
+budgie,el periquito
+goldfish,el pez dorado
+veterinarian,el veterinario
+toy,el juguete
+leash,la correa
+collar,el collar
+litter box,la caja de arena
+brush,el cepillo
+cage,la jaula
+doghouse,la casa del perro
+tortoise,la tortuga
+turtle,la tortuga
+bee,la abeja
+wasp,la avispa
+butterfly,la mariposa
+spider,la araña
+worm,la lombriz
+worm,el gusano
+dolphin,el/la delfín
+crocodile,el cocodrilo
+frog,la rana
+elephant,el elefante
+camel,el camello
+giraffe,la jirafa
+hippopotamus,el hipopótamo
+bat,el murciélago
+duck,el pato
+parrot,el loro
+penguin,el pingüino
+swan,el cisne
+dog,el can
+cat,el gato
+dog,el perro
+rabbit,el conejo
+squirrel,la ardilla
+pig,el cerdo
+bunny,el conejito
+guinea pig,el cuy
+guinea pig,el/la cobaya
+hamster,el hámster
+rat,la rata
+mouse,el ratón
+snake,la culebra
+snake,la serpiente
+viper,la víbora
+whale,la ballena
+shark,el tiburón
+fish,el pez
+gorilla,el/la gorila
+monkey,el mono
+fox,el zorro
+bear,el oso
+deer,el venado
+polar bear,el oso polar
+wolf,el lobo
+sea lion,el león marino
+seal,la foca
+lion,el león
+hyena,la hiena
+hummingbird,el colibrí
+eagle,el águila
+owl,el búho
+donkey,el burro
+ram,el carnero
+lamb,el cordero
+sheep,el borrego
+sheep,la oveja
+goat,la cabra
+horse,el caballo
+cow,la vaca
+ox,el buey
+octopus,el pulpo
+manta ray,la mantarraya
+bison,el bisonte
+sea urchin,el erizo de mar
+hedgehog,el erizo
+capybara,la capibara
+anteater,el oso hormiguero
+cheetah,el guepardo
+leopard,el leopardo
+jaguar,el jaguar
+coyote,el coyote
+opossum,la zarigüeya
+bird,el pájaro
