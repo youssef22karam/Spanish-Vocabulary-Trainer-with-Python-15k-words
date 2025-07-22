@@ -29,14 +29,7 @@ The application provides a clean, intuitive interface with:
 - Python 3.7 or higher
 - Internet connection (for image search and AI features)
 
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/spanish-vocabulary-trainer.git
-cd spanish-vocabulary-trainer
-```
-
-### Step 2: Install Dependencies
+### Step 1: Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -52,7 +45,7 @@ pip install gtts pygame Pillow requests beautifulsoup4 pyperclip
 pip install ollama
 ```
 
-### Step 3: Set Up Vocabulary Files
+### Step 2: Set Up Vocabulary Files
 
 Create a `words` folder in the project directory and add your vocabulary files:
 
@@ -62,7 +55,7 @@ mkdir words
 
 Place your vocabulary text files in this folder (see [Vocabulary File Format](#vocabulary-file-format) below).
 
-### Step 4: Optional - Install Ollama for AI Sentences
+### Step 3: Optional - Install Ollama for AI Sentences
 
 For enhanced AI-generated example sentences:
 
