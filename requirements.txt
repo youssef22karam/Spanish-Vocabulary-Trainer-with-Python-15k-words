@@ -1,0 +1,24 @@
+# Core GUI and System Libraries
+tkinter  # Usually included with Python, but listed for completeness
+
+# Audio and Text-to-Speech
+gtts>=2.3.0
+pygame>=2.1.0
+
+# Image Processing
+Pillow>=9.0.0
+
+# Web Requests and HTML Parsing
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+
+# Clipboard Functionality
+pyperclip>=1.8.0
+
+# AI Integration (Optional - for enhanced sentence generation)
+ollama>=0.1.0
+
+# Note: If you encounter issues with tkinter, you may need to install it separately:
+# On Ubuntu/Debian: sudo apt-get install python3-tk
+# On macOS: tkinter is usually included with Python
+# On Windows: tkinter is included with Python
